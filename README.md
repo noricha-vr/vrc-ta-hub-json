@@ -7,8 +7,6 @@ VRChat 技術学術系イベントHubのデータを取得して、Github Pages�
 
 - [VRChat技術学術系イベントHub](https://vrc-ta-hub.com/)
 
-## データの取得
-
 - 集会情報: <https://vrc-ta-hub.com/api/v1/community/>
 - イベント情報: <https://vrc-ta-hub.com/api/v1/event/>　過去の情報は表示しない
 - LT情報: <https://vrc-ta-hub.com/api/v1/event_detail/>　過去の情報は表示しない
