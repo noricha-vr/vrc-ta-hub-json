@@ -1,13 +1,16 @@
-# github-pages-sample
+# VRChat TA Hub
 
-Googleスプレッドシートから作成したJSONファイルを取ってきてGithub Pagesで表示するサンプルです。
+Untranslated URL の問題に対応するため、
+VRChat 技術学術系イベントHubのデータを取得して、Github Pagesで公開します。
 
-Github Actionsで定期的にJSONファイルを更新しています。
+## データの取得元
 
-## 処理の流れ
+- [VRChat TA Hub](https://vrc-ta-hub.com/)
 
-[Googleスプレッドシートから作ったJSON](https://script.googleusercontent.com/macros/echo?user_content_key=UwWYDEdbLFoKHVMzK1b9gtpwjVZv-MGw9tekXlsI34RHC_pNkQFTQjdQQvTc3Z-x1adgDoV7j8QCJM0CiJvs2dSu46ZzjKIkm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnJdgNG2cQvZjSgoYy3SiiaVo1_sc_kd3moTIsaiIQK_BWhuoQM4-TmIwNOwUK3_lyWXu0pIj0wWr48a0p1bdH4dW0m2lyD18cNz9Jw9Md8uu&lib=MLoMIN9FtTpFMSP_bVTuP0D8rQg-QTqZL)
+## データの取得
 
-↓fetch_data.pyで更新
+- 集会情報: <https://vrc-ta-hub.com/api/v1/community/>
+- イベント情報: <https://vrc-ta-hub.com/api/v1/event/>　過去の情報は表示しない
+- LT情報: <https://vrc-ta-hub.com/api/v1/event_detail/>　過去の情報は表示しない
 
-[Github Pagesに出力されたJSON](https://noricha-vr.github.io/github-pages-sample/sample.json)
+データの取得は、`fetch_data.py`を実行します。
