@@ -2,7 +2,7 @@ name: Scheduled Data Fetch
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/6 * * * *'
 
 jobs:
   fetch-and-save:
