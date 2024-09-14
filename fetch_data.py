@@ -6,6 +6,7 @@ if __name__ == '__main__':
     # 指定されたURL
     urls = {
         'community': 'https://vrc-ta-hub.com/api/v1/community/?format=json',
+        'event': 'https://vrc-ta-hub.com/api/v1/event/?format=json',
         'lt': 'https://vrc-ta-hub.com/api/v1/event_detail/?format=json',
     }
     for name, url in urls.items():
