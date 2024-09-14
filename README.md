@@ -5,7 +5,7 @@ VRChat 技術学術系イベントHubのデータを取得して、Github Pages�
 
 ## データの取得元
 
-- [VRChat TA Hub](https://vrc-ta-hub.com/)
+- [VRChat技術学術系イベントHub](https://vrc-ta-hub.com/)
 
 ## データの取得
 
