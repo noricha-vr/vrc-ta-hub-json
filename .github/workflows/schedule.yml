@@ -31,5 +31,5 @@ jobs:
       with:
         external_repository: noricha-vr/vrc-ta-hub-json
         publish_branch: gh-pages
-        github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         publish_dir: ./docs
