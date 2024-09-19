@@ -80,6 +80,47 @@
         "theme": "パチンコでの稼ぎ方。パチプロとしての生き方、ぶっちゃけいくらぐらい稼げるのか"
     },
     {
+        "id": 91,
+        "event": {
+            "id": 455,
+            "community": {
+                "id": 53,
+                "name": "VRC微分音集会",
+                "created_at": "2024-09-13",
+                "updated_at": "2024-09-14",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Fri"
+                ],
+                "frequency": "月1回",
+                "organizers": "MisohitoNakai",
+                "group_url": "https://vrchat.com/home/group/grp_550cf370-c27b-4835-b07e-de919b0c03e1",
+                "organizer_url": "https://vrchat.com/home/user/usr_90397ef6-2541-47e7-b4eb-0aedc6e34b83",
+                "sns_url": "https://x.com/XENMVR",
+                "discord": "https://discord.gg/7BSnUpwu7b",
+                "twitter_hashtag": "#VRC微分音集会",
+                "poster_image": null,
+                "description": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。",
+                "platform": "All",
+                "tags": [
+                    "tech",
+                    "academic"
+                ]
+            },
+            "date": "2024-10-04",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Fri"
+        },
+        "start_time": "22:05:00",
+        "duration": 45,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "MisohitoNakai",
+        "theme": "12平均律を越えた音楽理解を目指して"
+    },
+    {
         "id": 83,
         "event": {
             "id": 293,
