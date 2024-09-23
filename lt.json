@@ -159,5 +159,45 @@
         "slide_url": null,
         "speaker": "BOXP",
         "theme": "自宅k8s clusterはじめてみた"
+    },
+    {
+        "id": 113,
+        "event": {
+            "id": 286,
+            "community": {
+                "id": 19,
+                "name": "個人開発集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2024-08-20",
+                "start_time": "21:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Thu"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "のりちゃん",
+                "group_url": "https://vrc.group/KKS.7293",
+                "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+                "sns_url": "https://x.com/noricha_vr",
+                "discord": "https://discord.gg/k8FPwtZ4fs",
+                "twitter_hashtag": "#個人開発集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaihatsu-1000-1000_DvoR7Pv_zx0Ov6o.jpeg",
+                "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2024-09-26",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekday": "Thu"
+        },
+        "start_time": "22:00:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "fog",
+        "theme": "P2Pで作る異世界"
     }
 ]
