@@ -99,7 +99,7 @@
             "id": 18,
             "name": "データサイエンティスト集会",
             "created_at": "2024-06-05",
-            "updated_at": "2024-09-23",
+            "updated_at": "2024-09-30",
             "start_time": "21:00:00",
             "duration": 90,
             "weekdays": [
@@ -112,7 +112,7 @@
             "sns_url": "https://x.com/dsGathering_vrc",
             "discord": "https://discord.gg/U4GJPhuZ8S",
             "twitter_hashtag": "#DS集会VRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000.jpeg",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000-1000.jpeg",
             "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
             "platform": "All",
             "tags": [
@@ -1035,7 +1035,7 @@
             "id": 18,
             "name": "データサイエンティスト集会",
             "created_at": "2024-06-05",
-            "updated_at": "2024-09-23",
+            "updated_at": "2024-09-30",
             "start_time": "21:00:00",
             "duration": 90,
             "weekdays": [
@@ -1048,7 +1048,7 @@
             "sns_url": "https://x.com/dsGathering_vrc",
             "discord": "https://discord.gg/U4GJPhuZ8S",
             "twitter_hashtag": "#DS集会VRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000.jpeg",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000-1000.jpeg",
             "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
             "platform": "All",
             "tags": [
@@ -1778,6 +1778,37 @@
         "weekday": "Sun"
     },
     {
+        "id": 503,
+        "community": {
+            "id": 1,
+            "name": "自作PC交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "不定期",
+            "organizers": "eigo・きーたん",
+            "group_url": "",
+            "organizer_url": "eigo・きーたん",
+            "sns_url": "",
+            "discord": "https://discord.gg/zDRmrjgUnR",
+            "twitter_hashtag": "",
+            "poster_image": null,
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-10-27",
+        "start_time": "21:30:00",
+        "duration": 90,
+        "weekday": "Sun"
+    },
+    {
         "id": 357,
         "community": {
             "id": 39,
@@ -1908,7 +1939,7 @@
             "id": 18,
             "name": "データサイエンティスト集会",
             "created_at": "2024-06-05",
-            "updated_at": "2024-09-23",
+            "updated_at": "2024-09-30",
             "start_time": "21:00:00",
             "duration": 90,
             "weekdays": [
@@ -1921,7 +1952,7 @@
             "sns_url": "https://x.com/dsGathering_vrc",
             "discord": "https://discord.gg/U4GJPhuZ8S",
             "twitter_hashtag": "#DS集会VRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000.jpeg",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000-1000.jpeg",
             "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
             "platform": "All",
             "tags": [
@@ -2813,7 +2844,7 @@
             "id": 18,
             "name": "データサイエンティスト集会",
             "created_at": "2024-06-05",
-            "updated_at": "2024-09-23",
+            "updated_at": "2024-09-30",
             "start_time": "21:00:00",
             "duration": 90,
             "weekdays": [
@@ -2826,7 +2857,7 @@
             "sns_url": "https://x.com/dsGathering_vrc",
             "discord": "https://discord.gg/U4GJPhuZ8S",
             "twitter_hashtag": "#DS集会VRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000.jpeg",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000-1000.jpeg",
             "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
             "platform": "All",
             "tags": [
@@ -3494,6 +3525,37 @@
         "weekday": "Sun"
     },
     {
+        "id": 504,
+        "community": {
+            "id": 1,
+            "name": "自作PC交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "不定期",
+            "organizers": "eigo・きーたん",
+            "group_url": "",
+            "organizer_url": "eigo・きーたん",
+            "sns_url": "",
+            "discord": "https://discord.gg/zDRmrjgUnR",
+            "twitter_hashtag": "",
+            "poster_image": null,
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-24",
+        "start_time": "21:30:00",
+        "duration": 90,
+        "weekday": "Sun"
+    },
+    {
         "id": 494,
         "community": {
             "id": 39,
@@ -3655,7 +3717,7 @@
             "id": 18,
             "name": "データサイエンティスト集会",
             "created_at": "2024-06-05",
-            "updated_at": "2024-09-23",
+            "updated_at": "2024-09-30",
             "start_time": "21:00:00",
             "duration": 90,
             "weekdays": [
@@ -3668,7 +3730,7 @@
             "sns_url": "https://x.com/dsGathering_vrc",
             "discord": "https://discord.gg/U4GJPhuZ8S",
             "twitter_hashtag": "#DS集会VRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000.jpeg",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000-1000.jpeg",
             "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
             "platform": "All",
             "tags": [
@@ -3773,5 +3835,129 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Fri"
+    },
+    {
+        "id": 505,
+        "community": {
+            "id": 28,
+            "name": "VRホビーロボット集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "最終土曜日",
+            "organizers": "garugaki",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_163397f0-80d9-4d2d-821a-312ec75fd80c",
+            "sns_url": "",
+            "discord": "https://vrchat.com/home/user/usr_163397f0-80d9-4d2d-821a-312ec75fd80c",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/hobbyrobot.png",
+            "description": "「VRホビーロボット集会」は2020年10月より毎月開催しているモノづくり系集会で、モノづくりに興味のある方は誰でも歓迎のオープンな集会です。直近の技術系話題について雑談したり、技術系イベントや作品の進捗報告等など自由に交流しています。また、世界最大のVRイベントVirtual Market（通称Vket）に合わせて年2回「ニソコンVR」というVR上のロボコンを開催しています。このニソコンVRの優勝者にはリアルでの二足歩行ロボットコンテスト「ROBO-ONE」シード権が賞品として贈られるほか、御協賛頂いた企業より賞品が入賞者に送られるものとなっております。\r\nその他、Vketへの出展、リアルのモノづくり系イベントMaker Faire Tokyo等々、VRとリアルにまたがった活動を行っています。\r\n集会は毎月最終土曜21時より開催。フレプラでインスタンスを立てていますので、主催者「garugaki」にJOINしてください。たまに日付が変わることもありますので最新情報はツイッター@nisoconVRをチェックをお願いします。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-30",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 506,
+        "community": {
+            "id": 32,
+            "name": "マネジメント集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-28",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "定例開催は最終土曜日/その他不定期",
+            "organizers": "NekoDOS・あんでぃ・Earl_Klutz",
+            "group_url": "https://vrc.group/MANAGE.4724",
+            "organizer_url": "",
+            "sns_url": "https://x.com/ManagementMeet",
+            "discord": "https://discord.gg/7bKUrQecjm",
+            "twitter_hashtag": "#マネジメント集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/management-1000-1000-1000-1000.jpeg",
+            "description": "マネジメント集会は、「人間、誰しもがマネージャーだ！」という標語の元、様々な管理にかかわるトピックについて登壇発表会を行った後に自由交流という流れで運営している集会です。\r\n現役経営者のねこどす、ガチ講師あんでぃ、企業参謀Kultzとライフプランがエグいmadaoが運営しながら、様々な方の登壇を受け付けております。\r\n是非、お気軽にお越しください。\r\nなお、アーカイブは、内容の価値などを鑑みた諸々の事情により基本公開しておりません。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-30",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 507,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/VRCBlenderAssembly.png",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-30",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 508,
+        "community": {
+            "id": 31,
+            "name": "シェーダー制作者交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Nunu_3060",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_2f0d6e6c-ddeb-4992-afb7-6840970fa714",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/sheda.jpeg",
+            "description": "シェーダーに興味がある人で集まってお話や交流を行います。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-30",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Sat"
     }
 ]
