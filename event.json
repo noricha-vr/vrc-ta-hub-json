@@ -255,7 +255,7 @@
             "id": 53,
             "name": "VRC微分音集会",
             "created_at": "2024-09-13",
-            "updated_at": "2024-09-14",
+            "updated_at": "2024-10-01",
             "start_time": "22:00:00",
             "duration": 60,
             "weekdays": [
@@ -268,7 +268,7 @@
             "sns_url": "https://x.com/XENMVR",
             "discord": "https://discord.gg/7BSnUpwu7b",
             "twitter_hashtag": "#VRC微分音集会",
-            "poster_image": null,
+            "poster_image": "https://data.vrc-ta-hub.com/poster/1000017990-1000_JgVxzff.jpeg",
             "description": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。",
             "platform": "All",
             "tags": [
@@ -2064,7 +2064,7 @@
             "id": 53,
             "name": "VRC微分音集会",
             "created_at": "2024-09-13",
-            "updated_at": "2024-09-14",
+            "updated_at": "2024-10-01",
             "start_time": "22:00:00",
             "duration": 60,
             "weekdays": [
@@ -2077,7 +2077,7 @@
             "sns_url": "https://x.com/XENMVR",
             "discord": "https://discord.gg/7BSnUpwu7b",
             "twitter_hashtag": "#VRC微分音集会",
-            "poster_image": null,
+            "poster_image": "https://data.vrc-ta-hub.com/poster/1000017990-1000_JgVxzff.jpeg",
             "description": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。",
             "platform": "All",
             "tags": [
