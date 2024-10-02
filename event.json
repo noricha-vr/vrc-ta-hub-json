@@ -1,36 +1,5 @@
 [
     {
-        "id": 297,
-        "community": {
-            "id": 41,
-            "name": "社会科学集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-17",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "隔週(グループB)",
-            "organizers": "Kuretan・Gipi_3",
-            "group_url": "",
-            "organizer_url": "",
-            "sns_url": "",
-            "discord": "https://discord.com/invite/2JW4kudS3u",
-            "twitter_hashtag": "#社会科学集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/socialsciencemeetUp.png",
-            "description": "",
-            "platform": "All",
-            "tags": [
-                "academic"
-            ]
-        },
-        "date": "2024-10-01",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Tue"
-    },
-    {
         "id": 298,
         "community": {
             "id": 14,
