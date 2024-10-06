@@ -3864,5 +3864,69 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
+    },
+    {
+        "id": 518,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-07-06",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/blender-unity-1000.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 改変アバターや自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-06",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
+    },
+    {
+        "id": 519,
+        "community": {
+            "id": 53,
+            "name": "VRC微分音集会",
+            "created_at": "2024-09-13",
+            "updated_at": "2024-10-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "月1回",
+            "organizers": "MisohitoNakai",
+            "group_url": "https://vrchat.com/home/group/grp_550cf370-c27b-4835-b07e-de919b0c03e1",
+            "organizer_url": "https://vrchat.com/home/user/usr_90397ef6-2541-47e7-b4eb-0aedc6e34b83",
+            "sns_url": "https://x.com/XENMVR",
+            "discord": "https://discord.gg/7BSnUpwu7b",
+            "twitter_hashtag": "#VRC微分音集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/1000017990-1000_JgVxzff.jpeg",
+            "description": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2024-12-06",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
     }
 ]
