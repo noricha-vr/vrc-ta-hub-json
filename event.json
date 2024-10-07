@@ -3928,5 +3928,130 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Fri"
+    },
+    {
+        "id": 520,
+        "community": {
+            "id": 25,
+            "name": "量子力学のたわいのない雑談の会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "第1土曜日、第3土曜日",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://t.co/aLMqxTKrAc",
+            "twitter_hashtag": "#量子力学雑談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ryousirikigaku.jpeg",
+            "description": "量子力学に関連するyoutube動画を参加者で聴講し、雑談する集会です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-07",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 521,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2024-12-07",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 522,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/VRCBlenderAssembly.png",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-07",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 523,
+        "community": {
+            "id": 30,
+            "name": "ITインフラ集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "〆・えー",
+            "group_url": "https://vrc.group/INFRA.4469",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.gg/5KJrhHMBGN",
+            "twitter_hashtag": "#ITインフラ集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/infra.png",
+            "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-07",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Sat"
     }
 ]
