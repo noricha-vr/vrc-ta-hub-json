@@ -3990,5 +3990,67 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Wed"
+    },
+    {
+        "id": 532,
+        "community": {
+            "id": 18,
+            "name": "データサイエンティスト集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-09-30",
+            "start_time": "21:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "いそひまかん・ぶんちん",
+            "group_url": "https://vrc.group/DSG.9976",
+            "organizer_url": "https://x.com/IsoKan_DD",
+            "sns_url": "https://x.com/dsGathering_vrc",
+            "discord": "https://discord.gg/U4GJPhuZ8S",
+            "twitter_hashtag": "#DS集会VRC",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_%E5%A4%96%E9%83%A8%E7%94%A8-1000-1000-1000-1000.jpeg",
+            "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-12",
+        "start_time": "21:00:00",
+        "duration": 90,
+        "weekday": "Thu"
+    },
+    {
+        "id": 533,
+        "community": {
+            "id": 8,
+            "name": "分散SNS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-09-13",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Nawashiro",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_17e3ef43-2bc7-4dea-b811-12aa6f163f44",
+            "sns_url": "https://x.com/yineleyici",
+            "discord": "https://discord.gg/4NTwMMMw9P",
+            "twitter_hashtag": "#分散SNS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000-1000.jpeg",
+            "description": "普段何気なく使っているSNS。でもその裏側には、様々な工夫や試みが隠されています。そして驚くべきことに、個人でSNSを運営して問題に取り組む人もいるのです。分散SNS集会は、分散SNSにちょっと興味がある人や利用者、運営者が集まって様々な知見を交換し、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場を作ることを目的にしています。あくまで一例ですが、・SNS上の安全のための取り組みについて・コンテンツの責任を誰が持つのか・毒性のあるコンテンツの生成を抑える構造が作れないか…などの話題を提案しています。SNSに関連するお話なら、UI/UXやインフラなども含めて幅広く歓迎しています。話題のMisskeyやBlueskyが気になるという方も、お気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-12",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Thu"
     }
 ]
