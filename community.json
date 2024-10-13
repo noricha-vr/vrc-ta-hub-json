@@ -1,5 +1,29 @@
 [
     {
+        "id": 55,
+        "name": "ガジェット愛好会",
+        "created_at": "2024-10-14",
+        "updated_at": "2024-10-14",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Other"
+        ],
+        "frequency": "第２第４土曜日",
+        "organizers": "Keikou《けいこう》",
+        "group_url": "https://vrc.group/GCLUB.5169",
+        "organizer_url": "https://vrchat.com/home/user/usr_71cc6171-bb6c-4a7a-8420-c9124e53eaf3",
+        "sns_url": "https://x.com/keikou440",
+        "discord": "https://discord.gg/Mr7cczuAbU",
+        "twitter_hashtag": "#ガジェット愛好会",
+        "poster_image": null,
+        "description": "この会は、ガジェット好きが集まる、発見と交流の場です。最新のテクノロジーやガジェットについて語り合い、情報交換を楽しむ、自由で和やかな交流会です。 ガジェットに興味があれば詳しくなくても参加OKのカジュアルなグループなので、初心者の方でも気軽にご参加して下さい。 入退室自由で、無言勢や聞き専の方も大歓迎です！ ガジェット好きの仲間と一緒に、新しい発見を楽しむ場として、皆さんの参加を心からお待ちしています。",
+        "platform": "All",
+        "tags": [
+            "tech"
+        ]
+    },
+    {
         "id": 54,
         "name": "CTF集会",
         "created_at": "2024-10-03",
