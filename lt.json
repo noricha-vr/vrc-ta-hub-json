@@ -38,45 +38,5 @@
         "slide_url": null,
         "speaker": "HIDEさん",
         "theme": "UnityプロジェクトをGitで管理"
-    },
-    {
-        "id": 116,
-        "event": {
-            "id": 319,
-            "community": {
-                "id": 30,
-                "name": "ITインフラ集会",
-                "created_at": "2024-06-05",
-                "updated_at": "2024-06-14",
-                "start_time": "22:00:00",
-                "duration": 60,
-                "weekdays": [
-                    "Sat"
-                ],
-                "frequency": "隔週(グループA)",
-                "organizers": "〆・えー",
-                "group_url": "https://vrc.group/INFRA.4469",
-                "organizer_url": "",
-                "sns_url": "",
-                "discord": "https://discord.gg/5KJrhHMBGN",
-                "twitter_hashtag": "#ITインフラ集会",
-                "poster_image": "https://data.vrc-ta-hub.com/poster/infra.png",
-                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
-                "platform": "All",
-                "tags": [
-                    "tech"
-                ]
-            },
-            "date": "2024-10-12",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekday": "Sat"
-        },
-        "start_time": "22:30:00",
-        "duration": 30,
-        "youtube_url": null,
-        "slide_url": null,
-        "speaker": "冬華 蕐",
-        "theme": "おうちで始めるSAN"
     }
 ]
