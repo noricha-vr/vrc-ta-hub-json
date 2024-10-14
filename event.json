@@ -3804,5 +3804,67 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Fri"
+    },
+    {
+        "id": 537,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/VRCBlenderAssembly.png",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-14",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 538,
+        "community": {
+            "id": 31,
+            "name": "シェーダー制作者交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Nunu_3060",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_2f0d6e6c-ddeb-4992-afb7-6840970fa714",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/sheda.jpeg",
+            "description": "シェーダーに興味がある人で集まってお話や交流を行います。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-14",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Sat"
     }
 ]
