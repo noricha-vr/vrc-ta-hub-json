@@ -1,36 +1,5 @@
 [
     {
-        "id": 323,
-        "community": {
-            "id": 39,
-            "name": "論文紹介集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-10-12",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon"
-            ],
-            "frequency": "隔週（グループB）",
-            "organizers": "Alnote_",
-            "group_url": "https://vrc.group/VRPRES.9486",
-            "organizer_url": "https://vrchat.com/home/user/usr_854b415c-dc01-4296-8aee-d91a24859041",
-            "sns_url": "https://x.com/Alnote_",
-            "discord": "https://discord.gg/8ErchaWwXN",
-            "twitter_hashtag": "#論文紹介集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/ryonbun-1000-1000_gw3BVHf.jpeg",
-            "description": "隔週月曜日21:00から、主催の趣味的論文紹介をおこなっています。\r\n範囲はVR系、画像処理系を中心に、幅広く紹介しています。",
-            "platform": "All",
-            "tags": [
-                "academic"
-            ]
-        },
-        "date": "2024-10-14",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Mon"
-    },
-    {
         "id": 325,
         "community": {
             "id": 41,
