@@ -1,5 +1,29 @@
 [
     {
+        "id": 57,
+        "name": "XR開発者集会",
+        "created_at": "2024-10-21",
+        "updated_at": "2024-10-21",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Mon"
+        ],
+        "frequency": "毎月第4月曜",
+        "organizers": "ごんびぃー",
+        "group_url": "https://vrchat.com/home/group/grp_5dc9f485-02a0-472c-a766-356f5d59e6e9",
+        "organizer_url": "https://vrchat.com/home/user/usr_2fa86dc7-e8d4-45e0-99f0-622d1d005c26",
+        "sns_url": "https://x.com/GONBEEE_project",
+        "discord": "",
+        "twitter_hashtag": "#XR開発者集会",
+        "poster_image": null,
+        "description": "毎月たぶん第4月曜日開催！XRコンテンツの開発者・関係者をお呼びして、XRコンテンツ制作について登壇・議論するイベントです。\r\n現実世界のXRエンジニアと、技術系VRChatterの架け橋となるようなイベント、、、にしていきたいな！",
+        "platform": "PC",
+        "tags": [
+            "tech"
+        ]
+    },
+    {
         "id": 56,
         "name": "ITエンジニア キャリア相談・雑談集会",
         "created_at": "2024-10-17",
