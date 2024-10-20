@@ -874,6 +874,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 548,
+        "community": {
+            "id": 56,
+            "name": "ITエンジニア キャリア相談・雑談集会",
+            "created_at": "2024-10-17",
+            "updated_at": "2024-10-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週",
+            "organizers": "KAGU3・いとじゅん",
+            "group_url": "https://vrc.group/ITCA.5490",
+            "organizer_url": "https://vrchat.com/home/user/usr_3acc0eaf-be76-4dc0-8542-b51e87e5c5fc",
+            "sns_url": "https://x.com/Kagu3_IT",
+            "discord": "https://discord.gg/UGCjerre",
+            "twitter_hashtag": "#VRC_ITキャリア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ITCA_poster-1000_5g91Jqs.jpeg",
+            "description": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-03",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
         "id": 372,
         "community": {
             "id": 7,
@@ -1714,6 +1745,37 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Sat"
+    },
+    {
+        "id": 549,
+        "community": {
+            "id": 56,
+            "name": "ITエンジニア キャリア相談・雑談集会",
+            "created_at": "2024-10-17",
+            "updated_at": "2024-10-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週",
+            "organizers": "KAGU3・いとじゅん",
+            "group_url": "https://vrc.group/ITCA.5490",
+            "organizer_url": "https://vrchat.com/home/user/usr_3acc0eaf-be76-4dc0-8542-b51e87e5c5fc",
+            "sns_url": "https://x.com/Kagu3_IT",
+            "discord": "https://discord.gg/UGCjerre",
+            "twitter_hashtag": "#VRC_ITキャリア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ITCA_poster-1000_5g91Jqs.jpeg",
+            "description": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-17",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sun"
     },
     {
         "id": 465,
@@ -2587,6 +2649,37 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Sat"
+    },
+    {
+        "id": 550,
+        "community": {
+            "id": 56,
+            "name": "ITエンジニア キャリア相談・雑談集会",
+            "created_at": "2024-10-17",
+            "updated_at": "2024-10-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週",
+            "organizers": "KAGU3・いとじゅん",
+            "group_url": "https://vrc.group/ITCA.5490",
+            "organizer_url": "https://vrchat.com/home/user/usr_3acc0eaf-be76-4dc0-8542-b51e87e5c5fc",
+            "sns_url": "https://x.com/Kagu3_IT",
+            "discord": "https://discord.gg/UGCjerre",
+            "twitter_hashtag": "#VRC_ITキャリア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ITCA_poster-1000_5g91Jqs.jpeg",
+            "description": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-01",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sun"
     },
     {
         "id": 509,
@@ -3463,6 +3556,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 551,
+        "community": {
+            "id": 56,
+            "name": "ITエンジニア キャリア相談・雑談集会",
+            "created_at": "2024-10-17",
+            "updated_at": "2024-10-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週",
+            "organizers": "KAGU3・いとじゅん",
+            "group_url": "https://vrc.group/ITCA.5490",
+            "organizer_url": "https://vrchat.com/home/user/usr_3acc0eaf-be76-4dc0-8542-b51e87e5c5fc",
+            "sns_url": "https://x.com/Kagu3_IT",
+            "discord": "https://discord.gg/UGCjerre",
+            "twitter_hashtag": "#VRC_ITキャリア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ITCA_poster-1000_5g91Jqs.jpeg",
+            "description": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-15",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
         "id": 539,
         "community": {
             "id": 7,
@@ -3741,5 +3865,37 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
+    },
+    {
+        "id": 552,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-07-06",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/blender-unity-1000.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 改変アバターや自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-20",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
     }
 ]
