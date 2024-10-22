@@ -437,6 +437,37 @@
         "weekday": "Sun"
     },
     {
+        "id": 557,
+        "community": {
+            "id": 54,
+            "name": "CTF集会",
+            "created_at": "2024-10-03",
+            "updated_at": "2024-10-13",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#CTF集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000.jpeg",
+            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-10-27",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
         "id": 357,
         "community": {
             "id": 39,
@@ -1311,6 +1342,37 @@
         "weekday": "Sun"
     },
     {
+        "id": 558,
+        "community": {
+            "id": 54,
+            "name": "CTF集会",
+            "created_at": "2024-10-03",
+            "updated_at": "2024-10-13",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#CTF集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000.jpeg",
+            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-10",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
         "id": 450,
         "community": {
             "id": 39,
@@ -2181,6 +2243,37 @@
         "date": "2024-11-24",
         "start_time": "21:30:00",
         "duration": 90,
+        "weekday": "Sun"
+    },
+    {
+        "id": 559,
+        "community": {
+            "id": 54,
+            "name": "CTF集会",
+            "created_at": "2024-10-03",
+            "updated_at": "2024-10-13",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#CTF集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000.jpeg",
+            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-24",
+        "start_time": "21:30:00",
+        "duration": 60,
         "weekday": "Sun"
     },
     {
@@ -3151,6 +3244,37 @@
         "weekday": "Sun"
     },
     {
+        "id": 560,
+        "community": {
+            "id": 54,
+            "name": "CTF集会",
+            "created_at": "2024-10-03",
+            "updated_at": "2024-10-13",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#CTF集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000.jpeg",
+            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-08",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
         "id": 527,
         "community": {
             "id": 39,
@@ -3960,5 +4084,67 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Sat"
+    },
+    {
+        "id": 561,
+        "community": {
+            "id": 5,
+            "name": "VRCHoudini勉強会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-26",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "tanitta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_fd884689-2a62-474d-af7c-86894644d0b3",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRCHoudini勉強会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/VRC_Logo_banner-1000.jpeg",
+            "description": "VRChatで開催されているHoudiniについての勉強会です。Houdiniをまだよく知らない方から、実際に業務で使用している方まで幅広くご参加いただいています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-22",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
+        "id": 562,
+        "community": {
+            "id": 54,
+            "name": "CTF集会",
+            "created_at": "2024-10-03",
+            "updated_at": "2024-10-13",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#CTF集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000.jpeg",
+            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-22",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "Sun"
     }
 ]
