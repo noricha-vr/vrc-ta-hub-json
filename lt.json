@@ -41,6 +41,46 @@
         "theme": "音律の線形性"
     },
     {
+        "id": 119,
+        "event": {
+            "id": 348,
+            "community": {
+                "id": 32,
+                "name": "マネジメント集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2024-06-28",
+                "start_time": "21:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "定例開催は最終土曜日/その他不定期",
+                "organizers": "NekoDOS・あんでぃ・Earl_Klutz",
+                "group_url": "https://vrc.group/MANAGE.4724",
+                "organizer_url": "",
+                "sns_url": "https://x.com/ManagementMeet",
+                "discord": "https://discord.gg/7bKUrQecjm",
+                "twitter_hashtag": "#マネジメント集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/management-1000-1000-1000-1000.jpeg",
+                "description": "マネジメント集会は、「人間、誰しもがマネージャーだ！」という標語の元、様々な管理にかかわるトピックについて登壇発表会を行った後に自由交流という流れで運営している集会です。\r\n現役経営者のねこどす、ガチ講師あんでぃ、企業参謀Kultzとライフプランがエグいmadaoが運営しながら、様々な方の登壇を受け付けております。\r\n是非、お気軽にお越しください。\r\nなお、アーカイブは、内容の価値などを鑑みた諸々の事情により基本公開しておりません。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2024-10-26",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "21:00:00",
+        "duration": 40,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "あんでぃ",
+        "theme": "会議のカギはファシリテーションだ！"
+    },
+    {
         "id": 86,
         "event": {
             "id": 343,
