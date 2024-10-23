@@ -1,36 +1,5 @@
 [
     {
-        "id": 339,
-        "community": {
-            "id": 11,
-            "name": "CS集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-07-16",
-            "start_time": "21:00:00",
-            "duration": 120,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "隔週(グループA)",
-            "organizers": "夜鍋ヨナ",
-            "group_url": "https://vrc.group/CSG.5184",
-            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
-            "sns_url": "https://x.com/yonabeyona",
-            "discord": "https://discord.gg/ZCnUCmncDK",
-            "twitter_hashtag": "#CS集会 #VRC_CS集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/cs-1000.jpeg",
-            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2024-10-22",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Tue"
-    },
-    {
         "id": 340,
         "community": {
             "id": 14,
