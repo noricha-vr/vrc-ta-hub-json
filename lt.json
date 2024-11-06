@@ -38,5 +38,46 @@
         "slide_url": null,
         "speaker": "さめ",
         "theme": "いいプロンプトの極意は\"チーム開発スキル\"にアリ！　〜LLMとの対話で広がる個人開発の可能性〜"
+    },
+    {
+        "id": 176,
+        "event": {
+            "id": 377,
+            "community": {
+                "id": 15,
+                "name": "ML集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2024-06-17",
+                "start_time": "21:30:00",
+                "duration": 60,
+                "weekdays": [
+                    "Wed"
+                ],
+                "frequency": "毎週",
+                "organizers": "げそん≺GesonAnko≻",
+                "group_url": "https://vrc.group/VRCML.9230",
+                "organizer_url": "",
+                "sns_url": "",
+                "discord": "https://discord.gg/6rQ2PZTDqa",
+                "twitter_hashtag": "#ML集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/ml.png",
+                "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+                "platform": "All",
+                "tags": [
+                    "tech",
+                    "academic"
+                ]
+            },
+            "date": "2024-11-06",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekday": "Wed"
+        },
+        "start_time": "22:00:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "GesonAnko",
+        "theme": "さらっと変わった自律機械知能P-AMI<Q>のアバター"
     }
 ]
