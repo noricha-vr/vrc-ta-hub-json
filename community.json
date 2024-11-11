@@ -249,21 +249,22 @@
         "id": 44,
         "name": "昆虫集会",
         "created_at": "2024-06-05",
-        "updated_at": "2024-06-20",
-        "start_time": "20:00:00",
-        "duration": 60,
+        "updated_at": "2024-11-11",
+        "start_time": "22:00:00",
+        "duration": 120,
         "weekdays": [
-            "Fri"
+            "Fri",
+            "Other"
         ],
-        "frequency": "春から秋は毎週 冬は月1回",
-        "organizers": "Adz_ow",
+        "frequency": "冬は毎週 春から秋は月1回",
+        "organizers": "主催:あどず_クライマー、副主催:Mukû5364（むくう）",
         "group_url": "",
         "organizer_url": "https://x.com/Adz_VRC",
         "sns_url": "https://x.com/VRC_insect_",
         "discord": "https://discord.gg/dXYXB3EcSN",
         "twitter_hashtag": "#VRC昆虫集会",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/musi-1000-1000-1000-1000-1000-1000.jpeg",
-        "description": "開催曜日: 金曜日\r\n\r\n開催時間: 21:00 - 22:00 or 20:00~22:00\r\n\r\n開催周期:春から秋まで毎週、冬は月1回 \r\n\r\n採集や昆虫を話したりする集会",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/musi-1000-1000-10_SeolDxh.jpeg",
+        "description": "開催曜日: 金曜日\r\n\r\n開催時間: 21:00 - 22:00 or 20:00~22:00\r\n\r\n開催周期:春から秋は月1回 、冬は毎週\r\n\r\n採集や昆虫を話したりする集会",
         "platform": "All",
         "tags": [
             "academic"
