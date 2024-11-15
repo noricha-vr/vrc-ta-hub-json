@@ -3,7 +3,7 @@
         "id": 59,
         "name": "Web技術集会",
         "created_at": "2024-11-13",
-        "updated_at": "2024-11-13",
+        "updated_at": "2024-11-15",
         "start_time": "22:00:00",
         "duration": 60,
         "weekdays": [
@@ -16,7 +16,7 @@
         "sns_url": "https://x.com/vrwebtechorg",
         "discord": "https://discord.gg/umnscaPNcy",
         "twitter_hashtag": "#Web技術集会",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
         "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
         "platform": "PC",
         "tags": [
@@ -27,7 +27,7 @@
         "id": 58,
         "name": "VRC技術系同人誌紹介集会",
         "created_at": "2024-11-12",
-        "updated_at": "2024-11-12",
+        "updated_at": "2024-11-15",
         "start_time": "22:00:00",
         "duration": 30,
         "weekdays": [
