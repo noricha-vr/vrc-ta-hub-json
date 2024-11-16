@@ -311,6 +311,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 880,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-20",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 471,
         "community": {
             "id": 19,
@@ -402,38 +433,6 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 476,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2024-11-22",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 489,
@@ -779,6 +778,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 881,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-11-27",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 499,
         "community": {
             "id": 18,
@@ -839,38 +869,6 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 501,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2024-11-29",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 502,
@@ -1246,6 +1244,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 882,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 515,
         "community": {
             "id": 19,
@@ -1337,38 +1366,6 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 518,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2024-12-06",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 519,
@@ -1777,6 +1774,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 883,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-11",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 532,
         "community": {
             "id": 18,
@@ -1837,38 +1865,6 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 535,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2024-12-13",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 536,
@@ -2182,6 +2178,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 884,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 545,
         "community": {
             "id": 19,
@@ -2273,38 +2300,6 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 552,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2024-12-20",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 553,
@@ -2650,6 +2645,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 885,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2024-12-25",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 568,
         "community": {
             "id": 18,
@@ -2710,38 +2736,6 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 570,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2024-12-27",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 571,
@@ -3117,6 +3111,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 886,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-01-01",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 607,
         "community": {
             "id": 19,
@@ -3208,38 +3233,6 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 610,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-01-03",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 611,
@@ -3586,6 +3579,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 887,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-01-08",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 624,
         "community": {
             "id": 18,
@@ -3646,38 +3670,6 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Thu"
-    },
-    {
-        "id": 846,
-        "community": {
-            "id": 23,
-            "name": "Blender＆Unity技術交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon",
-                "Fri"
-            ],
-            "frequency": "毎週",
-            "organizers": "破天荒解",
-            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
-            "organizer_url": "",
-            "sns_url": "https://x.com/hatennkoukai",
-            "discord": "",
-            "twitter_hashtag": "#BlenderUnity交流会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
-            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-01-10",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
     },
     {
         "id": 847,
@@ -4082,5 +4074,129 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Wed"
+    },
+    {
+        "id": 888,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-01-15",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 889,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-08-20",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaihatsu-1000-1000_DvoR7Pv_zx0Ov6o.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-01-16",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
+        "id": 890,
+        "community": {
+            "id": 20,
+            "name": "OSS集会（オープンソースソフトウェア集会）",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-28",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#OSS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/oss-1000.jpeg",
+            "description": "OSS（オープンソースソフトウェア）集会\r\nVRChat用に開発しているシステムのソースコードをみんなで眺めたり、デバッグしたり、意見を出し合う集会です。個人開発集会の跡地を利用するのでエンジニアがたくさん集まってます。\r\nプログラミング好きの方はぜひ遊びに来てね(^^)v",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-01-16",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
+        "id": 891,
+        "community": {
+            "id": 21,
+            "name": "分解技術集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-14",
+            "start_time": "22:30:00",
+            "duration": 30,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "第一木曜日、第三木曜日",
+            "organizers": "kiyone",
+            "group_url": "https://vrchat.com/home/group/grp_6bc8d49d-0e45-41fa-940c-43ec89d4ac87",
+            "organizer_url": "https://vrchat.com/home/user/usr_314b5898-d336-40a5-95eb-b880c18c2f99",
+            "sns_url": "",
+            "discord": "https://discord.gg/jfQ3gdBd4N",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/201104-1-1000.jpeg",
+            "description": "",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-01-16",
+        "start_time": "22:30:00",
+        "duration": 60,
+        "weekday": "Thu"
     }
 ]
