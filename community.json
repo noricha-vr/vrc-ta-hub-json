@@ -1,9 +1,35 @@
 [
     {
+        "id": 61,
+        "name": "VRC-LT",
+        "created_at": "2024-11-18",
+        "updated_at": "2024-11-18",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekdays": [
+            "Sat",
+            "Other"
+        ],
+        "frequency": "不定期",
+        "organizers": "はる",
+        "group_url": "https://vrc.group/VRCLT.9768",
+        "organizer_url": "",
+        "sns_url": "https://vrc-lt.org/",
+        "discord": "",
+        "twitter_hashtag": "#VRC_LT",
+        "poster_image": null,
+        "description": "気軽にテーマを持ち寄ってLT会をしています。\r\nテーマの幅に特に制限をかけていないので、毎回バラエティに富んだ発表を聞くことができます。\r\n過去の発表などは以下のURLから: https://vrc-lt.org/",
+        "platform": "PC",
+        "tags": [
+            "tech",
+            "academic"
+        ]
+    },
+    {
         "id": 60,
         "name": "VRC Bio Journal RTA",
         "created_at": "2024-11-17",
-        "updated_at": "2024-11-17",
+        "updated_at": "2024-11-18",
         "start_time": "22:00:00",
         "duration": 60,
         "weekdays": [
@@ -11,7 +37,7 @@
         ],
         "frequency": "毎月8のつく日",
         "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
-        "group_url": "https://vrchat.com/home/group/grp_1b120b6c-a372-4e80-a4e7-036ee36b7d6f",
+        "group_url": "https://vrc.group/BIO.2023",
         "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
         "sns_url": "",
         "discord": "https://discord.gg/ZjHz6wGkwx",

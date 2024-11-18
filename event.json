@@ -62,6 +62,37 @@
         "weekday": "Mon"
     },
     {
+        "id": 1049,
+        "community": {
+            "id": 60,
+            "name": "VRC Bio Journal RTA",
+            "created_at": "2024-11-17",
+            "updated_at": "2024-11-18",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月8のつく日",
+            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
+            "group_url": "https://vrc.group/BIO.2023",
+            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
+            "sns_url": "",
+            "discord": "https://discord.gg/ZjHz6wGkwx",
+            "twitter_hashtag": "#VRCバイオ",
+            "poster_image": null,
+            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2024-11-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Mon"
+    },
+    {
         "id": 467,
         "community": {
             "id": 11,
@@ -743,6 +774,37 @@
         },
         "date": "2024-11-28",
         "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
+        "id": 1050,
+        "community": {
+            "id": 60,
+            "name": "VRC Bio Journal RTA",
+            "created_at": "2024-11-17",
+            "updated_at": "2024-11-18",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月8のつく日",
+            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
+            "group_url": "https://vrc.group/BIO.2023",
+            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
+            "sns_url": "",
+            "discord": "https://discord.gg/ZjHz6wGkwx",
+            "twitter_hashtag": "#VRCバイオ",
+            "poster_image": null,
+            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2024-11-28",
+        "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Thu"
     },
@@ -1494,6 +1556,37 @@
         "weekday": "Sun"
     },
     {
+        "id": 1051,
+        "community": {
+            "id": 60,
+            "name": "VRC Bio Journal RTA",
+            "created_at": "2024-11-17",
+            "updated_at": "2024-11-18",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月8のつく日",
+            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
+            "group_url": "https://vrc.group/BIO.2023",
+            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
+            "sns_url": "",
+            "discord": "https://discord.gg/ZjHz6wGkwx",
+            "twitter_hashtag": "#VRCバイオ",
+            "poster_image": null,
+            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2024-12-08",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
         "id": 527,
         "community": {
             "id": 39,
@@ -2077,6 +2170,37 @@
             "platform": "PC",
             "tags": [
                 "tech"
+            ]
+        },
+        "date": "2024-12-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1052,
+        "community": {
+            "id": 60,
+            "name": "VRC Bio Journal RTA",
+            "created_at": "2024-11-17",
+            "updated_at": "2024-11-18",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月8のつく日",
+            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
+            "group_url": "https://vrc.group/BIO.2023",
+            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
+            "sns_url": "",
+            "discord": "https://discord.gg/ZjHz6wGkwx",
+            "twitter_hashtag": "#VRCバイオ",
+            "poster_image": null,
+            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "academic"
             ]
         },
         "date": "2024-12-18",
@@ -2761,6 +2885,37 @@
             "platform": "All",
             "tags": [
                 "tech"
+            ]
+        },
+        "date": "2024-12-28",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 1053,
+        "community": {
+            "id": 60,
+            "name": "VRC Bio Journal RTA",
+            "created_at": "2024-11-17",
+            "updated_at": "2024-11-18",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月8のつく日",
+            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
+            "group_url": "https://vrc.group/BIO.2023",
+            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
+            "sns_url": "",
+            "discord": "https://discord.gg/ZjHz6wGkwx",
+            "twitter_hashtag": "#VRCバイオ",
+            "poster_image": null,
+            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "academic"
             ]
         },
         "date": "2024-12-28",
@@ -3478,6 +3633,37 @@
             "platform": "PC",
             "tags": [
                 "tech"
+            ]
+        },
+        "date": "2025-01-08",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1054,
+        "community": {
+            "id": 60,
+            "name": "VRC Bio Journal RTA",
+            "created_at": "2024-11-17",
+            "updated_at": "2024-11-18",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月8のつく日",
+            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
+            "group_url": "https://vrc.group/BIO.2023",
+            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
+            "sns_url": "",
+            "discord": "https://discord.gg/ZjHz6wGkwx",
+            "twitter_hashtag": "#VRCバイオ",
+            "poster_image": null,
+            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "academic"
             ]
         },
         "date": "2025-01-08",
