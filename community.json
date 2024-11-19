@@ -1047,7 +1047,7 @@
         "id": 8,
         "name": "分散SNS集会",
         "created_at": "2024-06-05",
-        "updated_at": "2024-09-13",
+        "updated_at": "2024-11-20",
         "start_time": "21:00:00",
         "duration": 60,
         "weekdays": [
@@ -1060,7 +1060,7 @@
         "sns_url": "https://x.com/yineleyici",
         "discord": "https://discord.gg/4NTwMMMw9P",
         "twitter_hashtag": "#分散SNS集会",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000-1000.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000_dqGAw8O.jpeg",
         "description": "普段何気なく使っているSNS。でもその裏側には、様々な工夫や試みが隠されています。そして驚くべきことに、個人でSNSを運営して問題に取り組む人もいるのです。分散SNS集会は、分散SNSにちょっと興味がある人や利用者、運営者が集まって様々な知見を交換し、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場を作ることを目的にしています。あくまで一例ですが、・SNS上の安全のための取り組みについて・コンテンツの責任を誰が持つのか・毒性のあるコンテンツの生成を抑える構造が作れないか…などの話題を提案しています。SNSに関連するお話なら、UI/UXやインフラなども含めて幅広く歓迎しています。話題のMisskeyやBlueskyが気になるという方も、お気軽にご参加ください。",
         "platform": "All",
         "tags": [
