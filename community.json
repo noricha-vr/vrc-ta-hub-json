@@ -1,5 +1,30 @@
 [
     {
+        "id": 62,
+        "name": "VRChatデザイン集会",
+        "created_at": "2024-12-18",
+        "updated_at": "2024-12-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Tue"
+        ],
+        "frequency": "毎月第2火曜",
+        "organizers": "D.Na｜だな",
+        "group_url": "https://vrc.group/DESIGN.5534",
+        "organizer_url": "https://vrchat.com/home/user/usr_870a4584-a0f3-4715-9c08-78fd60eb252b",
+        "sns_url": "https://x.com/D_Na_mi3",
+        "discord": "https://discord.gg/s6JhuGjZpp",
+        "twitter_hashtag": "#VRCデザイン集会",
+        "poster_image": null,
+        "description": "VRChatデザイン集会は、デザインのあれこれについて気軽に話せるイベントです。\r\nなんらかのデザインをつくっている人はもちろん、デザインの依頼を考えている方、デザインのことが気になるという方など、どなたでもご自由にご参加ください。",
+        "platform": "PC",
+        "tags": [
+            "tech",
+            "academic"
+        ]
+    },
+    {
         "id": 61,
         "name": "VRC-LT",
         "created_at": "2024-11-18",
