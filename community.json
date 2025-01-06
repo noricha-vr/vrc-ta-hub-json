@@ -445,7 +445,7 @@
         "id": 40,
         "name": "黒猫雑学カフェ",
         "created_at": "2024-06-05",
-        "updated_at": "2024-07-21",
+        "updated_at": "2025-01-06",
         "start_time": "22:00:00",
         "duration": 60,
         "weekdays": [
@@ -458,7 +458,7 @@
         "sns_url": "",
         "discord": "",
         "twitter_hashtag": "#黒猫雑学カフェ",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/NightCafe-1000-1000-1000_7792EB2.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/NightCafe-1000-1000-1000_7792EB2-1000.jpeg",
         "description": "意見交換と知見の共有を行う対話イベントです。",
         "platform": "All",
         "tags": [
