@@ -1,5 +1,29 @@
 [
     {
+        "id": 63,
+        "name": "aa",
+        "created_at": "2025-01-07",
+        "updated_at": "2025-01-07",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Mon"
+        ],
+        "frequency": "every week",
+        "organizers": "aa",
+        "group_url": "",
+        "organizer_url": "",
+        "sns_url": "",
+        "discord": "",
+        "twitter_hashtag": "",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/8bit-1000.jpeg",
+        "description": "aaa",
+        "platform": "All",
+        "tags": [
+            "tech"
+        ]
+    },
+    {
         "id": 62,
         "name": "VRChatデザイン集会",
         "created_at": "2024-12-18",
