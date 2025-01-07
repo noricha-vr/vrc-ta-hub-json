@@ -1,5 +1,29 @@
 [
     {
+        "id": 64,
+        "name": "RadeonVRの会",
+        "created_at": "2025-01-07",
+        "updated_at": "2025-01-07",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Other"
+        ],
+        "frequency": "不定期",
+        "organizers": "A Yamanami(共同代表8名)",
+        "group_url": "https://vrchat.com/home/group/grp_acf3d3d2-a660-4acc-b8ca-d0c3f22813bf",
+        "organizer_url": "https://vrchat.com/home/user/usr_8ed3dd49-6430-49f8-85c6-2cb88820c811",
+        "sns_url": "https://x.com/RadeonVR_jp",
+        "discord": "https://discord.gg/XtMhhtw5RK",
+        "twitter_hashtag": "#RadeonVRの会",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/note_header-1000_P8oYBNP.jpeg",
+        "description": "RadeonVRの会は、VRChat(VRSNS、VRゲーム)でRadeonを使っているユーザーの互助会です。\r\nVR用にRadeonを購入される前のご相談や、使用時にお困りごとが出てきた際にはサーバーの有志がサポートいたします！",
+        "platform": "All",
+        "tags": [
+            "tech"
+        ]
+    },
+    {
         "id": 63,
         "name": "aa",
         "created_at": "2025-01-07",
