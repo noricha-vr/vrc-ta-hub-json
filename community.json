@@ -1,5 +1,29 @@
 [
     {
+        "id": 67,
+        "name": "だいたいで分かる政治経済",
+        "created_at": "2025-01-10",
+        "updated_at": "2025-01-10",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Other"
+        ],
+        "frequency": "だいたい隔週",
+        "organizers": "北川梨之助",
+        "group_url": "https://vrc.group/VRCSCA.0810",
+        "organizer_url": "https://vrchat.com/home/user/usr_f71bc74e-8ebf-4f98-b6ea-25aae3e6e524",
+        "sns_url": "https://x.com/VRCSCA",
+        "discord": "",
+        "twitter_hashtag": "#VRCSCA",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%81%A0%E3%81%84%E3%81%9F%E3%81%84%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E6%94%BF%E6%B2%BB%E7%B5%8C%E6%B8%88-1000-1000.jpeg",
+        "description": "政治経済に関心がある人たちで集まり気軽に話そうというイベントです。\r\n話題提供として前半に講話を行い、後半に座談会を行います。\r\n途中参加途中離脱OKなのでお時間ある方は是非ご参加ください。\r\n\r\n開催日時は不定期ですので事前に公式Twitterの告知を必ずご確認ください。\r\n\r\n参加方法：VRC社会文化協会のグループインスタンスを開きますのでお時間になったらJoinしてください。\r\n開催直後のグループ参加は難しい可能性がありますので事前の参加をお勧めします。\r\nhttps://vrchat.com/home/group/grp_9bee651c-2ed0-4cd4-abf8-cfc56f332b23",
+        "platform": "PC",
+        "tags": [
+            "academic"
+        ]
+    },
+    {
         "id": 64,
         "name": "RadeonVRの会",
         "created_at": "2025-01-07",
