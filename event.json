@@ -1,36 +1,5 @@
 [
     {
-        "id": 1096,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-01-11",
-        "start_time": "21:30:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
         "id": 851,
         "community": {
             "id": 56,
@@ -436,7 +405,7 @@
         "weekday": "Wed"
     },
     {
-        "id": 889,
+        "id": 1204,
         "community": {
             "id": 19,
             "name": "個人開発集会",
@@ -583,38 +552,6 @@
             "platform": "All",
             "tags": [
                 "tech"
-            ]
-        },
-        "date": "2025-01-18",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1166,
-        "community": {
-            "id": 26,
-            "name": "株式投資座談会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-23",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週(グループA)",
-            "organizers": "Tak1123",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
-            "sns_url": "",
-            "discord": "https://t.co/bZ70vyhL14",
-            "twitter_hashtag": "#VRC株式投資座談会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
-            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
-            "platform": "All",
-            "tags": [
-                "tech",
-                "academic"
             ]
         },
         "date": "2025-01-18",
@@ -1089,6 +1026,38 @@
         "weekday": "Sat"
     },
     {
+        "id": 1208,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-01-25",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1079,
         "community": {
             "id": 31,
@@ -1400,6 +1369,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 1205,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-12-12",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaihatsu-100_evD7tzk.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-01-30",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
         "id": 1092,
         "community": {
             "id": 20,
@@ -1516,38 +1516,6 @@
             "platform": "All",
             "tags": [
                 "tech"
-            ]
-        },
-        "date": "2025-02-01",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1167,
-        "community": {
-            "id": 26,
-            "name": "株式投資座談会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-23",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週(グループA)",
-            "organizers": "Tak1123",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
-            "sns_url": "",
-            "discord": "https://t.co/bZ70vyhL14",
-            "twitter_hashtag": "#VRC株式投資座談会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
-            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
-            "platform": "All",
-            "tags": [
-                "tech",
-                "academic"
             ]
         },
         "date": "2025-02-01",
@@ -2366,6 +2334,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 1206,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-12-12",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaihatsu-100_evD7tzk.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-02-13",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
         "id": 1129,
         "community": {
             "id": 20,
@@ -2957,6 +2956,38 @@
         "weekday": "Sat"
     },
     {
+        "id": 1210,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-02-22",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1148,
         "community": {
             "id": 31,
@@ -3299,7 +3330,7 @@
         "weekday": "Wed"
     },
     {
-        "id": 1161,
+        "id": 1207,
         "community": {
             "id": 19,
             "name": "個人開発集会",
@@ -3914,6 +3945,38 @@
             "platform": "All",
             "tags": [
                 "tech"
+            ]
+        },
+        "date": "2025-03-08",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 1211,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
             ]
         },
         "date": "2025-03-08",
