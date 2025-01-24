@@ -1,36 +1,5 @@
 [
     {
-        "id": 1075,
-        "community": {
-            "id": 22,
-            "name": "エンジニア作業飲み集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-17",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Fri"
-            ],
-            "frequency": "Cluster 隔週(グループA) VRChat 隔週(グループB)",
-            "organizers": "慕狼ゆに",
-            "group_url": "https://vrc.group/VRCEMU.0977",
-            "organizer_url": "",
-            "sns_url": "",
-            "discord": "https://discord.gg/zaTjFtDRP7",
-            "twitter_hashtag": "#VRCエンジニア作業飲み集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/engineersagyo.jpeg",
-            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-01-24",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
-    },
-    {
         "id": 1076,
         "community": {
             "id": 28,
@@ -277,6 +246,37 @@
         "date": "2025-01-26",
         "start_time": "21:30:00",
         "duration": 90,
+        "weekday": "Sun"
+    },
+    {
+        "id": 1239,
+        "community": {
+            "id": 67,
+            "name": "だいたいで分かる政治経済",
+            "created_at": "2025-01-10",
+            "updated_at": "2025-01-10",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "だいたい隔週",
+            "organizers": "北川梨之助",
+            "group_url": "https://vrc.group/VRCSCA.0810",
+            "organizer_url": "https://vrchat.com/home/user/usr_f71bc74e-8ebf-4f98-b6ea-25aae3e6e524",
+            "sns_url": "https://x.com/VRCSCA",
+            "discord": "",
+            "twitter_hashtag": "#VRCSCA",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%81%A0%E3%81%84%E3%81%9F%E3%81%84%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E6%94%BF%E6%B2%BB%E7%B5%8C%E6%B8%88-1000-1000.jpeg",
+            "description": "政治経済に関心がある人たちで集まり気軽に話そうというイベントです。\r\n話題提供として前半に講話を行い、後半に座談会を行います。\r\n途中参加途中離脱OKなのでお時間ある方は是非ご参加ください。\r\n\r\n開催日時は不定期ですので事前に公式Twitterの告知を必ずご確認ください。\r\n\r\n参加方法：VRC社会文化協会のグループインスタンスを開きますのでお時間になったらJoinしてください。\r\n開催直後のグループ参加は難しい可能性がありますので事前の参加をお勧めします。\r\nhttps://vrchat.com/home/group/grp_9bee651c-2ed0-4cd4-abf8-cfc56f332b23",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-01-26",
+        "start_time": "22:00:00",
+        "duration": 60,
         "weekday": "Sun"
     },
     {
@@ -4264,5 +4264,36 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Mon"
+    },
+    {
+        "id": 1240,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-01",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/yonabeyona",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/cs-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-03-25",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
     }
 ]
