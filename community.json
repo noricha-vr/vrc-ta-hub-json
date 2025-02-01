@@ -1,5 +1,54 @@
 [
     {
+        "id": 70,
+        "name": "セクシーサイエンス 知的情欲に脳を溶かす一夜",
+        "created_at": "2025-02-01",
+        "updated_at": "2025-02-01",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Other"
+        ],
+        "frequency": "単発",
+        "organizers": "Kuroly",
+        "group_url": "https://vrchat.com/home/group/grp_6e37cd15-db88-474b-a72f-abc3ac57d520",
+        "organizer_url": "https://vrchat.com/home/user/usr_9eac77d5-3b75-4ff4-b23f-99773f94676f",
+        "sns_url": "https://x.com/Kuroly7",
+        "discord": "",
+        "twitter_hashtag": "#セクシーサイエンス",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/1_-1000-1000.jpeg",
+        "description": "２月９日（日）開催",
+        "platform": "PC",
+        "tags": [
+            "tech",
+            "academic"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "天文仮想研究所VSP",
+        "created_at": "2025-01-31",
+        "updated_at": "2025-02-01",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Other"
+        ],
+        "frequency": "不定期（月に2, 3回程度）",
+        "organizers": "天野ステラ",
+        "group_url": "https://vrchat.com/home/group/grp_37165f97-94cf-4ea7-8bf6-18a52d897a6a",
+        "organizer_url": "https://vrchat.com/home/user/usr_e7e9b39a-bb67-4c58-aaf6-fc3199e64b6b",
+        "sns_url": "https://x.com/vsp_vrc",
+        "discord": "http://discord.gg/3E9wdC6qZq",
+        "twitter_hashtag": "#天文仮想研究所",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VSPPoster0331-1000-1000.jpeg",
+        "description": "天文宇宙に関する解説会や、雑談会・ライトニングトーク会を行っています。\r\nどなたでもお気軽にご参加ください。（聞くだけ・見るだけOKです！）\r\n集会の模様は、VSP公式YouTubeチャンネルにて一部公開しています。\r\nhttps://www.youtube.com/@VirtualSpaceProgram\r\n\r\n<天文仮想研究所とは>\r\nVR空間で活動する宇宙同好会（任意団体）です。\r\nバーチャルリアリティ技術を用いて天文学や宇宙開発等に関する活動を行い、\r\n参加者の興味・関心を高めるとともに、天文学や宇宙開発を楽しむことを目的としています。\r\n公式Web:  https://virtualspaceprogram.org/",
+        "platform": "PC",
+        "tags": [
+            "academic"
+        ]
+    },
+    {
         "id": 68,
         "name": "VRC博物喫茶",
         "created_at": "2025-01-15",
