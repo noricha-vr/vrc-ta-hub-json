@@ -3,7 +3,7 @@
         "id": 68,
         "name": "VRC博物喫茶",
         "created_at": "2025-01-15",
-        "updated_at": "2025-01-15",
+        "updated_at": "2025-02-01",
         "start_time": "22:00:00",
         "duration": 60,
         "weekdays": [
@@ -16,7 +16,7 @@
         "sns_url": "https://x.com/forespecs",
         "discord": "",
         "twitter_hashtag": "#VRC博物喫茶",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/mira_HKa_3-1000-1000.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
         "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
         "platform": "All",
         "tags": [

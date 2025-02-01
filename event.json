@@ -186,6 +186,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1259,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-02-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 1106,
         "community": {
             "id": 14,
@@ -1148,6 +1179,37 @@
         },
         "date": "2025-02-18",
         "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1260,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-02-18",
+        "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Tue"
     },
@@ -2175,6 +2237,37 @@
         },
         "date": "2025-03-04",
         "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1261,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-03-04",
+        "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Tue"
     },
@@ -3208,6 +3301,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1262,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-03-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 1223,
         "community": {
             "id": 14,
@@ -4200,6 +4324,37 @@
         },
         "date": "2025-04-01",
         "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1263,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-04-01",
+        "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Tue"
     }
