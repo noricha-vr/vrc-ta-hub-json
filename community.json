@@ -97,6 +97,30 @@
         ]
     },
     {
+        "id": 65,
+        "name": "仮想学生集会",
+        "created_at": "2025-01-08",
+        "updated_at": "2025-02-02",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekdays": [
+            "Thu"
+        ],
+        "frequency": "毎月第三木曜日",
+        "organizers": "JVSL / 日本仮想学生連盟 (代表: See2et / しーぜっと, 副代表: ふう fu-sasa)",
+        "group_url": "https://vrc.group/JVSL.6278",
+        "organizer_url": "https://vrchat.com/home/user/usr_c15df947-4df7-46db-befc-6abcbe21a5e0",
+        "sns_url": "https://x.com/@see2et",
+        "discord": "https://discord.gg/3sWWSFFjXD",
+        "twitter_hashtag": "#仮想学生集会",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/Thumbnail_2.20_9-16-1000.jpeg",
+        "description": "【 #仮想学生集会 開催！】\r\n\r\nバーチャル空間で活躍している学生と、ワクワクすることに取り組んでみたい学生。\r\nそんな人たちが集まってお喋りしながら交流するイベントです！\r\n\r\n開催日時: 毎月第三木曜日\r\n参加方法: JVSLのGroup+にJoin",
+        "platform": "All",
+        "tags": [
+            "tech"
+        ]
+    },
+    {
         "id": 64,
         "name": "RadeonVRの会",
         "created_at": "2025-01-07",
