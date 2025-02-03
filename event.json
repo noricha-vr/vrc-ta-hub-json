@@ -516,8 +516,8 @@
             "sns_url": "https://x.com/Kuroly7",
             "discord": "",
             "twitter_hashtag": "#セクシーサイエンス",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/1_-1000-1000-1000-1000.jpeg",
-            "description": "２月９日（日）開催\r\n\r\n技術・学術系のスタッフや登壇者が、全員「えろおんな」アバターで登場するという前代未聞のイベントが爆誕！\r\nルールはただひとつ――「脱輪と具の露呈さえしなければOK！」という、VRChatterの布面積くらい薄い規定だけ！\r\n\r\n各登壇者は「エロとは何か？」という深遠な哲学をを衣装に全力投影。その衣装は服なのか、服ですらないのか。\r\nそんな“激ヤバエロ布”で5分間のLT（ライトニングトーク）をかまします。\r\n初心者向けの内容なので、「へぇ～、乳の見せ方にも学術的アプローチがあるのか…」なんて、意外にも知的好奇心が満たされちゃうかも？\r\n\r\n記念すべき第一回のプログラムはこちら！\r\n\r\nアバターの乳はどう見せれば魅力的になるか？ ～整形外科医の論文より～\r\n\r\n同じサークルの僕だけの姫 〜組織が崩壊する瞬間(とき)〜\r\n\r\nEronunotice 今日の一枚\r\n\r\n北風と太陽、旅人さん脱がしプロジェクトから学ぶプロジェクトマネジメント入門\r\n\r\nエロ布のトライボロジー（摩擦学）\r\n\r\nlife of エロ布 (ポリゴンがレンダリングされるまでの数理)\r\n\r\n例のあのWebサイトを支える技術",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/1_-1000-1000-1000-1000-1000.jpeg",
+            "description": "技術・学術系のスタッフや登壇者が、全員 「えろおんな」 アバターで登場するという前代未聞のイベントが爆誕！🎉\r\nルールはただひとつ――「脱輪と具の露呈さえしなければOK！」という、VRChatter の布面積くらい薄い規定だけ！🔥\r\n\r\n各登壇者は 「エロとは何か？」 という深遠な哲学をを衣装に全力投影。その衣装は服なのか、服ですらないのか。🤔\r\nそんな “激ヤバエロ布” で5分間の LT（ライトニングトーク）をかまします。💥\r\n初心者向けの内容なので、「へぇ～、乳の見せ方にも学術的アプローチがあるのか…」なんて、意外にも知的好奇心が満たされちゃうかも？😮\r\n\r\n記念すべき第一回のプログラムはこちら！🎊\r\n\r\n\r\nアバターの乳はどう見せれば魅力的になるか？ ～整形外科医の論文より～\r\n\r\n同じサークルの僕だけの姫 〜組織が崩壊する瞬間(とき)〜\r\n\r\nEronunotice 今日の一枚\r\n\r\n北風と太陽、旅人さん脱がしプロジェクトから学ぶプロジェクトマネジメント入門\r\n\r\nエロ布のトライボロジー（摩擦学）\r\n\r\nlife of エロ布 (ポリゴンがレンダリングされるまでの数理)\r\n\r\n例のあのWebサイトを支える技術",
             "platform": "PC",
             "tags": [
                 "tech",
@@ -4576,5 +4576,68 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
+    },
+    {
+        "id": 1275,
+        "community": {
+            "id": 53,
+            "name": "VRC微分音集会",
+            "created_at": "2024-09-13",
+            "updated_at": "2024-10-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "月1回",
+            "organizers": "MisohitoNakai",
+            "group_url": "https://vrchat.com/home/group/grp_550cf370-c27b-4835-b07e-de919b0c03e1",
+            "organizer_url": "https://vrchat.com/home/user/usr_90397ef6-2541-47e7-b4eb-0aedc6e34b83",
+            "sns_url": "https://x.com/XENMVR",
+            "discord": "https://discord.gg/7BSnUpwu7b",
+            "twitter_hashtag": "#VRC微分音集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/1000017990-1000_JgVxzff.jpeg",
+            "description": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-04-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
+    },
+    {
+        "id": 1276,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "Cluster 隔週(グループA) VRChat 隔週(グループB)",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#VRCエンジニア作業飲み集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/engineersagyo.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
     }
 ]
