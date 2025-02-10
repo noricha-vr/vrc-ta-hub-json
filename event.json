@@ -4514,5 +4514,36 @@
         "start_time": "22:30:00",
         "duration": 30,
         "weekday": "Thu"
+    },
+    {
+        "id": 1295,
+        "community": {
+            "id": 35,
+            "name": "UIUXデザイン集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月11日",
+            "organizers": "kurone-kito",
+            "group_url": "https://vrc.group/KITO.5699",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.gg/hM5dpGaWgB",
+            "twitter_hashtag": "#UIUXデザイン集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/uiux.jpeg",
+            "description": "Webで！ゲームで！業務システムで！皆さんの経験したクソUI・神UIなお話を飲み会感覚でお気軽にお聞かせください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-11",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
     }
 ]
