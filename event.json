@@ -124,37 +124,6 @@
         "weekday": "Sun"
     },
     {
-        "id": 1303,
-        "community": {
-            "id": 3,
-            "name": "ゲーム開発集会Ⅲ",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-02-14",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sun"
-            ],
-            "frequency": "隔週",
-            "organizers": "---",
-            "group_url": "https://vrc.group/GAME.2515",
-            "organizer_url": "https://github.com/metaverse-gdm",
-            "sns_url": "https://mixi.social/communities/53f45a7e-7c39-4ae3-af69-0e39a935b9d9/",
-            "discord": "https://discord.gg/Mes3nP3mZt",
-            "twitter_hashtag": "#VRCゲーム開発集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/gdm-poster5-1000_x2P0zf8-1000-1000-1000.jpeg",
-            "description": "ゲーム開発（ゲームデザイン、2D・3Dグラフィック、シナリオ、音楽、プログラミング等）に関する交流イベントです。ゲーム開発に興味がある人なら誰でも参加できます！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-02-16",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
         "id": 1137,
         "community": {
             "id": 41,
@@ -1178,37 +1147,6 @@
         },
         "date": "2025-03-02",
         "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
-        "id": 1304,
-        "community": {
-            "id": 3,
-            "name": "ゲーム開発集会Ⅲ",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-02-14",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sun"
-            ],
-            "frequency": "隔週",
-            "organizers": "---",
-            "group_url": "https://vrc.group/GAME.2515",
-            "organizer_url": "https://github.com/metaverse-gdm",
-            "sns_url": "https://mixi.social/communities/53f45a7e-7c39-4ae3-af69-0e39a935b9d9/",
-            "discord": "https://discord.gg/Mes3nP3mZt",
-            "twitter_hashtag": "#VRCゲーム開発集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/gdm-poster5-1000_x2P0zf8-1000-1000-1000.jpeg",
-            "description": "ゲーム開発（ゲームデザイン、2D・3Dグラフィック、シナリオ、音楽、プログラミング等）に関する交流イベントです。ゲーム開発に興味がある人なら誰でも参加できます！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-03-02",
-        "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sun"
     },
@@ -2273,37 +2211,6 @@
         "weekday": "Sun"
     },
     {
-        "id": 1305,
-        "community": {
-            "id": 3,
-            "name": "ゲーム開発集会Ⅲ",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-02-14",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sun"
-            ],
-            "frequency": "隔週",
-            "organizers": "---",
-            "group_url": "https://vrc.group/GAME.2515",
-            "organizer_url": "https://github.com/metaverse-gdm",
-            "sns_url": "https://mixi.social/communities/53f45a7e-7c39-4ae3-af69-0e39a935b9d9/",
-            "discord": "https://discord.gg/Mes3nP3mZt",
-            "twitter_hashtag": "#VRCゲーム開発集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/gdm-poster5-1000_x2P0zf8-1000-1000-1000.jpeg",
-            "description": "ゲーム開発（ゲームデザイン、2D・3Dグラフィック、シナリオ、音楽、プログラミング等）に関する交流イベントです。ゲーム開発に興味がある人なら誰でも参加できます！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-03-16",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
         "id": 1221,
         "community": {
             "id": 54,
@@ -3327,37 +3234,6 @@
         },
         "date": "2025-03-30",
         "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
-        "id": 1306,
-        "community": {
-            "id": 3,
-            "name": "ゲーム開発集会Ⅲ",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-02-14",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sun"
-            ],
-            "frequency": "隔週",
-            "organizers": "---",
-            "group_url": "https://vrc.group/GAME.2515",
-            "organizer_url": "https://github.com/metaverse-gdm",
-            "sns_url": "https://mixi.social/communities/53f45a7e-7c39-4ae3-af69-0e39a935b9d9/",
-            "discord": "https://discord.gg/Mes3nP3mZt",
-            "twitter_hashtag": "#VRCゲーム開発集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/gdm-poster5-1000_x2P0zf8-1000-1000-1000.jpeg",
-            "description": "ゲーム開発（ゲームデザイン、2D・3Dグラフィック、シナリオ、音楽、プログラミング等）に関する交流イベントです。ゲーム開発に興味がある人なら誰でも参加できます！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-03-30",
-        "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sun"
     },
@@ -4473,37 +4349,6 @@
             "twitter_hashtag": "#TechGeekCafe",
             "poster_image": "https://data.vrc-ta-hub.com/poster/tachgeekcafe-1000.jpeg",
             "description": "若手技術者と高齢技術者の交流/BOF/井戸端会議の場の提供。基本は、任意参加、任意解散です。お時間はある方、ご参加ください。参加条件：        自称技術オタクの方か、オタク技術に興味のある方",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-04-13",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
-        "id": 1307,
-        "community": {
-            "id": 3,
-            "name": "ゲーム開発集会Ⅲ",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-02-14",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sun"
-            ],
-            "frequency": "隔週",
-            "organizers": "---",
-            "group_url": "https://vrc.group/GAME.2515",
-            "organizer_url": "https://github.com/metaverse-gdm",
-            "sns_url": "https://mixi.social/communities/53f45a7e-7c39-4ae3-af69-0e39a935b9d9/",
-            "discord": "https://discord.gg/Mes3nP3mZt",
-            "twitter_hashtag": "#VRCゲーム開発集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/gdm-poster5-1000_x2P0zf8-1000-1000-1000.jpeg",
-            "description": "ゲーム開発（ゲームデザイン、2D・3Dグラフィック、シナリオ、音楽、プログラミング等）に関する交流イベントです。ゲーム開発に興味がある人なら誰でも参加できます！",
             "platform": "All",
             "tags": [
                 "tech"
