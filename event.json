@@ -1,98 +1,5 @@
 [
     {
-        "id": 1131,
-        "community": {
-            "id": 25,
-            "name": "量子力学のたわいのない雑談の会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-14",
-            "start_time": "20:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "第1土曜日、第3土曜日",
-            "organizers": "digiponta",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
-            "sns_url": "",
-            "discord": "https://t.co/aLMqxTKrAc",
-            "twitter_hashtag": "#量子力学雑談会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/ryousirikigaku.jpeg",
-            "description": "量子力学に関連するyoutube動画を参加者で聴講し、雑談する集会です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-02-15",
-        "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1133,
-        "community": {
-            "id": 27,
-            "name": "VRC Blender集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
-            "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-02-15",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1134,
-        "community": {
-            "id": 30,
-            "name": "ITインフラ集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-14",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週(グループA)",
-            "organizers": "〆・えー",
-            "group_url": "https://vrc.group/INFRA.4469",
-            "organizer_url": "",
-            "sns_url": "",
-            "discord": "https://discord.gg/5KJrhHMBGN",
-            "twitter_hashtag": "#ITインフラ集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/infra.png",
-            "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-02-15",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
         "id": 1135,
         "community": {
             "id": 5,
@@ -147,6 +54,37 @@
             "platform": "All",
             "tags": [
                 "academic"
+            ]
+        },
+        "date": "2025-02-18",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1310,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-15",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://csharp-tokyo.connpass.com",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-02-18",
@@ -1205,6 +1143,37 @@
             "platform": "All",
             "tags": [
                 "academic"
+            ]
+        },
+        "date": "2025-03-04",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1311,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-15",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://csharp-tokyo.connpass.com",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-03-04",
@@ -2273,6 +2242,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1312,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-15",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://csharp-tokyo.connpass.com",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-03-18",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 1262,
         "community": {
             "id": 68,
@@ -3323,6 +3323,37 @@
             "platform": "All",
             "tags": [
                 "academic"
+            ]
+        },
+        "date": "2025-04-01",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1313,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-15",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://csharp-tokyo.connpass.com",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-04-01",
@@ -4453,6 +4484,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1314,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-15",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://csharp-tokyo.connpass.com",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-15",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 1309,
         "community": {
             "id": 68,
@@ -4482,5 +4544,130 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Tue"
+    },
+    {
+        "id": 1315,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-16",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1316,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ml.png",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-04-16",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1317,
+        "community": {
+            "id": 42,
+            "name": "VRC歴史集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "セミナー会 ：毎月第一月曜日雑談会：毎月第三水曜日",
+            "organizers": "るいざ・しゃーろっと",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_11111ccd-db54-4ecd-be27-fcae98acf0ee",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRC歴史集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/rekisi.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-04-16",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1318,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-16",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
     }
 ]
