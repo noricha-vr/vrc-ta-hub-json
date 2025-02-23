@@ -11396,6 +11396,46 @@
         "theme": "生成AIとCursorで作る Chrome拡張機能 (TwitterBlocker)"
     },
     {
+        "id": 312,
+        "event": {
+            "id": 1342,
+            "community": {
+                "id": 18,
+                "name": "データサイエンティスト集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-01-06",
+                "start_time": "21:00:00",
+                "duration": 90,
+                "weekdays": [
+                    "Thu"
+                ],
+                "frequency": "隔週(グループB)",
+                "organizers": "いそひまかん・ぶんちん",
+                "group_url": "https://vrc.group/DSG.9976",
+                "organizer_url": "https://x.com/IsoKan_DD",
+                "sns_url": "https://x.com/dsGathering_vrc",
+                "discord": "https://discord.gg/U4GJPhuZ8S",
+                "twitter_hashtag": "#DS集会VRC",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_5a5KvT3.jpeg",
+                "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-02-20",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekday": "Thu"
+        },
+        "start_time": "22:00:00",
+        "duration": 10,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "通信の猫@ID=AO",
+        "theme": "インターネットのトラヒック推移を\u000bみんなで見る会\u000b～ちょっとIOWN～"
+    },
+    {
         "id": 308,
         "event": {
             "id": 1146,
@@ -11434,6 +11474,87 @@
         "slide_url": null,
         "speaker": "あんでぃ",
         "theme": "自己肯定感アップ大作戦～たった一つの習慣を変えよう～"
+    },
+    {
+        "id": 313,
+        "event": {
+            "id": 1210,
+            "community": {
+                "id": 26,
+                "name": "株式投資座談会",
+                "created_at": "2024-06-05",
+                "updated_at": "2024-06-23",
+                "start_time": "21:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "Tak1123",
+                "group_url": "",
+                "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+                "sns_url": "",
+                "discord": "https://t.co/bZ70vyhL14",
+                "twitter_hashtag": "#VRC株式投資座談会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+                "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+                "platform": "All",
+                "tags": [
+                    "tech",
+                    "academic"
+                ]
+            },
+            "date": "2025-02-22",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "21:00:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "TAK1123",
+        "theme": "今週、次週の市況解説"
+    },
+    {
+        "id": 311,
+        "event": {
+            "id": 1341,
+            "community": {
+                "id": 18,
+                "name": "データサイエンティスト集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-01-06",
+                "start_time": "21:00:00",
+                "duration": 90,
+                "weekdays": [
+                    "Thu"
+                ],
+                "frequency": "隔週(グループB)",
+                "organizers": "いそひまかん・ぶんちん",
+                "group_url": "https://vrc.group/DSG.9976",
+                "organizer_url": "https://x.com/IsoKan_DD",
+                "sns_url": "https://x.com/dsGathering_vrc",
+                "discord": "https://discord.gg/U4GJPhuZ8S",
+                "twitter_hashtag": "#DS集会VRC",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_5a5KvT3.jpeg",
+                "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-02-24",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekday": "Mon"
+        },
+        "start_time": "21:00:00",
+        "duration": 120,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "事前申し込みされた方たち",
+        "theme": "VRChatイベントカレンダーデータ分析イベント　発表会"
     },
     {
         "id": 309,
