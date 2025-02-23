@@ -1,67 +1,5 @@
 [
     {
-        "id": 1149,
-        "community": {
-            "id": 56,
-            "name": "ITエンジニア キャリア相談・雑談集会",
-            "created_at": "2024-10-17",
-            "updated_at": "2024-12-16",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sun"
-            ],
-            "frequency": "隔週",
-            "organizers": "KAGU3・いとじゅん",
-            "group_url": "https://vrc.group/ITCA.5490",
-            "organizer_url": "https://vrchat.com/home/user/usr_3acc0eaf-be76-4dc0-8542-b51e87e5c5fc",
-            "sns_url": "https://x.com/Kagu3_IT",
-            "discord": "https://discord.gg/UGCjerre",
-            "twitter_hashtag": "#VRC_ITキャリア集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/ITCA_poster-1000_A1vtPYd-1000.jpeg",
-            "description": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-02-23",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
-        "id": 1150,
-        "community": {
-            "id": 1,
-            "name": "自作PC交流会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-17",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sun"
-            ],
-            "frequency": "不定期",
-            "organizers": "eigo・きーたん",
-            "group_url": "",
-            "organizer_url": "eigo・きーたん",
-            "sns_url": "",
-            "discord": "https://discord.gg/zDRmrjgUnR",
-            "twitter_hashtag": "",
-            "poster_image": null,
-            "description": "",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-02-23",
-        "start_time": "21:30:00",
-        "duration": 90,
-        "weekday": "Sun"
-    },
-    {
         "id": 1341,
         "community": {
             "id": 18,
@@ -151,6 +89,37 @@
         },
         "date": "2025-02-24",
         "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Mon"
+    },
+    {
+        "id": 1343,
+        "community": {
+            "id": 4,
+            "name": "VRC脳波技術集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-02-23",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "不定期",
+            "organizers": "彩瑞スピス",
+            "group_url": "https://vrc.group/EEGIRL.5765",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.gg/KgMXYgZy8w",
+            "twitter_hashtag": "#VRC脳波技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/noha-1000-1000.jpeg",
+            "description": "VRC脳波技術集会は、主催者の脳波測定機器（BCI等）を利用したコンテンツ制作企画に関する開発の報告を始め、脳波技術に関する紹介やLT、制作物の展示などを行うイベントです。脳波技術に興味がある方や開発を行いたい方はは是非ご参加ください！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-02-24",
+        "start_time": "23:00:00",
         "duration": 60,
         "weekday": "Mon"
     },
@@ -4700,5 +4669,98 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Wed"
+    },
+    {
+        "id": 1344,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-12-12",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaihatsu-100_evD7tzk.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-24",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
+        "id": 1345,
+        "community": {
+            "id": 20,
+            "name": "OSS集会（オープンソースソフトウェア集会）",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-28",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#OSS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/oss-1000.jpeg",
+            "description": "OSS（オープンソースソフトウェア）集会\r\nVRChat用に開発しているシステムのソースコードをみんなで眺めたり、デバッグしたり、意見を出し合う集会です。個人開発集会の跡地を利用するのでエンジニアがたくさん集まってます。\r\nプログラミング好きの方はぜひ遊びに来てね(^^)v",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-24",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
+        "id": 1346,
+        "community": {
+            "id": 21,
+            "name": "分解技術集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-14",
+            "start_time": "22:30:00",
+            "duration": 30,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "第一木曜日、第三木曜日",
+            "organizers": "kiyone",
+            "group_url": "https://vrchat.com/home/group/grp_6bc8d49d-0e45-41fa-940c-43ec89d4ac87",
+            "organizer_url": "https://vrchat.com/home/user/usr_314b5898-d336-40a5-95eb-b880c18c2f99",
+            "sns_url": "",
+            "discord": "https://discord.gg/jfQ3gdBd4N",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/201104-1-1000.jpeg",
+            "description": "",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-24",
+        "start_time": "22:30:00",
+        "duration": 30,
+        "weekday": "Thu"
     }
 ]
