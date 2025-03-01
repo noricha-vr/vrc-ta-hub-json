@@ -11597,6 +11597,46 @@
         "theme": "ワールド制作でユーザの課題解決をしよう"
     },
     {
+        "id": 322,
+        "event": {
+            "id": 1347,
+            "community": {
+                "id": 54,
+                "name": "CTF集会",
+                "created_at": "2024-10-03",
+                "updated_at": "2024-12-02",
+                "start_time": "21:30:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週",
+                "organizers": "@kumama_nui",
+                "group_url": "https://vrc.group/CTFCOM.8948",
+                "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+                "sns_url": "https://x.com/kumama_nui",
+                "discord": "http://discord.gg/7EReqAK5Tk",
+                "twitter_hashtag": "#CTF集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
+                "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-03-02",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekday": "Sun"
+        },
+        "start_time": "21:00:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "kumama_nui",
+        "theme": "ランサムウェア報告書を読む"
+    },
+    {
         "id": 315,
         "event": {
             "id": 1183,
