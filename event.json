@@ -4916,5 +4916,130 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Mon"
+    },
+    {
+        "id": 1403,
+        "community": {
+            "id": 41,
+            "name": "社会科学集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Kuretan・Gipi_3",
+            "group_url": "",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/2JW4kudS3u",
+            "twitter_hashtag": "#社会科学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/socialsciencemeetUp.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-05-13",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1404,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-05-13",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1405,
+        "community": {
+            "id": 62,
+            "name": "VRChatデザイン集会",
+            "created_at": "2024-12-18",
+            "updated_at": "2025-01-04",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "毎月第2火曜",
+            "organizers": "D.Na｜だな",
+            "group_url": "https://vrc.group/DESIGN.5534",
+            "organizer_url": "https://vrchat.com/home/user/usr_870a4584-a0f3-4715-9c08-78fd60eb252b",
+            "sns_url": "https://x.com/D_Na_mi3",
+            "discord": "https://discord.gg/s6JhuGjZpp",
+            "twitter_hashtag": "#VRCデザイン集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/2412design_pos2048-1000-1000.jpeg",
+            "description": "VRChatデザイン集会は、デザインのあれこれについて気軽に話せるイベントです。\r\nなんらかのデザインをつくっている人はもちろん、デザインの依頼を考えている方、デザインのことが気になるという方など、どなたでもご自由にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-05-13",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1406,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-05-13",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Tue"
     }
 ]
