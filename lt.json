@@ -11470,7 +11470,7 @@
         },
         "start_time": "21:00:00",
         "duration": 60,
-        "youtube_url": null,
+        "youtube_url": "https://www.youtube.com/watch?v=VIjS03r_1Sk",
         "slide_url": null,
         "speaker": "あんでぃ",
         "theme": "自己肯定感アップ大作戦～たった一つの習慣を変えよう～"
@@ -11999,6 +11999,47 @@
         "theme": "ゲームボーイに画像表示させよう！"
     },
     {
+        "id": 339,
+        "event": {
+            "id": 1480,
+            "community": {
+                "id": 15,
+                "name": "ML集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-03-10",
+                "start_time": "21:30:00",
+                "duration": 60,
+                "weekdays": [
+                    "Wed"
+                ],
+                "frequency": "毎週",
+                "organizers": "げそん≺GesonAnko≻",
+                "group_url": "https://vrc.group/VRCML.9230",
+                "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+                "sns_url": "https://x.com/VRC_ML_hangout",
+                "discord": "https://discord.gg/6rQ2PZTDqa",
+                "twitter_hashtag": "#ML集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+                "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+                "platform": "All",
+                "tags": [
+                    "tech",
+                    "academic"
+                ]
+            },
+            "date": "2025-03-26",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekday": "Wed"
+        },
+        "start_time": "22:00:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "GesonAnko",
+        "theme": "P-AMI<Q>の進捗報告LT \"Weekly P-AMI<Q>\"1"
+    },
+    {
         "id": 335,
         "event": {
             "id": 1448,
@@ -12037,6 +12078,47 @@
         "slide_url": null,
         "speaker": "rin_dguiterさん",
         "theme": "プログラミング初心者がAITuberを開発してみた"
+    },
+    {
+        "id": 340,
+        "event": {
+            "id": 1481,
+            "community": {
+                "id": 15,
+                "name": "ML集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-03-10",
+                "start_time": "21:30:00",
+                "duration": 60,
+                "weekdays": [
+                    "Wed"
+                ],
+                "frequency": "毎週",
+                "organizers": "げそん≺GesonAnko≻",
+                "group_url": "https://vrc.group/VRCML.9230",
+                "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+                "sns_url": "https://x.com/VRC_ML_hangout",
+                "discord": "https://discord.gg/6rQ2PZTDqa",
+                "twitter_hashtag": "#ML集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+                "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+                "platform": "All",
+                "tags": [
+                    "tech",
+                    "academic"
+                ]
+            },
+            "date": "2025-04-02",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekday": "Wed"
+        },
+        "start_time": "22:00:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "GesonAnko",
+        "theme": "P-AMI<Q>の進捗報告LT \"Weekly P-AMI<Q>\"2"
     },
     {
         "id": 337,
@@ -12199,5 +12281,45 @@
         "slide_url": null,
         "speaker": "さめ（мег-сск）",
         "theme": "GPSで活躍する相対論！　〜人工衛星はどのようにスマートフォンの位置を測るのか？〜"
+    },
+    {
+        "id": 341,
+        "event": {
+            "id": 1350,
+            "community": {
+                "id": 32,
+                "name": "マネジメント集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2024-06-28",
+                "start_time": "21:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "定例開催は最終土曜日/その他不定期",
+                "organizers": "NekoDOS・あんでぃ・Earl_Klutz",
+                "group_url": "https://vrc.group/MANAGE.4724",
+                "organizer_url": "",
+                "sns_url": "https://x.com/ManagementMeet",
+                "discord": "https://discord.gg/7bKUrQecjm",
+                "twitter_hashtag": "#マネジメント集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/management-1000-1000-1000-1000.jpeg",
+                "description": "マネジメント集会は、「人間、誰しもがマネージャーだ！」という標語の元、様々な管理にかかわるトピックについて登壇発表会を行った後に自由交流という流れで運営している集会です。\r\n現役経営者のねこどす、ガチ講師あんでぃ、企業参謀Kultzとライフプランがエグいmadaoが運営しながら、様々な方の登壇を受け付けております。\r\n是非、お気軽にお越しください。\r\nなお、アーカイブは、内容の価値などを鑑みた諸々の事情により基本公開しておりません。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-04-26",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "21:00:00",
+        "duration": 60,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "あんでぃ",
+        "theme": "Re：コミュニケーションからはじめるマネジメント"
     }
 ]
