@@ -155,6 +155,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1499,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-08",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 1287,
         "community": {
             "id": 62,
@@ -500,6 +531,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 1494,
+        "community": {
+            "id": 54,
+            "name": "セキュリティ集会 in VRChat",
+            "created_at": "2024-10-03",
+            "updated_at": "2025-04-07",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#セキュリティ集会inVRC",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/CTF%E9%9B%86%E4%BC%9A-1000.jpeg",
+            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-12",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1298,
         "community": {
             "id": 30,
@@ -593,37 +655,6 @@
         "weekday": "Sun"
     },
     {
-        "id": 1301,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-04-13",
-        "start_time": "21:30:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
         "id": 1302,
         "community": {
             "id": 39,
@@ -678,37 +709,6 @@
             "platform": "All",
             "tags": [
                 "academic"
-            ]
-        },
-        "date": "2025-04-15",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Tue"
-    },
-    {
-        "id": 1490,
-        "community": {
-            "id": 52,
-            "name": "C# Tokyo もくもく会",
-            "created_at": "2024-09-12",
-            "updated_at": "2025-02-17",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "2～3週間に1度",
-            "organizers": "suusanex（須藤）・mishizaki",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
-            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
-            "discord": "",
-            "twitter_hashtag": "#csharptokyo",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
-            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
-            "platform": "All",
-            "tags": [
-                "tech"
             ]
         },
         "date": "2025-04-15",
@@ -993,37 +993,6 @@
         },
         "date": "2025-04-19",
         "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1328,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-04-19",
-        "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sat"
     },
@@ -1363,6 +1332,37 @@
             "platform": "All",
             "tags": [
                 "academic"
+            ]
+        },
+        "date": "2025-04-22",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1500,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-04-22",
@@ -1745,6 +1745,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 1495,
+        "community": {
+            "id": 54,
+            "name": "セキュリティ集会 in VRChat",
+            "created_at": "2024-10-03",
+            "updated_at": "2025-04-07",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#セキュリティ集会inVRC",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/CTF%E9%9B%86%E4%BC%9A-1000.jpeg",
+            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-04-26",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1352,
         "community": {
             "id": 30,
@@ -1803,37 +1834,6 @@
         },
         "date": "2025-04-27",
         "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
-        "id": 1354,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-04-27",
-        "start_time": "21:30:00",
         "duration": 60,
         "weekday": "Sun"
     },
@@ -1923,37 +1923,6 @@
             "platform": "All",
             "tags": [
                 "academic"
-            ]
-        },
-        "date": "2025-04-29",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Tue"
-    },
-    {
-        "id": 1491,
-        "community": {
-            "id": 52,
-            "name": "C# Tokyo もくもく会",
-            "created_at": "2024-09-12",
-            "updated_at": "2025-02-17",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "2～3週間に1度",
-            "organizers": "suusanex（須藤）・mishizaki",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
-            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
-            "discord": "",
-            "twitter_hashtag": "#csharptokyo",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
-            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
-            "platform": "All",
-            "tags": [
-                "tech"
             ]
         },
         "date": "2025-04-29",
@@ -2301,37 +2270,6 @@
         },
         "date": "2025-05-03",
         "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1376,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-05-03",
-        "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sat"
     },
@@ -2710,6 +2648,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1501,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-05-06",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 1389,
         "community": {
             "id": 14,
@@ -2960,6 +2929,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 1496,
+        "community": {
+            "id": 54,
+            "name": "セキュリティ集会 in VRChat",
+            "created_at": "2024-10-03",
+            "updated_at": "2025-04-07",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#セキュリティ集会inVRC",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/CTF%E9%9B%86%E4%BC%9A-1000.jpeg",
+            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-05-10",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1397,
         "community": {
             "id": 30,
@@ -3053,37 +3053,6 @@
         "weekday": "Sun"
     },
     {
-        "id": 1400,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-05-11",
-        "start_time": "21:30:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
         "id": 1401,
         "community": {
             "id": 35,
@@ -3169,37 +3138,6 @@
             "platform": "All",
             "tags": [
                 "academic"
-            ]
-        },
-        "date": "2025-05-13",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Tue"
-    },
-    {
-        "id": 1492,
-        "community": {
-            "id": 52,
-            "name": "C# Tokyo もくもく会",
-            "created_at": "2024-09-12",
-            "updated_at": "2025-02-17",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "2～3週間に1度",
-            "organizers": "suusanex（須藤）・mishizaki",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
-            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
-            "discord": "",
-            "twitter_hashtag": "#csharptokyo",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
-            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
-            "platform": "All",
-            "tags": [
-                "tech"
             ]
         },
         "date": "2025-05-13",
@@ -3516,37 +3454,6 @@
         },
         "date": "2025-05-17",
         "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1415,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-05-17",
-        "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sat"
     },
@@ -3894,6 +3801,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1502,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-05-20",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 1426,
         "community": {
             "id": 14,
@@ -4175,6 +4113,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 1497,
+        "community": {
+            "id": 54,
+            "name": "セキュリティ集会 in VRChat",
+            "created_at": "2024-10-03",
+            "updated_at": "2025-04-07",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrc.group/CTFCOM.8948",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#セキュリティ集会inVRC",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/CTF%E9%9B%86%E4%BC%9A-1000.jpeg",
+            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-05-24",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1435,
         "community": {
             "id": 30,
@@ -4233,37 +4202,6 @@
         },
         "date": "2025-05-25",
         "start_time": "20:00:00",
-        "duration": 60,
-        "weekday": "Sun"
-    },
-    {
-        "id": 1437,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-05-25",
-        "start_time": "21:30:00",
         "duration": 60,
         "weekday": "Sun"
     },
@@ -4353,37 +4291,6 @@
             "platform": "All",
             "tags": [
                 "academic"
-            ]
-        },
-        "date": "2025-05-27",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Tue"
-    },
-    {
-        "id": 1493,
-        "community": {
-            "id": 52,
-            "name": "C# Tokyo もくもく会",
-            "created_at": "2024-09-12",
-            "updated_at": "2025-02-17",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "2～3週間に1度",
-            "organizers": "suusanex（須藤）・mishizaki",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
-            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
-            "discord": "",
-            "twitter_hashtag": "#csharptokyo",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
-            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
-            "platform": "All",
-            "tags": [
-                "tech"
             ]
         },
         "date": "2025-05-27",
@@ -4765,37 +4672,6 @@
         "weekday": "Sat"
     },
     {
-        "id": 1466,
-        "community": {
-            "id": 54,
-            "name": "CTF集会",
-            "created_at": "2024-10-03",
-            "updated_at": "2024-12-02",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrc.group/CTFCOM.8948",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#CTF集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A_1-1000-1000-1000-1000-1000-1000.jpeg",
-            "description": "CTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-05-31",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
         "id": 1467,
         "community": {
             "id": 27,
@@ -5162,6 +5038,37 @@
             "platform": "All",
             "tags": [
                 "academic"
+            ]
+        },
+        "date": "2025-06-03",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1503,
+        "community": {
+            "id": 52,
+            "name": "C# Tokyo もくもく会",
+            "created_at": "2024-09-12",
+            "updated_at": "2025-02-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "2～3週間に1度",
+            "organizers": "suusanex（須藤）・mishizaki",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_6663c339-1203-4774-a97a-16e6f4a03013",
+            "sns_url": "https://join.slack.com/t/csharp-tokyo/shared_invite/enQtNjY5MjU1ODEyMjkzLWI1MWNhNTQzYzJmZWJmYThhZTRiNTgzNWIwMmYxZmEzZDg0NThhNzZiNDc4MTkyNTMyMzk4ZDM1MWUwZGZkNjg",
+            "discord": "",
+            "twitter_hashtag": "#csharptokyo",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%81%E3%83%A9%E3%82%B7-1000-1000.jpeg",
+            "description": "C# Tokyo とは、C#に関するオフラインイベントを主に東京で開催している団体です。TeamsやYoutube等でのオンラインイベントもやっています。\r\n\r\nもくもく作業したり、会話したり、あるいはメタバース自体を色々と試してみたりなど、その日に集まったメンバーのノリでゆるめにやっています。\r\n扱う話題も厳密に C# だけに限定はせず、周辺技術や C# とあわせて使われる技術などコミュニティメンバーが関心を持ちそうなことなら何でもありです。\r\nコミュニティメンバーがメタバースに慣れてもらえたらというのはもちろん、メタバースからもC# Tokyoに興味を持ってもらえたら嬉しいです。\r\n\r\nぜひ気軽に参加してみてください！\r\n\r\n開催数日前にConnpassで告知していますので、次のURL（C# Tokyoのページ）から最新のイベントを探してみてください。\r\nhttps://csharp-tokyo.connpass.com",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-06-03",
