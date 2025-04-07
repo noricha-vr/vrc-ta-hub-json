@@ -1,98 +1,5 @@
 [
     {
-        "id": 1283,
-        "community": {
-            "id": 7,
-            "name": "アバターホビー集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-07-01",
-            "start_time": "21:30:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon"
-            ],
-            "frequency": "隔週(グループA)",
-            "organizers": "そむにうむ＠森山",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_e676020e-3c86-42a2-8d34-943e38e9e94c",
-            "sns_url": "https://x.com/Somnium",
-            "discord": "https://discord.com/invite/M3996Mc",
-            "twitter_hashtag": "",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/Poster20240628_001-1000.jpeg",
-            "description": "アバターのフィギュア化を始めをして、メタバース・アバター文化に関する様々なクリエイティブの可能性を語る集会です。\r\nアバターフィギュアや制作物を作ってみたい人・興味のある人・VRChat初心者飲迎します。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-04-07",
-        "start_time": "21:30:00",
-        "duration": 60,
-        "weekday": "Mon"
-    },
-    {
-        "id": 1284,
-        "community": {
-            "id": 42,
-            "name": "VRC歴史集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-17",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Wed"
-            ],
-            "frequency": "セミナー会 ：毎月第一月曜日雑談会：毎月第三水曜日",
-            "organizers": "るいざ・しゃーろっと",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/group/grp_11111ccd-db54-4ecd-be27-fcae98acf0ee",
-            "sns_url": "",
-            "discord": "",
-            "twitter_hashtag": "#VRC歴史集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/rekisi.png",
-            "description": "",
-            "platform": "All",
-            "tags": [
-                "academic"
-            ]
-        },
-        "date": "2025-04-07",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Mon"
-    },
-    {
-        "id": 1285,
-        "community": {
-            "id": 37,
-            "name": "化学のおはなし会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-17",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon"
-            ],
-            "frequency": "隔週(グループA)",
-            "organizers": "Prolin",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/group/grp_f75d4865-cba7-4039-b501-fcbfb72cd7da",
-            "sns_url": "",
-            "discord": "https://discord.com/invite/hYGVkeraKu",
-            "twitter_hashtag": "#化学のおはなし会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/kagaku.jpeg",
-            "description": "",
-            "platform": "All",
-            "tags": [
-                "academic"
-            ]
-        },
-        "date": "2025-04-07",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Mon"
-    },
-    {
         "id": 1286,
         "community": {
             "id": 11,
@@ -5262,5 +5169,37 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
+    },
+    {
+        "id": 1504,
+        "community": {
+            "id": 53,
+            "name": "VRC微分音集会",
+            "created_at": "2024-09-13",
+            "updated_at": "2024-10-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "月1回",
+            "organizers": "MisohitoNakai",
+            "group_url": "https://vrchat.com/home/group/grp_550cf370-c27b-4835-b07e-de919b0c03e1",
+            "organizer_url": "https://vrchat.com/home/user/usr_90397ef6-2541-47e7-b4eb-0aedc6e34b83",
+            "sns_url": "https://x.com/XENMVR",
+            "discord": "https://discord.gg/7BSnUpwu7b",
+            "twitter_hashtag": "#VRC微分音集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/1000017990-1000_JgVxzff.jpeg",
+            "description": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-06-06",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
     }
 ]
