@@ -12202,6 +12202,46 @@
         "theme": "Erv Wilsonの音階の構築方法"
     },
     {
+        "id": 345,
+        "event": {
+            "id": 1295,
+            "community": {
+                "id": 35,
+                "name": "UIUXデザイン集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-10",
+                "start_time": "22:00:00",
+                "duration": 80,
+                "weekdays": [
+                    "Other"
+                ],
+                "frequency": "毎月11日",
+                "organizers": "kurone-kito",
+                "group_url": "https://vrc.group/KITO.5699",
+                "organizer_url": "",
+                "sns_url": "",
+                "discord": "https://discord.gg/hM5dpGaWgB",
+                "twitter_hashtag": "#UIUXデザイン集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/uiux-1000.jpeg",
+                "description": "Webで！ゲームで！業務システムで！皆さんの経験したクソUI・神UIなお話を飲み会感覚でお気軽にお聞かせください！",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-04-11",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Fri"
+        },
+        "start_time": "22:20:00",
+        "duration": 20,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "余暇",
+        "theme": "整理という名の苦行: なぜデジタルツールを使っても情報は片付かないのか？"
+    },
+    {
         "id": 332,
         "event": {
             "id": 1440,
