@@ -879,7 +879,7 @@
         "id": 31,
         "name": "シェーダー制作者交流会",
         "created_at": "2024-06-05",
-        "updated_at": "2025-04-07",
+        "updated_at": "2025-04-21",
         "start_time": "21:00:00",
         "duration": 60,
         "weekdays": [
@@ -892,7 +892,7 @@
         "sns_url": "",
         "discord": "",
         "twitter_hashtag": "",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster-1000_Y03czl4-1000.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster-1000_Y03czl4-1000-1000.jpeg",
         "description": "シェーダーに興味がある人で集まってお話や交流を行います。",
         "platform": "All",
         "tags": [
