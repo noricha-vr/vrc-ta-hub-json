@@ -12080,6 +12080,46 @@
         "theme": "プログラミング初心者がAITuberを開発してみた"
     },
     {
+        "id": 350,
+        "event": {
+            "id": 1566,
+            "community": {
+                "id": 32,
+                "name": "マネジメント集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2024-06-28",
+                "start_time": "21:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "定例開催は最終土曜日/その他不定期",
+                "organizers": "NekoDOS・あんでぃ・Earl_Klutz",
+                "group_url": "https://vrc.group/MANAGE.4724",
+                "organizer_url": "",
+                "sns_url": "https://x.com/ManagementMeet",
+                "discord": "https://discord.gg/7bKUrQecjm",
+                "twitter_hashtag": "#マネジメント集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/management-1000-1000-1000-1000.jpeg",
+                "description": "マネジメント集会は、「人間、誰しもがマネージャーだ！」という標語の元、様々な管理にかかわるトピックについて登壇発表会を行った後に自由交流という流れで運営している集会です。\r\n現役経営者のねこどす、ガチ講師あんでぃ、企業参謀Kultzとライフプランがエグいmadaoが運営しながら、様々な方の登壇を受け付けております。\r\n是非、お気軽にお越しください。\r\nなお、アーカイブは、内容の価値などを鑑みた諸々の事情により基本公開しておりません。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-03-29",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "21:00:00",
+        "duration": 60,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "あんでぃ",
+        "theme": "Re：コミュニケーションからはじめるマネジメント"
+    },
+    {
         "id": 340,
         "event": {
             "id": 1481,
@@ -12404,9 +12444,9 @@
         "theme": "未経験のフレームワークでも、AIと一緒なら実装できた話"
     },
     {
-        "id": 341,
+        "id": 352,
         "event": {
-            "id": 1350,
+            "id": 1567,
             "community": {
                 "id": 32,
                 "name": "マネジメント集会",
@@ -12431,17 +12471,17 @@
                     "tech"
                 ]
             },
-            "date": "2025-04-26",
+            "date": "2025-04-27",
             "start_time": "21:00:00",
             "duration": 60,
-            "weekday": "Sat"
+            "weekday": "Sun"
         },
         "start_time": "21:00:00",
         "duration": 60,
         "youtube_url": null,
         "slide_url": null,
         "speaker": "あんでぃ",
-        "theme": "Re：コミュニケーションからはじめるマネジメント"
+        "theme": "シン・報連相"
     },
     {
         "id": 346,
@@ -12476,7 +12516,7 @@
             "duration": 60,
             "weekday": "Thu"
         },
-        "start_time": "22:00:00",
+        "start_time": "22:30:00",
         "duration": 30,
         "youtube_url": null,
         "slide_url": null,
