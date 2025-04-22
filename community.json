@@ -1145,7 +1145,7 @@
         "id": 19,
         "name": "個人開発集会",
         "created_at": "2024-06-05",
-        "updated_at": "2024-12-12",
+        "updated_at": "2025-04-22",
         "start_time": "21:00:00",
         "duration": 60,
         "weekdays": [
@@ -1158,7 +1158,7 @@
         "sns_url": "https://x.com/noricha_vr",
         "discord": "https://discord.gg/k8FPwtZ4fs",
         "twitter_hashtag": "#個人開発集会",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaihatsu-100_evD7tzk.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaiha_HkUL9Ie.jpeg",
         "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
         "platform": "All",
         "tags": [
