@@ -416,7 +416,7 @@
         "id": 54,
         "name": "セキュリティ集会 in VRChat",
         "created_at": "2024-10-03",
-        "updated_at": "2025-04-07",
+        "updated_at": "2025-04-24",
         "start_time": "21:00:00",
         "duration": 60,
         "weekdays": [
@@ -428,8 +428,8 @@
         "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
         "sns_url": "https://x.com/kumama_nui",
         "discord": "http://discord.gg/7EReqAK5Tk",
-        "twitter_hashtag": "#セキュリティ集会inVRC",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/CTF%E9%9B%86%E4%BC%9A-1000.jpeg",
+        "twitter_hashtag": "#SecVRC",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/CTF%E9%9B%86%E4%BC%9A-1000-1000-1000.jpeg",
         "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
         "platform": "All",
         "tags": [
