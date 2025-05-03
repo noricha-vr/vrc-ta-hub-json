@@ -27,7 +27,7 @@
         "id": 75,
         "name": "AI集会ゆる雑談Week",
         "created_at": "2025-04-25",
-        "updated_at": "2025-04-30",
+        "updated_at": "2025-05-03",
         "start_time": "21:00:00",
         "duration": 120,
         "weekdays": [
@@ -40,7 +40,7 @@
         "sns_url": "https://x.com/tarot_AtA",
         "discord": "https://discord.gg/QbA66TzwpS",
         "twitter_hashtag": "#VRCAI集会",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/ChatGPT_Image_2025%E5%B9%B44%E6%9C%8825%E6%97%A5_18_16_00-1000-1000-1000.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/ChatGPT_Image_2025%E5%B9%B44%E6%9C%8825%E6%97%A5_18_16_00-1000_V4TIqgS.jpeg",
         "description": "AIに関する話題についての集会イベント\r\nこちらは非技術向けゆる雑談Weekの案内です。\r\n日常でAIをどう使える？AIによって世界はどう変わる？\r\nそんな感じの話がメインです。\r\n\r\n技術者向けVRChat-AI集会テック集会もあるよ！",
         "platform": "All",
         "tags": [
