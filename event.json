@@ -1,5 +1,36 @@
 [
     {
+        "id": 1648,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-29",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/yonabeyona",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-05-06",
+        "start_time": "13:00:00",
+        "duration": 180,
+        "weekday": "Tue"
+    },
+    {
         "id": 1387,
         "community": {
             "id": 11,
@@ -5859,5 +5890,37 @@
         "start_time": "22:30:00",
         "duration": 60,
         "weekday": "Thu"
+    },
+    {
+        "id": 1649,
+        "community": {
+            "id": 53,
+            "name": "VRC微分音集会",
+            "created_at": "2024-09-13",
+            "updated_at": "2024-10-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "月1回",
+            "organizers": "MisohitoNakai",
+            "group_url": "https://vrchat.com/home/group/grp_550cf370-c27b-4835-b07e-de919b0c03e1",
+            "organizer_url": "https://vrchat.com/home/user/usr_90397ef6-2541-47e7-b4eb-0aedc6e34b83",
+            "sns_url": "https://x.com/XENMVR",
+            "discord": "https://discord.gg/7BSnUpwu7b",
+            "twitter_hashtag": "#VRC微分音集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/1000017990-1000_JgVxzff.jpeg",
+            "description": "毎月最初の金曜日に開催。微分音・Xenharmonicといった西洋音楽の12平均律を飛び出した音楽理論や調律理論、関連技術についての交流会です。\r\n集会では不定期でLTやお悩み相談も開催予定。\r\n音楽に関わりのあるすべての方々に、斬新で画期的な新時代の音楽のアプローチを提唱いたします。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Fri"
     }
 ]
