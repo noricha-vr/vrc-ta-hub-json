@@ -187,37 +187,6 @@
         "weekday": "Sat"
     },
     {
-        "id": 1546,
-        "community": {
-            "id": 54,
-            "name": "セキュリティ集会 in VRChat",
-            "created_at": "2024-10-03",
-            "updated_at": "2025-05-09",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#SecVRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2025-05-09_122134-1000.jpeg",
-            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-05-17",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
         "id": 1418,
         "community": {
             "id": 71,
@@ -832,37 +801,6 @@
             "twitter_hashtag": "#VRCBlender集会",
             "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
             "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-05-24",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1497,
-        "community": {
-            "id": 54,
-            "name": "セキュリティ集会 in VRChat",
-            "created_at": "2024-10-03",
-            "updated_at": "2025-05-09",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#SecVRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2025-05-09_122134-1000.jpeg",
-            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
             "platform": "All",
             "tags": [
                 "tech"
@@ -1550,37 +1488,6 @@
             "tags": [
                 "tech",
                 "academic"
-            ]
-        },
-        "date": "2025-05-31",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
-        "id": 1547,
-        "community": {
-            "id": 54,
-            "name": "セキュリティ集会 in VRChat",
-            "created_at": "2024-10-03",
-            "updated_at": "2025-05-09",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#SecVRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2025-05-09_122134-1000.jpeg",
-            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
-            "platform": "All",
-            "tags": [
-                "tech"
             ]
         },
         "date": "2025-05-31",
