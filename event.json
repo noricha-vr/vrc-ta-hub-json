@@ -468,6 +468,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 1683,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-16",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-05-21",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "Wed"
+    },
+    {
         "id": 1427,
         "community": {
             "id": 15,
@@ -1805,6 +1836,37 @@
         "date": "2025-06-04",
         "start_time": "21:00:00",
         "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1689,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-16",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-06-04",
+        "start_time": "21:00:00",
+        "duration": 120,
         "weekday": "Wed"
     },
     {
@@ -3209,6 +3271,37 @@
         "date": "2025-06-18",
         "start_time": "21:00:00",
         "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1684,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-16",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-06-18",
+        "start_time": "21:00:00",
+        "duration": 120,
         "weekday": "Wed"
     },
     {
@@ -4676,6 +4769,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 1690,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-16",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-02",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "Wed"
+    },
+    {
         "id": 1638,
         "community": {
             "id": 15,
@@ -5892,5 +6016,130 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sun"
+    },
+    {
+        "id": 1685,
+        "community": {
+            "id": 39,
+            "name": "論文紹介集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-10-12",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週（グループB）",
+            "organizers": "Alnote_",
+            "group_url": "https://vrc.group/VRPRES.9486",
+            "organizer_url": "https://vrchat.com/home/user/usr_854b415c-dc01-4296-8aee-d91a24859041",
+            "sns_url": "https://x.com/Alnote_",
+            "discord": "https://discord.gg/8ErchaWwXN",
+            "twitter_hashtag": "#論文紹介集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/ryonbun-1000-1000_gw3BVHf.jpeg",
+            "description": "隔週月曜日21:00から、主催の趣味的論文紹介をおこなっています。\r\n範囲はVR系、画像処理系を中心に、幅広く紹介しています。",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-14",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Mon"
+    },
+    {
+        "id": 1686,
+        "community": {
+            "id": 75,
+            "name": "AI集会ゆる雑談Week",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-04",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週",
+            "organizers": "余暇",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ChatGPT_Image_2025425_18_16_00-1000.jpeg",
+            "description": "AIに関する話題についての集会イベント\r\nこちらは非技術向けゆる雑談Weekの案内です。\r\n日常でAIをどう使える？AIによって世界はどう変わる？\r\nそんな感じの話がメインです。\r\n\r\n技術者向けVRChat-AI集会テック集会もあるよ！",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-14",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "Mon"
+    },
+    {
+        "id": 1687,
+        "community": {
+            "id": 7,
+            "name": "アバターホビー集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-07-01",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "そむにうむ＠森山",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_e676020e-3c86-42a2-8d34-943e38e9e94c",
+            "sns_url": "https://x.com/Somnium",
+            "discord": "https://discord.com/invite/M3996Mc",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/Poster20240628_001-1000.jpeg",
+            "description": "アバターのフィギュア化を始めをして、メタバース・アバター文化に関する様々なクリエイティブの可能性を語る集会です。\r\nアバターフィギュアや制作物を作ってみたい人・興味のある人・VRChat初心者飲迎します。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-14",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "Mon"
+    },
+    {
+        "id": 1688,
+        "community": {
+            "id": 37,
+            "name": "化学のおはなし会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Prolin",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_f75d4865-cba7-4039-b501-fcbfb72cd7da",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/hYGVkeraKu",
+            "twitter_hashtag": "#化学のおはなし会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/kagaku.jpeg",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-14",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Mon"
     }
 ]
