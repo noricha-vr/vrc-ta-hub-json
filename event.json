@@ -6076,5 +6076,161 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Tue"
+    },
+    {
+        "id": 1721,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-23",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1722,
+        "community": {
+            "id": 73,
+            "name": "怪し火定例会「いろりばたの会」",
+            "created_at": "2025-04-01",
+            "updated_at": "2025-05-15",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月第4週",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#いろりばたの会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%81%84%E3%82%8D%E3%82%8A%E3%81%B0%E3%81%9F%E3%81%AE%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E4%BF%AE%E6%AD%A3%E7%89%88-1000.jpeg",
+            "description": "妖怪好き交流所「怪し火-AYASHIBI-」の派生イベント。\r\n\"怪談＆民俗学\"を主題とした雑談や怪談、朗読などを楽しむイベントです。\r\n21時からの雑談では、妖怪や怪談話の考察や、民俗学や文化人類学などの学術的な話題などであてもなくおしゃべりします。\r\n22時からはスタッフによる怪談や朗読が行われます。\r\n怪し火のときとは一味違う雰囲気の中でゆったりくつろぎましょう。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-23",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1723,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-23",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1724,
+        "community": {
+            "id": 49,
+            "name": "ブラックホール集会",
+            "created_at": "2024-07-04",
+            "updated_at": "2024-08-07",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月第4水曜日",
+            "organizers": "黒洞ひかり",
+            "group_url": "https://vrchat.com/home/group/grp_a386cb4b-d234-4b83-a418-87abe060b778",
+            "organizer_url": "https://vrchat.com/home/user/usr_6c865668-8eef-4863-81f0-46ef90afd717",
+            "sns_url": "https://x.com/kokudo_hikari",
+            "discord": "",
+            "twitter_hashtag": "#VRCブラックホール集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/VRCBlackHoleShukai-1000-1000-1000.jpeg",
+            "description": "宇宙最強の常識外れの天体「ブラックホール」\r\nその魅力に引き寄せられたものが集う集会！\r\n\r\n天文学や宇宙物理学やSFなど宇宙に関する幅広い話題について語り合う雑談系イベントです！宇宙や物理学について全く詳しくなくてもOK！初心者大歓迎です！\r\n\r\nブラックホールで焼肉したりマシュマロ焼けるギミックがあります",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-23",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
+        "id": 1725,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-23",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Wed"
     }
 ]
