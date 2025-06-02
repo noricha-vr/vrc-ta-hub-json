@@ -625,6 +625,38 @@
         "weekday": "Sat"
     },
     {
+        "id": 1758,
+        "community": {
+            "id": 78,
+            "name": "VR核融合コミュニティ Virtual Fusion Nexus",
+            "created_at": "2025-05-27",
+            "updated_at": "2025-05-27",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "不定期",
+            "organizers": "Hasegas",
+            "group_url": "https://vrc.group/VFN.4251",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRFusionNexus",
+            "discord": "",
+            "twitter_hashtag": "#VirtualFusionNexus",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/4_noGrow_withGradModerate_white-1000-1000-1000_O8dMGY2.jpeg",
+            "description": "VRChat上で活動する核融合コミュニティVirtual Fusion Nexus (VFN)です。VR核融合炉ツアーや核融合ライトニングトーク会といった核融合・フュージョンエネルギーに関わるイベントを不定期開催します。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-06-07",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1509,
         "community": {
             "id": 30,
