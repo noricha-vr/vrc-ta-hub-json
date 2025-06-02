@@ -9784,6 +9784,46 @@
         "theme": "会議のカギはファシリテーションだ！"
     },
     {
+        "id": 374,
+        "event": {
+            "id": 350,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2024-10-26",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "petipeti",
+        "theme": "LocalStackを使ってローカル環境でAWSを構築する"
+    },
+    {
         "id": 122,
         "event": {
             "id": 557,
@@ -10107,6 +10147,46 @@
         "theme": "ビットコイン投資の新たな可能性！MicroStrategyの事例から学ぶ企業戦略と投資戦略"
     },
     {
+        "id": 375,
+        "event": {
+            "id": 384,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2024-11-09",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "Koty-Mousa",
+        "theme": "EC2インスタンスにいろんな方法で接続してみよう"
+    },
+    {
         "id": 258,
         "event": {
             "id": 1060,
@@ -10226,6 +10306,46 @@
         "slide_url": null,
         "speaker": "のりちゃん",
         "theme": "ブラウザで動くローカルLLM Gemini Nanoのデモサイトを作ってみた"
+    },
+    {
+        "id": 376,
+        "event": {
+            "id": 491,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2024-11-23",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "おくう",
+        "theme": "鉄道におけるITインフラの活用例"
     },
     {
         "id": 275,
@@ -10508,6 +10628,46 @@
         "slide_url": null,
         "speaker": "TAK1123",
         "theme": "VRChatで新しい学びの場がここに！「株式投資座談会」の全貌"
+    },
+    {
+        "id": 377,
+        "event": {
+            "id": 523,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2024-12-07",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "kairox",
+        "theme": "ambrのAWS CDK事情"
     },
     {
         "id": 283,
@@ -10993,6 +11153,46 @@
         "theme": "VRC内ポスターをブラウザ上から管理したい-SyncFrame-"
     },
     {
+        "id": 378,
+        "event": {
+            "id": 1058,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-01-18",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "c-maxwell",
+        "theme": "ミニPCを100Gbpsトラフィックジェネレータとして動かしてみた"
+    },
+    {
         "id": 285,
         "event": {
             "id": 1077,
@@ -11152,6 +11352,46 @@
         "slide_url": "https://www.docswell.com/s/5161567/Z1RWV3-2025-01-30-232906",
         "speaker": "neverClear",
         "theme": "Denoでnpm用フレームワークを含めたモノレポを作るのは渋い"
+    },
+    {
+        "id": 379,
+        "event": {
+            "id": 1101,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "さめ（meg-ssk)",
+        "theme": "宇宙の天気がITインフラに与える影響とその対策 ~太陽が地球のコンピュータを破壊する？~"
     },
     {
         "id": 303,
@@ -11396,6 +11636,46 @@
         "theme": "生成AIとCursorで作る Chrome拡張機能 (TwitterBlocker)"
     },
     {
+        "id": 380,
+        "event": {
+            "id": 1756,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-02-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "Koty-Mousa",
+        "theme": "なぜStatusCheckFailed_Systemが 出たら、停止して起動 すると良いのか"
+    },
+    {
         "id": 312,
         "event": {
             "id": 1342,
@@ -11595,6 +11875,46 @@
         "slide_url": null,
         "speaker": "さぎら",
         "theme": "ワールド制作でユーザの課題解決をしよう"
+    },
+    {
+        "id": 381,
+        "event": {
+            "id": 1172,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-03-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "petipeti",
+        "theme": "Eronunotice の裏側"
     },
     {
         "id": 322,
@@ -11879,6 +12199,46 @@
         "theme": "LLM搭載音声アシスタントを作ってる"
     },
     {
+        "id": 382,
+        "event": {
+            "id": 1219,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-03-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "いり",
+        "theme": "超高帯域学術回線を用いたVRchatでの高臨場IP伝送"
+    },
+    {
         "id": 338,
         "event": {
             "id": 1227,
@@ -12160,6 +12520,46 @@
         "theme": "Re：コミュニケーションからはじめるマネジメント"
     },
     {
+        "id": 383,
+        "event": {
+            "id": 1757,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-03-29",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "zin3",
+        "theme": "ﾌﾞﾗｳｻﾞﾎﾟﾁﾎﾟﾁk8s～やさしいｸﾊﾞﾈﾃRancher～"
+    },
+    {
         "id": 340,
         "event": {
             "id": 1481,
@@ -12362,6 +12762,46 @@
         "theme": "整理という名の苦行: なぜデジタルツールを使っても情報は片付かないのか？"
     },
     {
+        "id": 384,
+        "event": {
+            "id": 1298,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-04-12",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "8yazaki",
+        "theme": "逸般化へはじめの一歩"
+    },
+    {
         "id": 348,
         "event": {
             "id": 1316,
@@ -12562,6 +13002,46 @@
         "slide_url": null,
         "speaker": "かぐ(Kagu)",
         "theme": "未経験のフレームワークでも、AIと一緒なら実装できた話"
+    },
+    {
+        "id": 385,
+        "event": {
+            "id": 1352,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-04-26",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "てるるん",
+        "theme": "自宅Entra Connect・Entra Joinを始めよう"
     },
     {
         "id": 352,
@@ -12846,6 +13326,46 @@
         "theme": "裏世界(Resonite)でのアイテム，世界開発"
     },
     {
+        "id": 386,
+        "event": {
+            "id": 1397,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-05-10",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "冬華 蕐",
+        "theme": "経路を自前で管理しとうない！"
+    },
+    {
         "id": 363,
         "event": {
             "id": 1442,
@@ -12965,6 +13485,46 @@
         "slide_url": null,
         "speaker": "hiro0920_六合",
         "theme": "AIコーディングでレイヤーの低いコードの実装はできるか"
+    },
+    {
+        "id": 387,
+        "event": {
+            "id": 1435,
+            "community": {
+                "id": 30,
+                "name": "ITインフラ集会",
+                "created_at": "2024-06-05",
+                "updated_at": "2025-04-09",
+                "start_time": "22:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sat"
+                ],
+                "frequency": "隔週(グループA)",
+                "organizers": "えー",
+                "group_url": "https://vrc.group/INFRA.4469",
+                "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+                "sns_url": "https://x.com/it_infra_meetup",
+                "discord": "https://discord.gg/5KJrhHMBGN",
+                "twitter_hashtag": "#ITインフラ集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+                "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-05-24",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekday": "Sat"
+        },
+        "start_time": "22:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "Koty-Mousa",
+        "theme": "VPCに属するサービスと属さないサービスはどう違うのだろうか？"
     },
     {
         "id": 369,
