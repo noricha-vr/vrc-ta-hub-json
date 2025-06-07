@@ -14005,11 +14005,11 @@
             "weekday": "Tue"
         },
         "start_time": "21:00:00",
-        "duration": 30,
+        "duration": 3,
         "youtube_url": null,
         "slide_url": null,
         "speaker": "",
-        "theme": "テスト"
+        "theme": ""
     },
     {
         "id": 367,
