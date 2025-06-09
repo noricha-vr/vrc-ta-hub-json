@@ -2620,6 +2620,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 1778,
+        "community": {
+            "id": 71,
+            "name": "「計算と自然」集会",
+            "created_at": "2025-03-01",
+            "updated_at": "2025-04-08",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週 (第1第3週)",
+            "organizers": "nconc",
+            "group_url": "https://vrc.group/NAC.8025",
+            "organizer_url": "https://vrchat.com/home/user/usr_27568ff0-4a0d-4029-8891-d6b736511214",
+            "sns_url": "https://twitter.com/nconc",
+            "discord": "https://discord.gg/vUJztKhsgV",
+            "twitter_hashtag": "#計算と自然",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E8%A8%88%E7%AE%97%E3%81%A8%E8%87%AA%E7%84%B6%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC2-1000.jpeg",
+            "description": "自然計算は、「自然の中で観察される計算過程と、自然に触発された人為的計算を扱う研究分野」とされています。自然計算について学び、関連する話題を気軽に話し合うことが目的の集会です。\r\n\r\n2025年4月開講の放送大学大学院のラジオ講座 BS531ch「計算と自然'25」という分野を概観する科目と連動しています(テキスト「計算と自然」 (放送大学教材) 各オンライン書店で予約受付中)。\r\n\r\nこの科目の全15回の各回のトピックを第1第3土曜日に日替わりで取り上げていきます(隔週開催のため放送日からは少しずつ遅延します)。議論が盛り上がったら、2回にわたって取り上げるかもしれません。事前に放送を聴いていれば話題に参加しやすいですが、予備知識なしでも問題ないです。\r\n\r\n内容の解説からSF的な雑談まで、自然の中で観察される「変な計算」に少しでも興味がある方はぜひ。",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-05",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 1657,
         "community": {
             "id": 5,
@@ -5861,5 +5892,130 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Wed"
+    },
+    {
+        "id": 1779,
+        "community": {
+            "id": 65,
+            "name": "仮想学生集会",
+            "created_at": "2025-01-08",
+            "updated_at": "2025-05-04",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "毎月第二・四木曜日",
+            "organizers": "JVSL / 日本仮想学生連盟、NUMA",
+            "group_url": "https://vrc.group/JVSL.6278",
+            "organizer_url": "https://vrchat.com/home/user/usr_c15df947-4df7-46db-befc-6abcbe21a5e0",
+            "sns_url": "https://x.com/@see2et",
+            "discord": "https://discord.gg/3sWWSFFjXD",
+            "twitter_hashtag": "#仮想学生集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Thumbnail_05.08_via_NUMA_WIDE-1000-1000.jpeg",
+            "description": "【 #仮想学生集会 開催！】\r\n\r\nバーチャル空間で活躍している学生と、ワクワクすることに取り組んでみたい学生。\r\nそんな人たちが集まってお喋りしながら交流するイベントです！\r\n\r\n開催日時: 毎月第三木曜日\r\n参加方法: JVSLのGroup+にJoin",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-07",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
+        "id": 1780,
+        "community": {
+            "id": 18,
+            "name": "データサイエンティスト集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-01-06",
+            "start_time": "21:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "いそひまかん・ぶんちん",
+            "group_url": "https://vrc.group/DSG.9976",
+            "organizer_url": "https://x.com/IsoKan_DD",
+            "sns_url": "https://x.com/dsGathering_vrc",
+            "discord": "https://discord.gg/U4GJPhuZ8S",
+            "twitter_hashtag": "#DS集会VRC",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/DS%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC_20240516_5a5KvT3.jpeg",
+            "description": "データサイエンティスト集会(以下DS集会)はVRChat内でデータサイエンティストやデータサイエンスに興味ある人、初心者が集まって交流する定期イベントです。隔週木曜21時から開催しており、時にはデータサイエンスにちなんだLT企画も行っています。\r\n\r\nコロナウイルスの影響でリアルでのオフラインイベントが急減し、代わりにオンラインイベントが開催されるようになりました。しかしビデオ通話などでの交流会はやりとりがし辛く、それが理由に社外のDSとの交流が減ってはいないでしょうか？\r\n\r\nそうした不便さから、さながらオフラインイベントのような雰囲気で交流できる場を目指し、先代が22年4月からDS集会が始まりました。\r\n\r\n今ではVRChat内で唯一のデータサイエンス系コミュニティとして、多くの知識交流の場となっています。最近ではデータサイエンスだけでなくデータエンジニアリングや統計などのテーマでも交流されるようになりました。\r\n「身近にデータサイエンスについて相談できる知り合いがいない」、「社外のDSと交流してみたい」といった方は、もしご興味ありましたらご参加をお待ちしております。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-07",
+        "start_time": "21:00:00",
+        "duration": 90,
+        "weekday": "Thu"
+    },
+    {
+        "id": 1781,
+        "community": {
+            "id": 8,
+            "name": "分散SNS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-01-30",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Nawashiro",
+            "group_url": "https://vrc.group/DSNS.7786",
+            "organizer_url": "https://vrchat.com/home/user/usr_17e3ef43-2bc7-4dea-b811-12aa6f163f44",
+            "sns_url": "https://x.com/yineleyici",
+            "discord": "https://discord.gg/4NTwMMMw9P",
+            "twitter_hashtag": "#分散SNS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000_dqGAw8O-1000-1000.jpeg",
+            "description": "普段何気なく使っているSNS。でもその裏側には、様々な工夫や試みが隠されています。そして驚くべきことに、個人でSNSを運営して問題に取り組む人もいるのです。分散SNS集会は、分散SNSにちょっと興味がある人や利用者、運営者が集まって様々な知見を交換し、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場を作ることを目的にしています。あくまで一例ですが、・SNS上の安全のための取り組みについて・コンテンツの責任を誰が持つのか・毒性のあるコンテンツの生成を抑える構造が作れないか…などの話題を提案しています。SNSに関連するお話なら、UI/UXやインフラなども含めて幅広く歓迎しています。話題のMisskeyやBlueskyが気になるという方も、お気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-07",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Thu"
+    },
+    {
+        "id": 1782,
+        "community": {
+            "id": 21,
+            "name": "分解技術集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-14",
+            "start_time": "22:30:00",
+            "duration": 30,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "第一木曜日、第三木曜日",
+            "organizers": "kiyone",
+            "group_url": "https://vrchat.com/home/group/grp_6bc8d49d-0e45-41fa-940c-43ec89d4ac87",
+            "organizer_url": "https://vrchat.com/home/user/usr_314b5898-d336-40a5-95eb-b880c18c2f99",
+            "sns_url": "",
+            "discord": "https://discord.gg/jfQ3gdBd4N",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/201104-1-1000.jpeg",
+            "description": "",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-07",
+        "start_time": "22:30:00",
+        "duration": 60,
+        "weekday": "Thu"
     }
 ]
