@@ -343,37 +343,6 @@
         "weekday": "Fri"
     },
     {
-        "id": 1537,
-        "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
-            "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-06-14",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
         "id": 1538,
         "community": {
             "id": 26,
@@ -398,6 +367,37 @@
             "tags": [
                 "tech",
                 "academic"
+            ]
+        },
+        "date": "2025-06-14",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 1785,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-06-14",
@@ -1062,26 +1062,26 @@
         "weekday": "Sat"
     },
     {
-        "id": 1571,
+        "id": 1786,
         "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
             "start_time": "21:00:00",
-            "duration": 60,
+            "duration": 30,
             "weekdays": [
-                "Sat"
+                "Fri"
             ],
             "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
             "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
             "platform": "All",
             "tags": [
                 "tech"
@@ -1714,37 +1714,6 @@
         "weekday": "Sat"
     },
     {
-        "id": 1597,
-        "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
-            "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-06-28",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
         "id": 1598,
         "community": {
             "id": 54,
@@ -1800,6 +1769,37 @@
             "tags": [
                 "tech",
                 "academic"
+            ]
+        },
+        "date": "2025-06-28",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 1787,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-06-28",
@@ -2496,26 +2496,26 @@
         "weekday": "Sat"
     },
     {
-        "id": 1654,
+        "id": 1788,
         "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
             "start_time": "21:00:00",
-            "duration": 60,
+            "duration": 30,
             "weekdays": [
-                "Sat"
+                "Fri"
             ],
             "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
             "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
             "platform": "All",
             "tags": [
                 "tech"
@@ -3119,37 +3119,6 @@
         "weekday": "Fri"
     },
     {
-        "id": 1674,
-        "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
-            "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-07-12",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
         "id": 1675,
         "community": {
             "id": 54,
@@ -3205,6 +3174,37 @@
             "tags": [
                 "tech",
                 "academic"
+            ]
+        },
+        "date": "2025-07-12",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 1789,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-07-12",
@@ -3931,26 +3931,26 @@
         "weekday": "Sat"
     },
     {
-        "id": 1707,
+        "id": 1790,
         "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
             "start_time": "21:00:00",
-            "duration": 60,
+            "duration": 30,
             "weekdays": [
-                "Sat"
+                "Fri"
             ],
             "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
             "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
             "platform": "All",
             "tags": [
                 "tech"
@@ -4553,37 +4553,6 @@
         "weekday": "Sat"
     },
     {
-        "id": 1732,
-        "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
-            "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-07-26",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "Sat"
-    },
-    {
         "id": 1733,
         "community": {
             "id": 54,
@@ -4639,6 +4608,37 @@
             "tags": [
                 "tech",
                 "academic"
+            ]
+        },
+        "date": "2025-07-26",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
+        "id": 1791,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
             ]
         },
         "date": "2025-07-26",
@@ -5397,26 +5397,26 @@
         "weekday": "Sat"
     },
     {
-        "id": 1763,
+        "id": 1792,
         "community": {
-            "id": 27,
-            "name": "VRC Blender集会(Mimi)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-11-16",
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-10",
             "start_time": "21:00:00",
-            "duration": 60,
+            "duration": 30,
             "weekdays": [
-                "Sat"
+                "Fri"
             ],
             "frequency": "毎週",
-            "organizers": "Mimi_fbx",
-            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
-            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
-            "sns_url": "",
-            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
             "twitter_hashtag": "#VRCBlender集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
-            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
             "platform": "All",
             "tags": [
                 "tech"
