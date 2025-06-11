@@ -187,7 +187,7 @@
         "weekday": "Thu"
     },
     {
-        "id": 1536,
+        "id": 1803,
         "community": {
             "id": 22,
             "name": "エンジニア作業飲み集会",
@@ -214,7 +214,7 @@
         },
         "date": "2025-06-13",
         "start_time": "22:00:00",
-        "duration": 60,
+        "duration": 90,
         "weekday": "Fri"
     },
     {
@@ -841,6 +841,37 @@
         "start_time": "22:30:00",
         "duration": 30,
         "weekday": "Thu"
+    },
+    {
+        "id": 1804,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-20",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "Fri"
     },
     {
         "id": 1568,
@@ -1496,7 +1527,7 @@
         "weekday": "Thu"
     },
     {
-        "id": 1590,
+        "id": 1805,
         "community": {
             "id": 22,
             "name": "エンジニア作業飲み集会",
@@ -1523,7 +1554,7 @@
         },
         "date": "2025-06-27",
         "start_time": "22:00:00",
-        "duration": 60,
+        "duration": 90,
         "weekday": "Fri"
     },
     {
@@ -2277,6 +2308,37 @@
         "weekday": "Fri"
     },
     {
+        "id": 1806,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-04",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "Fri"
+    },
+    {
         "id": 1651,
         "community": {
             "id": 25,
@@ -2932,37 +2994,6 @@
         "weekday": "Thu"
     },
     {
-        "id": 1672,
-        "community": {
-            "id": 22,
-            "name": "エンジニア作業飲み集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-06-01",
-            "start_time": "22:00:00",
-            "duration": 90,
-            "weekdays": [
-                "Fri"
-            ],
-            "frequency": "VRChat 毎週",
-            "organizers": "慕狼ゆに",
-            "group_url": "https://vrc.group/VRCEMU.0977",
-            "organizer_url": "",
-            "sns_url": "https://x.com/VRENGAssoc",
-            "discord": "https://discord.gg/zaTjFtDRP7",
-            "twitter_hashtag": "#エンジニア集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
-            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-07-11",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
-    },
-    {
         "id": 1673,
         "community": {
             "id": 35,
@@ -2991,6 +3022,37 @@
         "date": "2025-07-11",
         "start_time": "22:00:00",
         "duration": 60,
+        "weekday": "Fri"
+    },
+    {
+        "id": 1807,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-11",
+        "start_time": "22:00:00",
+        "duration": 90,
         "weekday": "Fri"
     },
     {
@@ -3712,6 +3774,37 @@
         "weekday": "Thu"
     },
     {
+        "id": 1808,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-18",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "Fri"
+    },
+    {
         "id": 1704,
         "community": {
             "id": 25,
@@ -4335,7 +4428,7 @@
         "weekday": "Thu"
     },
     {
-        "id": 1729,
+        "id": 1809,
         "community": {
             "id": 22,
             "name": "エンジニア作業飲み集会",
@@ -4362,7 +4455,7 @@
         },
         "date": "2025-07-25",
         "start_time": "22:00:00",
-        "duration": 60,
+        "duration": 90,
         "weekday": "Fri"
     },
     {
@@ -5178,6 +5271,37 @@
         "weekday": "Fri"
     },
     {
+        "id": 1810,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-01",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "Fri"
+    },
+    {
         "id": 1760,
         "community": {
             "id": 25,
@@ -5832,37 +5956,6 @@
         "weekday": "Thu"
     },
     {
-        "id": 1783,
-        "community": {
-            "id": 22,
-            "name": "エンジニア作業飲み集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-06-01",
-            "start_time": "22:00:00",
-            "duration": 90,
-            "weekdays": [
-                "Fri"
-            ],
-            "frequency": "VRChat 毎週",
-            "organizers": "慕狼ゆに",
-            "group_url": "https://vrc.group/VRCEMU.0977",
-            "organizer_url": "",
-            "sns_url": "https://x.com/VRENGAssoc",
-            "discord": "https://discord.gg/zaTjFtDRP7",
-            "twitter_hashtag": "#エンジニア集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
-            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-08-08",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "Fri"
-    },
-    {
         "id": 1784,
         "community": {
             "id": 60,
@@ -5891,6 +5984,37 @@
         "date": "2025-08-08",
         "start_time": "22:00:00",
         "duration": 60,
+        "weekday": "Fri"
+    },
+    {
+        "id": 1811,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-08",
+        "start_time": "22:00:00",
+        "duration": 90,
         "weekday": "Fri"
     },
     {
