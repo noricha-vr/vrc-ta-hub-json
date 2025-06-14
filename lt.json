@@ -14004,12 +14004,12 @@
             "duration": 60,
             "weekday": "Tue"
         },
-        "start_time": "21:00:00",
-        "duration": 3,
+        "start_time": "22:00:00",
+        "duration": 30,
         "youtube_url": null,
         "slide_url": null,
-        "speaker": "",
-        "theme": ""
+        "speaker": "ID_AO",
+        "theme": "インターネットを速くするアレコレの話"
     },
     {
         "id": 367,
