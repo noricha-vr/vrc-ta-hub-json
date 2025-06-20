@@ -3,7 +3,7 @@
         "id": 79,
         "name": "VRC Blender集会",
         "created_at": "2025-06-10",
-        "updated_at": "2025-06-13",
+        "updated_at": "2025-06-20",
         "start_time": "21:00:00",
         "duration": 30,
         "weekdays": [
@@ -16,7 +16,7 @@
         "sns_url": "https://x.com/Kakuribbon",
         "discord": "https://discord.gg/bWJ5mrxUNj",
         "twitter_hashtag": "#VRCBlender集会",
-        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+        "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000-1000.jpeg",
         "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
         "platform": "All",
         "tags": [
