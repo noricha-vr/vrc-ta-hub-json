@@ -622,6 +622,37 @@
         "weekday": "Wed"
     },
     {
+        "id": 1999,
+        "community": {
+            "id": 16,
+            "name": "アバター改変なんもわからん集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-20",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "隔週水曜日",
+            "organizers": "CHIHAYA⛩ちはや＆bd_",
+            "group_url": "https://vrc.group/WAKRAN.0505",
+            "organizer_url": "",
+            "sns_url": "https://x.com/wakaran_vrc",
+            "discord": "https://discord.gg/7hjZwpWdUW",
+            "twitter_hashtag": "#アバター改変なんもわからん集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/kaihen-1000.jpeg",
+            "description": "イベントは、隔週水曜日に開催され、講師による講演会と何でも質問できる交流会を交互に行っています。講師の方々は、プログラマーや経験豊富なクリエイターであり、彼らの知識と経験を共有することで、皆さんのスキル向上に役立てています。イベントはグループインスタンスで行われ、2つのインスタンスで同時に進行します。講演会の後は、本イベントのメインとなる「アバター改変なんもわからん交流会」に移り、参加者同士が自由に交流し、疑問点を相談し合います。この交流会は、温かい雰囲気の中で、初心者も安心して参加できる場です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-25",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": ""
+    },
+    {
         "id": 1584,
         "community": {
             "id": 15,
