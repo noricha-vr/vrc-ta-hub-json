@@ -31,6 +31,100 @@
         "weekday": "Fri"
     },
     {
+        "id": 1864,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-02",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/vrc_cpu_science",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-20",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1877,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-06-20",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1943,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-20",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1804,
         "community": {
             "id": 22,
@@ -60,6 +154,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1890,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-06-20",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1922,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-20",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1568,
@@ -715,6 +873,69 @@
         "weekday": "Fri"
     },
     {
+        "id": 1878,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-06-27",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1944,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-27",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1805,
         "community": {
             "id": 22,
@@ -744,6 +965,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1891,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-06-27",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1923,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-27",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1595,
@@ -1433,6 +1718,100 @@
         "weekday": "Fri"
     },
     {
+        "id": 1865,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-02",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/vrc_cpu_science",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-04",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1879,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-04",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1945,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-04",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1649,
         "community": {
             "id": 53,
@@ -1494,6 +1873,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1892,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1924,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1651,
@@ -2151,6 +2594,69 @@
         "weekday": "Fri"
     },
     {
+        "id": 1880,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-11",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1946,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-11",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1673,
         "community": {
             "id": 35,
@@ -2211,6 +2717,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1893,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-11",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1925,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-11",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1675,
@@ -2869,6 +3439,37 @@
         "weekday": "Thu"
     },
     {
+        "id": 1966,
+        "community": {
+            "id": 42,
+            "name": "VRC歴史集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "セミナー会 ：毎月第一月曜日雑談会：毎月第三水曜日",
+            "organizers": "るいざ・しゃーろっと",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_11111ccd-db54-4ecd-be27-fcae98acf0ee",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRC歴史集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/rekisi.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-17",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
         "id": 1703,
         "community": {
             "id": 21,
@@ -2931,6 +3532,100 @@
         "weekday": "Fri"
     },
     {
+        "id": 1866,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-02",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/vrc_cpu_science",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-18",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1881,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-18",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1947,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-18",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1808,
         "community": {
             "id": 22,
@@ -2960,6 +3655,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1894,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1926,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1704,
@@ -3554,6 +4313,37 @@
         "weekday": "Thu"
     },
     {
+        "id": 1981,
+        "community": {
+            "id": 73,
+            "name": "怪し火定例会「いろりばたの会」",
+            "created_at": "2025-04-01",
+            "updated_at": "2025-05-15",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月第4週",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#いろりばたの会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%81%84%E3%82%8D%E3%82%8A%E3%81%B0%E3%81%9F%E3%81%AE%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E4%BF%AE%E6%AD%A3%E7%89%88-1000.jpeg",
+            "description": "妖怪好き交流所「怪し火-AYASHIBI-」の派生イベント。\r\n\"怪談＆民俗学\"を主題とした雑談や怪談、朗読などを楽しむイベントです。\r\n21時からの雑談では、妖怪や怪談話の考察や、民俗学や文化人類学などの学術的な話題などであてもなくおしゃべりします。\r\n22時からはスタッフによる怪談や朗読が行われます。\r\n怪し火のときとは一味違う雰囲気の中でゆったりくつろぎましょう。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-07-24",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "THU"
+    },
+    {
         "id": 1825,
         "community": {
             "id": 79,
@@ -3585,6 +4375,69 @@
         "weekday": "Fri"
     },
     {
+        "id": 1882,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-25",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1948,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-25",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1809,
         "community": {
             "id": 22,
@@ -3614,6 +4467,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1895,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-25",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1927,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-25",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1730,
@@ -4396,6 +5313,100 @@
         "weekday": "Fri"
     },
     {
+        "id": 1867,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-02",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/vrc_cpu_science",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-01",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1883,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-01",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1949,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-01",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1759,
         "community": {
             "id": 53,
@@ -4457,6 +5468,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1896,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-01",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1928,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-01",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1760,
@@ -4801,6 +5876,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1986,
+        "community": {
+            "id": 76,
+            "name": "AI集会テックWeek",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-26",
+            "start_time": "21:00:00",
+            "duration": 119,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "偶数週",
+            "organizers": "余暇",
+            "group_url": "https://vrc.group/VRCAI.0943",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/AITEChWeek%E7%94%A8-1000-1000-1000-1000.jpeg",
+            "description": "AIに関するVRChat集会です。\r\n技術者向けにコアなAIモデルやフレームワーク談義などを行っています。\r\n\r\n非技術者向けゆる雑談Weekとの隔週交互開催です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-05",
+        "start_time": "21:00:00",
+        "duration": 119,
+        "weekday": "TUE"
+    },
+    {
         "id": 1773,
         "community": {
             "id": 68,
@@ -4892,6 +5998,37 @@
         "start_time": "21:00:00",
         "duration": 120,
         "weekday": "Wed"
+    },
+    {
+        "id": 1962,
+        "community": {
+            "id": 41,
+            "name": "社会科学集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Kuretan・Gipi_3",
+            "group_url": "",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/2JW4kudS3u",
+            "twitter_hashtag": "#社会科学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/socialsciencemeetUp.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-06",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "WED"
     },
     {
         "id": 1776,
@@ -5051,6 +6188,37 @@
         "weekday": "Thu"
     },
     {
+        "id": 1990,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-21",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週(第1・3・5週)",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-07",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "THU"
+    },
+    {
         "id": 1782,
         "community": {
             "id": 21,
@@ -5113,6 +6281,100 @@
         "weekday": "Fri"
     },
     {
+        "id": 1861,
+        "community": {
+            "id": 8,
+            "name": "分散SNS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-01-30",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Nawashiro",
+            "group_url": "https://vrc.group/DSNS.7786",
+            "organizer_url": "https://vrchat.com/home/user/usr_17e3ef43-2bc7-4dea-b811-12aa6f163f44",
+            "sns_url": "https://x.com/yineleyici",
+            "discord": "https://discord.gg/4NTwMMMw9P",
+            "twitter_hashtag": "#分散SNS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000_dqGAw8O-1000-1000.jpeg",
+            "description": "普段何気なく使っているSNS。でもその裏側には、様々な工夫や試みが隠されています。そして驚くべきことに、個人でSNSを運営して問題に取り組む人もいるのです。分散SNS集会は、分散SNSにちょっと興味がある人や利用者、運営者が集まって様々な知見を交換し、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場を作ることを目的にしています。あくまで一例ですが、・SNS上の安全のための取り組みについて・コンテンツの責任を誰が持つのか・毒性のあるコンテンツの生成を抑える構造が作れないか…などの話題を提案しています。SNSに関連するお話なら、UI/UXやインフラなども含めて幅広く歓迎しています。話題のMisskeyやBlueskyが気になるという方も、お気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-08",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1884,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-08",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1950,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-08",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1784,
         "community": {
             "id": 60,
@@ -5173,6 +6435,70 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1897,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-08",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1929,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-08",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1794,
@@ -5392,6 +6718,38 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sun"
+    },
+    {
+        "id": 1978,
+        "community": {
+            "id": 72,
+            "name": "VRChat物理学集会",
+            "created_at": "2025-03-27",
+            "updated_at": "2025-04-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "さめ（мег-сск）",
+            "group_url": "https://vrc.group/PHYSMU.4859",
+            "organizer_url": "https://vrchat.com/home/user/usr_dbe1941b-8a13-4751-b98d-038648fdc5dc",
+            "sns_url": "https://x.com/VRC_Phys_Meetup",
+            "discord": "https://discord.gg/uJeQkzmv",
+            "twitter_hashtag": "# VRChat物理学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/vrc_phys_meetupposter-1000.jpeg",
+            "description": "わたしたちの身の回りで起こる現象のすべては\r\n物理学によって理解できる(あるいは理解可能と期待されている)と言っても過言ではありません。\r\nしかし普段の生活で、それをじっくり語る機会は少ないと思います。\r\n\r\n「VRChat物理学集会」は、そんな物理好きたちのための集いです。\r\n物理に興味を持ち始めたばかりの人から、\r\n日々物理と格闘してる研究者・技術者まで、\r\nみんなで集まって気軽に物理の話をしましょう！\r\n\r\n力学、電磁気、熱力学、統計力学、流体力学、量子論、相対論、物理学の歴史、最新の研究、ちょっとした雑学ーーどんな話題でもOK！\r\nときには「そもそもって何だっけ？」みたいな問いかけも、ここでは大歓迎です。\r\n\r\n物理の話題で盛り上がれる仲間に、きっと出会えるはず。\r\n\r\nもちろん専門知識は不要！\r\n「宇宙ヤバい！」とか「好きなアニメに物理用語が登場してた！」でも立派な参加理由です！\r\n\r\n重力も、電磁気も、そして人の縁も、すべては相互作用。\r\nこの集会が、物理を愛する人同士を引き寄せ合う力を生じる場になれば嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-10",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "SUN"
     },
     {
         "id": 1814,
@@ -5643,6 +7001,69 @@
         "weekday": "Tue"
     },
     {
+        "id": 1983,
+        "community": {
+            "id": 75,
+            "name": "AI集会ゆる雑談Week",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-26",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週",
+            "organizers": "余暇",
+            "group_url": "https://vrc.group/VRCAI.0943",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/ChatGPT_Image_2025425_18_16_00-1000-1000.jpeg",
+            "description": "AIに関する話題についての集会イベント\r\nこちらは非技術向けゆる雑談Weekの案内です。\r\n日常でAIをどう使える？AIによって世界はどう変わる？\r\nそんな感じの話がメインです。\r\n\r\n技術者向けVRChat-AI集会テック集会もあるよ！",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-12",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1858,
+        "community": {
+            "id": 7,
+            "name": "アバターホビー集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-07-01",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "そむにうむ＠森山",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_e676020e-3c86-42a2-8d34-943e38e9e94c",
+            "sns_url": "https://x.com/Somnium",
+            "discord": "https://discord.com/invite/M3996Mc",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/Poster20240628_001-1000.jpeg",
+            "description": "アバターのフィギュア化を始めをして、メタバース・アバター文化に関する様々なクリエイティブの可能性を語る集会です。\r\nアバターフィギュアや制作物を作ってみたい人・興味のある人・VRChat初心者飲迎します。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-12",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "TUE"
+    },
+    {
         "id": 1831,
         "community": {
             "id": 62,
@@ -5675,6 +7096,37 @@
         "weekday": "Tue"
     },
     {
+        "id": 1959,
+        "community": {
+            "id": 37,
+            "name": "化学のおはなし会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Prolin",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_f75d4865-cba7-4039-b501-fcbfb72cd7da",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/hYGVkeraKu",
+            "twitter_hashtag": "#化学のおはなし会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/kagaku.jpeg",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-12",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "TUE"
+    },
+    {
         "id": 1832,
         "community": {
             "id": 14,
@@ -5704,6 +7156,37 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Wed"
+    },
+    {
+        "id": 1975,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-13",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "WED"
     },
     {
         "id": 1833,
@@ -5832,6 +7315,69 @@
         "weekday": "Thu"
     },
     {
+        "id": 1871,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-14",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1903,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-14",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
         "id": 1844,
         "community": {
             "id": 20,
@@ -5861,6 +7407,37 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "Thu"
+    },
+    {
+        "id": 1969,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-14",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
     },
     {
         "id": 1845,
@@ -5925,6 +7502,131 @@
         "weekday": "Fri"
     },
     {
+        "id": 1868,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-02",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/vrc_cpu_science",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-15",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1885,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-15",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1909,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-22",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaiha_HkUL9Ie.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-15",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1951,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-15",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 1847,
         "community": {
             "id": 22,
@@ -5954,6 +7656,101 @@
         "start_time": "22:00:00",
         "duration": 90,
         "weekday": "Fri"
+    },
+    {
+        "id": 1898,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-15",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1912,
+        "community": {
+            "id": 20,
+            "name": "OSS集会（オープンソースソフトウェア集会）",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-28",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#OSS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/oss-1000.jpeg",
+            "description": "OSS（オープンソースソフトウェア）集会\r\nVRChat用に開発しているシステムのソースコードをみんなで眺めたり、デバッグしたり、意見を出し合う集会です。個人開発集会の跡地を利用するのでエンジニアがたくさん集まってます。\r\nプログラミング好きの方はぜひ遊びに来てね(^^)v",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-15",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1930,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-15",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
     },
     {
         "id": 1848,
@@ -6050,6 +7847,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 1994,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-13",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-16",
+        "start_time": "21:00:00",
+        "duration": 30,
+        "weekday": "SAT"
+    },
+    {
         "id": 1851,
         "community": {
             "id": 30,
@@ -6112,6 +7940,37 @@
         "weekday": "Sat"
     },
     {
+        "id": 1917,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-16",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "SAT"
+    },
+    {
         "id": 1853,
         "community": {
             "id": 5,
@@ -6143,6 +8002,37 @@
         "weekday": "Sun"
     },
     {
+        "id": 1935,
+        "community": {
+            "id": 25,
+            "name": "量子力学のたわいのない雑談の会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "第1土曜日、第3土曜日",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://t.co/aLMqxTKrAc",
+            "twitter_hashtag": "#量子力学雑談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ryousirikigaku.jpeg",
+            "description": "量子力学に関連するyoutube動画を参加者で聴講し、雑談する集会です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-17",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
         "id": 1854,
         "community": {
             "id": 3,
@@ -6172,5 +8062,2635 @@
         "start_time": "21:00:00",
         "duration": 60,
         "weekday": "Sun"
+    },
+    {
+        "id": 1938,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-17",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1956,
+        "community": {
+            "id": 30,
+            "name": "ITインフラ集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-09",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "えー",
+            "group_url": "https://vrc.group/INFRA.4469",
+            "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+            "sns_url": "https://x.com/it_infra_meetup",
+            "discord": "https://discord.gg/5KJrhHMBGN",
+            "twitter_hashtag": "#ITインフラ集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+            "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-17",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1855,
+        "community": {
+            "id": 5,
+            "name": "VRCHoudini勉強会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-26",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "tanitta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_fd884689-2a62-474d-af7c-86894644d0b3",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRCHoudini勉強会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/VRC_Logo_banner-1000.jpeg",
+            "description": "VRChatで開催されているHoudiniについての勉強会です。Houdiniをまだよく知らない方から、実際に業務で使用している方まで幅広くご参加いただいています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-18",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "MON"
+    },
+    {
+        "id": 1987,
+        "community": {
+            "id": 76,
+            "name": "AI集会テックWeek",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-26",
+            "start_time": "21:00:00",
+            "duration": 119,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "偶数週",
+            "organizers": "余暇",
+            "group_url": "https://vrc.group/VRCAI.0943",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/AITEChWeek%E7%94%A8-1000-1000-1000-1000.jpeg",
+            "description": "AIに関するVRChat集会です。\r\n技術者向けにコアなAIモデルやフレームワーク談義などを行っています。\r\n\r\n非技術者向けゆる雑談Weekとの隔週交互開催です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-19",
+        "start_time": "21:00:00",
+        "duration": 119,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1963,
+        "community": {
+            "id": 41,
+            "name": "社会科学集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Kuretan・Gipi_3",
+            "group_url": "",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/2JW4kudS3u",
+            "twitter_hashtag": "#社会科学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/socialsciencemeetUp.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-20",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "WED"
+    },
+    {
+        "id": 1872,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-21",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1991,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-21",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週(第1・3・5週)",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-21",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "THU"
+    },
+    {
+        "id": 1904,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-21",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1967,
+        "community": {
+            "id": 42,
+            "name": "VRC歴史集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "セミナー会 ：毎月第一月曜日雑談会：毎月第三水曜日",
+            "organizers": "るいざ・しゃーろっと",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_11111ccd-db54-4ecd-be27-fcae98acf0ee",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRC歴史集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/rekisi.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-21",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1970,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-21",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1862,
+        "community": {
+            "id": 8,
+            "name": "分散SNS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-01-30",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Nawashiro",
+            "group_url": "https://vrc.group/DSNS.7786",
+            "organizer_url": "https://vrchat.com/home/user/usr_17e3ef43-2bc7-4dea-b811-12aa6f163f44",
+            "sns_url": "https://x.com/yineleyici",
+            "discord": "https://discord.gg/4NTwMMMw9P",
+            "twitter_hashtag": "#分散SNS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000_dqGAw8O-1000-1000.jpeg",
+            "description": "普段何気なく使っているSNS。でもその裏側には、様々な工夫や試みが隠されています。そして驚くべきことに、個人でSNSを運営して問題に取り組む人もいるのです。分散SNS集会は、分散SNSにちょっと興味がある人や利用者、運営者が集まって様々な知見を交換し、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場を作ることを目的にしています。あくまで一例ですが、・SNS上の安全のための取り組みについて・コンテンツの責任を誰が持つのか・毒性のあるコンテンツの生成を抑える構造が作れないか…などの話題を提案しています。SNSに関連するお話なら、UI/UXやインフラなども含めて幅広く歓迎しています。話題のMisskeyやBlueskyが気になるという方も、お気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-22",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1886,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-22",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1952,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-22",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1899,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-22",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1931,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-22",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1995,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-13",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-23",
+        "start_time": "21:00:00",
+        "duration": 30,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1918,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-23",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1939,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-24",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1979,
+        "community": {
+            "id": 72,
+            "name": "VRChat物理学集会",
+            "created_at": "2025-03-27",
+            "updated_at": "2025-04-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "さめ（мег-сск）",
+            "group_url": "https://vrc.group/PHYSMU.4859",
+            "organizer_url": "https://vrchat.com/home/user/usr_dbe1941b-8a13-4751-b98d-038648fdc5dc",
+            "sns_url": "https://x.com/VRC_Phys_Meetup",
+            "discord": "https://discord.gg/uJeQkzmv",
+            "twitter_hashtag": "# VRChat物理学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/vrc_phys_meetupposter-1000.jpeg",
+            "description": "わたしたちの身の回りで起こる現象のすべては\r\n物理学によって理解できる(あるいは理解可能と期待されている)と言っても過言ではありません。\r\nしかし普段の生活で、それをじっくり語る機会は少ないと思います。\r\n\r\n「VRChat物理学集会」は、そんな物理好きたちのための集いです。\r\n物理に興味を持ち始めたばかりの人から、\r\n日々物理と格闘してる研究者・技術者まで、\r\nみんなで集まって気軽に物理の話をしましょう！\r\n\r\n力学、電磁気、熱力学、統計力学、流体力学、量子論、相対論、物理学の歴史、最新の研究、ちょっとした雑学ーーどんな話題でもOK！\r\nときには「そもそもって何だっけ？」みたいな問いかけも、ここでは大歓迎です。\r\n\r\n物理の話題で盛り上がれる仲間に、きっと出会えるはず。\r\n\r\nもちろん専門知識は不要！\r\n「宇宙ヤバい！」とか「好きなアニメに物理用語が登場してた！」でも立派な参加理由です！\r\n\r\n重力も、電磁気も、そして人の縁も、すべては相互作用。\r\nこの集会が、物理を愛する人同士を引き寄せ合う力を生じる場になれば嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-24",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1984,
+        "community": {
+            "id": 75,
+            "name": "AI集会ゆる雑談Week",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-26",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週",
+            "organizers": "余暇",
+            "group_url": "https://vrc.group/VRCAI.0943",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/ChatGPT_Image_2025425_18_16_00-1000-1000.jpeg",
+            "description": "AIに関する話題についての集会イベント\r\nこちらは非技術向けゆる雑談Weekの案内です。\r\n日常でAIをどう使える？AIによって世界はどう変わる？\r\nそんな感じの話がメインです。\r\n\r\n技術者向けVRChat-AI集会テック集会もあるよ！",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-26",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1859,
+        "community": {
+            "id": 7,
+            "name": "アバターホビー集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-07-01",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "そむにうむ＠森山",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_e676020e-3c86-42a2-8d34-943e38e9e94c",
+            "sns_url": "https://x.com/Somnium",
+            "discord": "https://discord.com/invite/M3996Mc",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/Poster20240628_001-1000.jpeg",
+            "description": "アバターのフィギュア化を始めをして、メタバース・アバター文化に関する様々なクリエイティブの可能性を語る集会です。\r\nアバターフィギュアや制作物を作ってみたい人・興味のある人・VRChat初心者飲迎します。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-26",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1960,
+        "community": {
+            "id": 37,
+            "name": "化学のおはなし会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Prolin",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_f75d4865-cba7-4039-b501-fcbfb72cd7da",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/hYGVkeraKu",
+            "twitter_hashtag": "#化学のおはなし会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/kagaku.jpeg",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-26",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1976,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-27",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "WED"
+    },
+    {
+        "id": 1873,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-28",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1982,
+        "community": {
+            "id": 73,
+            "name": "怪し火定例会「いろりばたの会」",
+            "created_at": "2025-04-01",
+            "updated_at": "2025-05-15",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月第4週",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#いろりばたの会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E3%81%84%E3%82%8D%E3%82%8A%E3%81%B0%E3%81%9F%E3%81%AE%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E4%BF%AE%E6%AD%A3%E7%89%88-1000.jpeg",
+            "description": "妖怪好き交流所「怪し火-AYASHIBI-」の派生イベント。\r\n\"怪談＆民俗学\"を主題とした雑談や怪談、朗読などを楽しむイベントです。\r\n21時からの雑談では、妖怪や怪談話の考察や、民俗学や文化人類学などの学術的な話題などであてもなくおしゃべりします。\r\n22時からはスタッフによる怪談や朗読が行われます。\r\n怪し火のときとは一味違う雰囲気の中でゆったりくつろぎましょう。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-08-28",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "THU"
+    },
+    {
+        "id": 1905,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-28",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1971,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-28",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1869,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-02",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/vrc_cpu_science",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1887,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1910,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-22",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaiha_HkUL9Ie.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1953,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1900,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1913,
+        "community": {
+            "id": 20,
+            "name": "OSS集会（オープンソースソフトウェア集会）",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-28",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#OSS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/oss-1000.jpeg",
+            "description": "OSS（オープンソースソフトウェア）集会\r\nVRChat用に開発しているシステムのソースコードをみんなで眺めたり、デバッグしたり、意見を出し合う集会です。個人開発集会の跡地を利用するのでエンジニアがたくさん集まってます。\r\nプログラミング好きの方はぜひ遊びに来てね(^^)v",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1915,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1932,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-29",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1996,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-13",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-30",
+        "start_time": "21:00:00",
+        "duration": 30,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1919,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-30",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1936,
+        "community": {
+            "id": 25,
+            "name": "量子力学のたわいのない雑談の会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "第1土曜日、第3土曜日",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://t.co/aLMqxTKrAc",
+            "twitter_hashtag": "#量子力学雑談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ryousirikigaku.jpeg",
+            "description": "量子力学に関連するyoutube動画を参加者で聴講し、雑談する集会です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-31",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1940,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-08-31",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1957,
+        "community": {
+            "id": 30,
+            "name": "ITインフラ集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-09",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "えー",
+            "group_url": "https://vrc.group/INFRA.4469",
+            "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+            "sns_url": "https://x.com/it_infra_meetup",
+            "discord": "https://discord.gg/5KJrhHMBGN",
+            "twitter_hashtag": "#ITインフラ集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+            "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-08-31",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1856,
+        "community": {
+            "id": 5,
+            "name": "VRCHoudini勉強会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-26",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "tanitta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_fd884689-2a62-474d-af7c-86894644d0b3",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRCHoudini勉強会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/VRC_Logo_banner-1000.jpeg",
+            "description": "VRChatで開催されているHoudiniについての勉強会です。Houdiniをまだよく知らない方から、実際に業務で使用している方まで幅広くご参加いただいています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-01",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "MON"
+    },
+    {
+        "id": 1988,
+        "community": {
+            "id": 76,
+            "name": "AI集会テックWeek",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-26",
+            "start_time": "21:00:00",
+            "duration": 119,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "偶数週",
+            "organizers": "余暇",
+            "group_url": "https://vrc.group/VRCAI.0943",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/AITEChWeek%E7%94%A8-1000-1000-1000-1000.jpeg",
+            "description": "AIに関するVRChat集会です。\r\n技術者向けにコアなAIモデルやフレームワーク談義などを行っています。\r\n\r\n非技術者向けゆる雑談Weekとの隔週交互開催です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-02",
+        "start_time": "21:00:00",
+        "duration": 119,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1964,
+        "community": {
+            "id": 41,
+            "name": "社会科学集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Kuretan・Gipi_3",
+            "group_url": "",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/2JW4kudS3u",
+            "twitter_hashtag": "#社会科学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/socialsciencemeetUp.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-09-03",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "WED"
+    },
+    {
+        "id": 1874,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-04",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1992,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-21",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週(第1・3・5週)",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-09-04",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "THU"
+    },
+    {
+        "id": 1906,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-04",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1972,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-04",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1863,
+        "community": {
+            "id": 8,
+            "name": "分散SNS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-01-30",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Nawashiro",
+            "group_url": "https://vrc.group/DSNS.7786",
+            "organizer_url": "https://vrchat.com/home/user/usr_17e3ef43-2bc7-4dea-b811-12aa6f163f44",
+            "sns_url": "https://x.com/yineleyici",
+            "discord": "https://discord.gg/4NTwMMMw9P",
+            "twitter_hashtag": "#分散SNS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E5%88%86%E6%95%A3SNS%E9%9B%86%E4%BC%9A-1000_dqGAw8O-1000-1000.jpeg",
+            "description": "普段何気なく使っているSNS。でもその裏側には、様々な工夫や試みが隠されています。そして驚くべきことに、個人でSNSを運営して問題に取り組む人もいるのです。分散SNS集会は、分散SNSにちょっと興味がある人や利用者、運営者が集まって様々な知見を交換し、新しい技術や話題に触れたり、同じ話題や困難を分かち合い、より高めたり、楽しんだり、癒やされたりする場を作ることを目的にしています。あくまで一例ですが、・SNS上の安全のための取り組みについて・コンテンツの責任を誰が持つのか・毒性のあるコンテンツの生成を抑える構造が作れないか…などの話題を提案しています。SNSに関連するお話なら、UI/UXやインフラなども含めて幅広く歓迎しています。話題のMisskeyやBlueskyが気になるという方も、お気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-05",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1888,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-05",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1954,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-05",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1901,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-05",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1933,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-05",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1997,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-13",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-06",
+        "start_time": "21:00:00",
+        "duration": 30,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1920,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-06",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1941,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-07",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1980,
+        "community": {
+            "id": 72,
+            "name": "VRChat物理学集会",
+            "created_at": "2025-03-27",
+            "updated_at": "2025-04-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "さめ（мег-сск）",
+            "group_url": "https://vrc.group/PHYSMU.4859",
+            "organizer_url": "https://vrchat.com/home/user/usr_dbe1941b-8a13-4751-b98d-038648fdc5dc",
+            "sns_url": "https://x.com/VRC_Phys_Meetup",
+            "discord": "https://discord.gg/uJeQkzmv",
+            "twitter_hashtag": "# VRChat物理学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/vrc_phys_meetupposter-1000.jpeg",
+            "description": "わたしたちの身の回りで起こる現象のすべては\r\n物理学によって理解できる(あるいは理解可能と期待されている)と言っても過言ではありません。\r\nしかし普段の生活で、それをじっくり語る機会は少ないと思います。\r\n\r\n「VRChat物理学集会」は、そんな物理好きたちのための集いです。\r\n物理に興味を持ち始めたばかりの人から、\r\n日々物理と格闘してる研究者・技術者まで、\r\nみんなで集まって気軽に物理の話をしましょう！\r\n\r\n力学、電磁気、熱力学、統計力学、流体力学、量子論、相対論、物理学の歴史、最新の研究、ちょっとした雑学ーーどんな話題でもOK！\r\nときには「そもそもって何だっけ？」みたいな問いかけも、ここでは大歓迎です。\r\n\r\n物理の話題で盛り上がれる仲間に、きっと出会えるはず。\r\n\r\nもちろん専門知識は不要！\r\n「宇宙ヤバい！」とか「好きなアニメに物理用語が登場してた！」でも立派な参加理由です！\r\n\r\n重力も、電磁気も、そして人の縁も、すべては相互作用。\r\nこの集会が、物理を愛する人同士を引き寄せ合う力を生じる場になれば嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-07",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1985,
+        "community": {
+            "id": 75,
+            "name": "AI集会ゆる雑談Week",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-26",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週",
+            "organizers": "余暇",
+            "group_url": "https://vrc.group/VRCAI.0943",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/ChatGPT_Image_2025425_18_16_00-1000-1000.jpeg",
+            "description": "AIに関する話題についての集会イベント\r\nこちらは非技術向けゆる雑談Weekの案内です。\r\n日常でAIをどう使える？AIによって世界はどう変わる？\r\nそんな感じの話がメインです。\r\n\r\n技術者向けVRChat-AI集会テック集会もあるよ！",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-09",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1860,
+        "community": {
+            "id": 7,
+            "name": "アバターホビー集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-07-01",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "そむにうむ＠森山",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_e676020e-3c86-42a2-8d34-943e38e9e94c",
+            "sns_url": "https://x.com/Somnium",
+            "discord": "https://discord.com/invite/M3996Mc",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/Poster20240628_001-1000.jpeg",
+            "description": "アバターのフィギュア化を始めをして、メタバース・アバター文化に関する様々なクリエイティブの可能性を語る集会です。\r\nアバターフィギュアや制作物を作ってみたい人・興味のある人・VRChat初心者飲迎します。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-09",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1961,
+        "community": {
+            "id": 37,
+            "name": "化学のおはなし会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Prolin",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_f75d4865-cba7-4039-b501-fcbfb72cd7da",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/hYGVkeraKu",
+            "twitter_hashtag": "#化学のおはなし会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/kagaku.jpeg",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-09-09",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1977,
+        "community": {
+            "id": 68,
+            "name": "VRC博物喫茶",
+            "created_at": "2025-01-15",
+            "updated_at": "2025-02-01",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "基本的に隔週",
+            "organizers": "モオリス（moris917）",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_640039e5-2cbd-4cec-95d8-1903ab15df99",
+            "sns_url": "https://x.com/forespecs",
+            "discord": "",
+            "twitter_hashtag": "#VRC博物喫茶",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/mira_HKa_3-1000-1000-1000.jpeg",
+            "description": "生物・文化・言語・考古・科学史・産業史などなど…博物学・博物館っぽい事を雑談するイベントです。\r\n博物学っぽい事が好きな方ならどなたでも大歓迎です！奮ってご参加下さい!!",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-09-10",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "WED"
+    },
+    {
+        "id": 1875,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-11",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1907,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-11",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1973,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-11",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1870,
+        "community": {
+            "id": 11,
+            "name": "CS集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-02",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "夜鍋ヨナ",
+            "group_url": "https://vrc.group/CSG.5184",
+            "organizer_url": "https://vrchat.com/home/user/usr_9d1e1319-7d98-4c4a-b532-8b3618b6e274",
+            "sns_url": "https://x.com/vrc_cpu_science",
+            "discord": "https://discord.gg/ZCnUCmncDK",
+            "twitter_hashtag": "#CS集会 #VRC_CS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/cs-1000-1000-1000-1000-1000-1000-1000.jpeg",
+            "description": "コンピュータサイエンスを、話したい！聞きたい！知識を共有したい！広くCSのお話したい人みんなあつまれー!!!!",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1889,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1911,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-22",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaiha_HkUL9Ie.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1955,
+        "community": {
+            "id": 27,
+            "name": "VRC Blender集会(Mimi)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "毎週",
+            "organizers": "Mimi_fbx",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b",
+            "organizer_url": "https://vrchat.com/home/user/usr_93df2a21-958d-4dfd-a38c-89a1300c6d4f",
+            "sns_url": "",
+            "discord": "https://discord.gg/Mz5UuHrv8G",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/VRCBlenderAssembly-1000_j5WWdmg-1000.jpeg",
+            "description": "この集会はBlenderを用いた創作活動をされている方や興味のある方を対象とした雑談メインの集会です！\r\n\r\n開催後30分で集合写真撮影と連絡事項の共有を行い,以降自由解散となりますので10時までのイベントに参加したい方も間に合います.\r\nアフターとして残って話される方も居ますが,イベント開催時と内容は変わりませんので写真撮影後も気兼ねなく参加できます.\r\n\r\nイベント内では雑談から進捗報告,質問や成果物の自慢など様々な話題で行っています.\r\n3DCG方面に明るい方に来ていただいたり,主催の趣味でBlenderから逸れ,3DCGの全般的な雑談をすることもありますのでBlenderは使っていないけど...といった方も楽しめます！\r\n\r\n創作のための刺激がほしい方や,第一歩を踏み出したい方にオススメです！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1902,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1914,
+        "community": {
+            "id": 20,
+            "name": "OSS集会（オープンソースソフトウェア集会）",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-28",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#OSS集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/oss-1000.jpeg",
+            "description": "OSS（オープンソースソフトウェア）集会\r\nVRChat用に開発しているシステムのソースコードをみんなで眺めたり、デバッグしたり、意見を出し合う集会です。個人開発集会の跡地を利用するのでエンジニアがたくさん集まってます。\r\nプログラミング好きの方はぜひ遊びに来てね(^^)v",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1916,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1934,
+        "community": {
+            "id": 23,
+            "name": "Blender＆Unity技術交流会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-11-16",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon",
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "破天荒解",
+            "group_url": "https://vrchat.com/home/group/grp_9665b898-74d9-466c-9f43-5ae88dd1352a",
+            "organizer_url": "",
+            "sns_url": "https://x.com/hatennkoukai",
+            "discord": "",
+            "twitter_hashtag": "#BlenderUnity交流会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
+            "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-12",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
+        "id": 1998,
+        "community": {
+            "id": 79,
+            "name": "VRC Blender集会",
+            "created_at": "2025-06-10",
+            "updated_at": "2025-06-13",
+            "start_time": "21:00:00",
+            "duration": 30,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "毎週",
+            "organizers": "Kakuribbon",
+            "group_url": "https://vrchat.com/home/group/grp_bdb4dfe7-c3f7-4eb9-9ff2-ca7745004c3b/settings",
+            "organizer_url": "https://vrchat.com/home/user/usr_d9c35c7b-ac47-459b-82c1-c581e4ae51bd",
+            "sns_url": "https://x.com/Kakuribbon",
+            "discord": "https://discord.gg/bWJ5mrxUNj",
+            "twitter_hashtag": "#VRCBlender集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/Blender%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "Blender及び3Dモデリングソフトを用いた創作活動をされている方、興味のある方を対象とした雑談メインの集会です。\r\n\r\nイベント開始後30分で集合写真を撮ります。\r\nその後残って相談や雑談を続けている方も多々いるため、インスタンスが開いているならば遅れての参加も歓迎しています。\r\n\r\nイベント内では雑談、進捗報告、成果物を見せびらかす等、日によって何をしているかはまちまちです。\r\nお悩み事や相談事があれば、みなさん相談に乗ってくれる方が非常に多いため、気兼ねなくお越しいただければと思います。\r\n\r\n技術的には3Dモデリングに限らず、アニメーションや外部連携、VRChat用のUnity周りの話といったように、多岐にわたる話題が出てくるため、Blenderを触ったことがない人でも、技術的なお話で楽しめるかもしれません。\r\n\r\nまずは一歩を踏み出してみたい方や、相談したいことがあるけれども誰に聞いたらいいか分からない。そんな方は是非一度お越しください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-13",
+        "start_time": "21:00:00",
+        "duration": 30,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1921,
+        "community": {
+            "id": 22,
+            "name": "エンジニア作業飲み集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-01",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Fri"
+            ],
+            "frequency": "VRChat 毎週",
+            "organizers": "慕狼ゆに",
+            "group_url": "https://vrc.group/VRCEMU.0977",
+            "organizer_url": "",
+            "sns_url": "https://x.com/VRENGAssoc",
+            "discord": "https://discord.gg/zaTjFtDRP7",
+            "twitter_hashtag": "#エンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GodsT4zXgAAAdr9-1000.jpeg",
+            "description": "技術触ってる人が集まって、お酒飲みながら作業したり、ワイワイしたりする集会です! 毎週開催していて、VRChatとclusterで交互に開催しています。イベントの最後には、進捗共有会を開催しています。\r\n\r\nエンジニア作業のみ集会の進捗共有会は、飲んだお酒も進捗に数えて良いゆるい共有会なので、誰でも気軽に自分の話したいことを話ししてOKです！（制限時間1分で床が抜けるようにしているので強制的にオチがつく！安心！）Discord鯖も用意していて、日曜日の朝にはもくもく会が開催されていたり、みんなでワイワイしています。\r\n\r\nVRChatだとPCスペックが足りない、MacBookしか持っていないというエンジニアの人も気軽に参加できるように、隔週でcluster開催もしています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-13",
+        "start_time": "22:00:00",
+        "duration": 90,
+        "weekday": "SAT"
+    },
+    {
+        "id": 1937,
+        "community": {
+            "id": 25,
+            "name": "量子力学のたわいのない雑談の会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-14",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "第1土曜日、第3土曜日",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://t.co/aLMqxTKrAc",
+            "twitter_hashtag": "#量子力学雑談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/ryousirikigaku.jpeg",
+            "description": "量子力学に関連するyoutube動画を参加者で聴講し、雑談する集会です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-14",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1942,
+        "community": {
+            "id": 26,
+            "name": "株式投資座談会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-23",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "Tak1123",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_be14d4ee-4632-417c-ac29-79f593c9cd26",
+            "sns_url": "",
+            "discord": "https://t.co/bZ70vyhL14",
+            "twitter_hashtag": "#VRC株式投資座談会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/stockinvestment-1000-1000-1000__ZhO4Ewt.jpeg",
+            "description": "株式投資、投資信託、FX、暗号通貨、先物オプションなどの金融系投資に興味あるVRchat民が集まり交流をするイベントです(隔週土曜日21:00-)。2021年3月からイベントをスタートし、３年間継続しています。投資初心者から経験者まで幅広い層が参加し、個人投資家としてレベルアップできるように取り組んでいます。\r\n\r\n★イベント前半(21:10-21:35)　\r\n今週の市況分析や個人投資家が知っておいたほうがよい知識について主催者がLTを行います。\r\n\r\n★イベント後半(21:35-21:55)\r\n日本株投資、米国株投資などの分野に分かれ座談会を行います。\r\n\r\n★最後に写真撮影(21:55-22:00)を行いイベントCloseの流れです。\r\n\r\n\r\nーーー注意事項-----\r\n・個別株等の情報が出てきますが、投資を推奨しているものではありません。投資の判断は自己責任でお願いします。\r\n・投資商品等の宣伝、営業、勧誘などの行為はご遠慮ください。\r\n・投資は自己責任でお願いします。投資にかかわるいかなる損害において主催者、参加者は責任をとりません。\r\n・入退場自由。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-14",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1958,
+        "community": {
+            "id": 30,
+            "name": "ITインフラ集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-09",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "えー",
+            "group_url": "https://vrc.group/INFRA.4469",
+            "organizer_url": "https://vrchat.com/home/user/usr_250c66b6-39a7-45cc-91d8-f9eb389ff9c3",
+            "sns_url": "https://x.com/it_infra_meetup",
+            "discord": "https://discord.gg/5KJrhHMBGN",
+            "twitter_hashtag": "#ITインフラ集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/infra-1000.jpeg",
+            "description": "インターネットやWebサービスを使っていて、普段意識することのないインフラ。\r\nでもじつは、VRChatにもインフラの専門家が少なくない人数います。\r\n\r\nインフラ集会では、インフラに興味を持った初心者の疑問解決から同業者のディープな情報交換まで、インフラについての話題を幅広く扱っています。通信、サーバーといった物理層の話題ならお手の物なユーザーと出会えるかもしれません。\r\n\r\n土曜日の開催なのでそのまま朝まで盛り上がることも多々あります。\r\n\r\n自宅にサーバーを置いているマニアックな方だけでなく、もちろん初心者の方も大歓迎！\r\nこの集会がきっかけで初めてサーバーを立ててみた人が何人もいます。\r\n\r\nITインフラに関するハードの話から環境構築、運用の話、悩んでいる問題の解決策、最新の技術や、使っている技術について、一緒に語り合いましょう！\r\n\r\n興味がある方ならどなたでも歓迎ですので、ぜひお気軽にご参加ください。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-14",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "SUN"
+    },
+    {
+        "id": 1857,
+        "community": {
+            "id": 5,
+            "name": "VRCHoudini勉強会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-26",
+            "start_time": "20:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "tanitta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_fd884689-2a62-474d-af7c-86894644d0b3",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRCHoudini勉強会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/VRC_Logo_banner-1000.jpeg",
+            "description": "VRChatで開催されているHoudiniについての勉強会です。Houdiniをまだよく知らない方から、実際に業務で使用している方まで幅広くご参加いただいています。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-15",
+        "start_time": "20:00:00",
+        "duration": 60,
+        "weekday": "MON"
+    },
+    {
+        "id": 1989,
+        "community": {
+            "id": 76,
+            "name": "AI集会テックWeek",
+            "created_at": "2025-04-25",
+            "updated_at": "2025-05-26",
+            "start_time": "21:00:00",
+            "duration": 119,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "偶数週",
+            "organizers": "余暇",
+            "group_url": "https://vrc.group/VRCAI.0943",
+            "organizer_url": "https://vrchat.com/home/user/usr_b0829d80-81db-441f-91e1-f03a389f6cf1",
+            "sns_url": "https://x.com/tarot_AtA",
+            "discord": "https://discord.gg/QbA66TzwpS",
+            "twitter_hashtag": "#VRCAI集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/AITEChWeek%E7%94%A8-1000-1000-1000-1000.jpeg",
+            "description": "AIに関するVRChat集会です。\r\n技術者向けにコアなAIモデルやフレームワーク談義などを行っています。\r\n\r\n非技術者向けゆる雑談Weekとの隔週交互開催です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-16",
+        "start_time": "21:00:00",
+        "duration": 119,
+        "weekday": "TUE"
+    },
+    {
+        "id": 1965,
+        "community": {
+            "id": 41,
+            "name": "社会科学集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "隔週(グループB)",
+            "organizers": "Kuretan・Gipi_3",
+            "group_url": "",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/2JW4kudS3u",
+            "twitter_hashtag": "#社会科学集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/socialsciencemeetUp.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-09-17",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "WED"
+    },
+    {
+        "id": 1876,
+        "community": {
+            "id": 14,
+            "name": "電子工作の興味人と趣味人『EDIY HOBBYIST GATHERING PLACE』に集まろう",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/user/usr_84dbd7e8-4bde-4fe0-ab21-944850e27867",
+            "sns_url": "",
+            "discord": "https://discord.com/invite/25A5q7mDtk",
+            "twitter_hashtag": "#VRC電子工作友の会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/edithobbyist.jpeg",
+            "description": "電子工作の関わる雑談や、自作品紹介、Youtube動画を、皆で観ること。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-18",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1993,
+        "community": {
+            "id": 77,
+            "name": "妖怪好き交流所『怪し火-AYASHIBI-』",
+            "created_at": "2025-05-15",
+            "updated_at": "2025-05-21",
+            "start_time": "21:00:00",
+            "duration": 120,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎月奇数週(第1・3・5週)",
+            "organizers": "相塚松（あいつかまつ）",
+            "group_url": "https://vrc.group/AYASHI.7298",
+            "organizer_url": "https://vrchat.com/home/user/usr_47766639-9928-402a-9897-0b4510f7ff6d",
+            "sns_url": "https://x.com/vrc_ayashibi",
+            "discord": "https://discord.gg/HvDg4HaAvD",
+            "twitter_hashtag": "#VRC怪し火",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E6%80%AA%E3%81%97%E7%81%AB%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "妖怪・怪異・オカルト・怪談・民俗学などに興味がある人たちが集う雑談イベントです。\r\nあまり詳しくなくても興味がある方であれば大歓迎です。",
+            "platform": "PC",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-09-18",
+        "start_time": "21:00:00",
+        "duration": 120,
+        "weekday": "THU"
+    },
+    {
+        "id": 1908,
+        "community": {
+            "id": 15,
+            "name": "ML集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-03-10",
+            "start_time": "21:30:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "げそん≺GesonAnko≻",
+            "group_url": "https://vrc.group/VRCML.9230",
+            "organizer_url": "https://vrchat.com/home/user/usr_781ecade-5bfb-4348-80d4-9862445ea13f",
+            "sns_url": "https://x.com/VRC_ML_hangout",
+            "discord": "https://discord.gg/6rQ2PZTDqa",
+            "twitter_hashtag": "#ML集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/GLNX6u0aMAAaTlq-1000.jpeg",
+            "description": "機械学習（AI）関連でお話しつつ、LTなどをする情報共有会です！\r\n最近のML界隈は成長が速すぎるからみんなで追おう！という思いから生まれました。\r\n現在は自律動作するAIアバターがいたりして... あなたの目の前にいる存在は人ではないかもしれません。 \r\nDiscordもあるのでそちらもぜひ。",
+            "platform": "All",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-09-18",
+        "start_time": "21:30:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1968,
+        "community": {
+            "id": 42,
+            "name": "VRC歴史集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "セミナー会 ：毎月第一月曜日雑談会：毎月第三水曜日",
+            "organizers": "るいざ・しゃーろっと",
+            "group_url": "",
+            "organizer_url": "https://vrchat.com/home/group/grp_11111ccd-db54-4ecd-be27-fcae98acf0ee",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "#VRC歴史集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/rekisi.png",
+            "description": "",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-09-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
+    },
+    {
+        "id": 1974,
+        "community": {
+            "id": 59,
+            "name": "Web技術集会",
+            "created_at": "2024-11-13",
+            "updated_at": "2024-11-15",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Wed"
+            ],
+            "frequency": "毎週",
+            "organizers": "nisshi-dev｜にっし",
+            "group_url": "https://vrc.group/WEBTEC.2591",
+            "organizer_url": "https://vrchat.com/home/user/usr_1ad3bd8e-ff46-4340-9f1c-e2056e26f004",
+            "sns_url": "https://x.com/vrwebtechorg",
+            "discord": "https://discord.gg/umnscaPNcy",
+            "twitter_hashtag": "#Web技術集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/Web%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-1000-1000.jpeg",
+            "description": "バーチャルでWeb技術について気軽に話す/聞くことができる技術系集会イベントです。\r\n\r\nWeb技術勉強中だよ！って初心者の方から、Web技術オタクの方まで、ぜひお気軽にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-09-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "THU"
     }
 ]
