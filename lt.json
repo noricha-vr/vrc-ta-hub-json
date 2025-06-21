@@ -11882,46 +11882,6 @@
         "theme": "蔵本モデルが解き明かすリズムと相転移の秘密　〜拍手のリズムはなぜ揃うのか？〜"
     },
     {
-        "id": 394,
-        "event": {
-            "id": 1543,
-            "community": {
-                "id": 56,
-                "name": "ITエンジニア キャリア相談・雑談集会",
-                "created_at": "2024-10-17",
-                "updated_at": "2024-12-16",
-                "start_time": "21:00:00",
-                "duration": 60,
-                "weekdays": [
-                    "Sun"
-                ],
-                "frequency": "隔週",
-                "organizers": "KAGU3・いとじゅん",
-                "group_url": "https://vrc.group/ITCA.5490",
-                "organizer_url": "https://vrchat.com/home/user/usr_3acc0eaf-be76-4dc0-8542-b51e87e5c5fc",
-                "sns_url": "https://x.com/Kagu3_IT",
-                "discord": "https://discord.gg/UGCjerre",
-                "twitter_hashtag": "#VRC_ITキャリア集会",
-                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/ITCA_poster-1000_A1vtPYd-1000.jpeg",
-                "description": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。",
-                "platform": "All",
-                "tags": [
-                    "tech"
-                ]
-            },
-            "date": "2025-06-15",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekday": "Sun"
-        },
-        "start_time": "21:30:00",
-        "duration": 30,
-        "youtube_url": null,
-        "slide_url": null,
-        "speaker": "やがみん",
-        "theme": "総合力を試される「社内情シス」という働き方"
-    },
-    {
         "id": 393,
         "event": {
             "id": 1551,
@@ -12000,5 +11960,45 @@
         "slide_url": null,
         "speaker": "さめ（meg-ssk)",
         "theme": "個人制作コンテンツの多言語展開のノウハウを全公開！　〜世界に自分を発信しよう！〜"
+    },
+    {
+        "id": 394,
+        "event": {
+            "id": 1543,
+            "community": {
+                "id": 56,
+                "name": "ITエンジニア キャリア相談・雑談集会",
+                "created_at": "2024-10-17",
+                "updated_at": "2024-12-16",
+                "start_time": "21:00:00",
+                "duration": 60,
+                "weekdays": [
+                    "Sun"
+                ],
+                "frequency": "隔週",
+                "organizers": "KAGU3・いとじゅん",
+                "group_url": "https://vrc.group/ITCA.5490",
+                "organizer_url": "https://vrchat.com/home/user/usr_3acc0eaf-be76-4dc0-8542-b51e87e5c5fc",
+                "sns_url": "https://x.com/Kagu3_IT",
+                "discord": "https://discord.gg/UGCjerre",
+                "twitter_hashtag": "#VRC_ITキャリア集会",
+                "poster_image": "https://data.vrc-ta-hub.com/poster/poster/ITCA_poster-1000_A1vtPYd-1000.jpeg",
+                "description": "ITエンジニアやITエンジニアになりたい人が、今後のキャリア形成について相談⁄雑談する集会です。\r\n学生・非エンジニアでもOK。ITエンジニア的な雑談をしにくるでもOK。\r\n\r\nたまにキャリアに関連するLT会（講演会）をします。",
+                "platform": "All",
+                "tags": [
+                    "tech"
+                ]
+            },
+            "date": "2025-06-29",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekday": "Sun"
+        },
+        "start_time": "21:30:00",
+        "duration": 30,
+        "youtube_url": null,
+        "slide_url": null,
+        "speaker": "やがみん",
+        "theme": "総合力を試される「社内情シス」という働き方"
     }
 ]

@@ -1,5 +1,36 @@
 [
     {
+        "id": 1507,
+        "community": {
+            "id": 54,
+            "name": "セキュリティ集会 in VRChat",
+            "created_at": "2024-10-03",
+            "updated_at": "2025-06-19",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sat"
+            ],
+            "frequency": "隔週",
+            "organizers": "@kumama_nui",
+            "group_url": "https://vrchat.com/home/group/grp_19699ea4-5c6c-4dc0-91c8-139c103d863c",
+            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
+            "sns_url": "https://x.com/kumama_nui",
+            "discord": "http://discord.gg/7EReqAK5Tk",
+            "twitter_hashtag": "#SecVRC",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
+            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-06-21",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sat"
+    },
+    {
         "id": 3074,
         "community": {
             "id": 26,
@@ -32,35 +63,35 @@
         "weekday": "SAT"
     },
     {
-        "id": 3125,
+        "id": 1710,
         "community": {
-            "id": 54,
-            "name": "セキュリティ集会 in VRChat",
-            "created_at": "2024-10-03",
-            "updated_at": "2025-06-19",
-            "start_time": "21:00:00",
+            "id": 71,
+            "name": "「計算と自然」集会",
+            "created_at": "2025-03-01",
+            "updated_at": "2025-04-08",
+            "start_time": "22:00:00",
             "duration": 60,
             "weekdays": [
                 "Sat"
             ],
-            "frequency": "隔週",
-            "organizers": "@kumama_nui",
-            "group_url": "https://vrchat.com/home/group/grp_19699ea4-5c6c-4dc0-91c8-139c103d863c",
-            "organizer_url": "https://vrchat.com/home/user/usr_81968443-2026-4373-8359-dfb4e35f1a1b",
-            "sns_url": "https://x.com/kumama_nui",
-            "discord": "http://discord.gg/7EReqAK5Tk",
-            "twitter_hashtag": "#SecVRC",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-1000-1000-1000.jpeg",
-            "description": "セキュリティやCTFの集会です！セキュリティの情報共有を行うことを目的とした集会です！初心者、なんもわからんも大歓迎です。",
+            "frequency": "隔週 (第1第3週)",
+            "organizers": "nconc",
+            "group_url": "https://vrc.group/NAC.8025",
+            "organizer_url": "https://vrchat.com/home/user/usr_27568ff0-4a0d-4029-8891-d6b736511214",
+            "sns_url": "https://twitter.com/nconc",
+            "discord": "https://discord.gg/vUJztKhsgV",
+            "twitter_hashtag": "#計算と自然",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/%E8%A8%88%E7%AE%97%E3%81%A8%E8%87%AA%E7%84%B6%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC2-1000.jpeg",
+            "description": "自然計算は、「自然の中で観察される計算過程と、自然に触発された人為的計算を扱う研究分野」とされています。自然計算について学び、関連する話題を気軽に話し合うことが目的の集会です。\r\n\r\n2025年4月開講の放送大学大学院のラジオ講座 BS531ch「計算と自然'25」という分野を概観する科目と連動しています(テキスト「計算と自然」 (放送大学教材) 各オンライン書店で予約受付中)。\r\n\r\nこの科目の全15回の各回のトピックを第1第3土曜日に日替わりで取り上げていきます(隔週開催のため放送日からは少しずつ遅延します)。議論が盛り上がったら、2回にわたって取り上げるかもしれません。事前に放送を聴いていれば話題に参加しやすいですが、予備知識なしでも問題ないです。\r\n\r\n内容の解説からSF的な雑談まで、自然の中で観察される「変な計算」に少しでも興味がある方はぜひ。",
             "platform": "All",
             "tags": [
-                "tech"
+                "academic"
             ]
         },
         "date": "2025-06-21",
-        "start_time": "21:00:00",
+        "start_time": "22:00:00",
         "duration": 60,
-        "weekday": "SAT"
+        "weekday": "Sat"
     },
     {
         "id": 3084,
@@ -86,37 +117,6 @@
             "platform": "All",
             "tags": [
                 "tech"
-            ]
-        },
-        "date": "2025-06-21",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "SAT"
-    },
-    {
-        "id": 3153,
-        "community": {
-            "id": 71,
-            "name": "「計算と自然」集会",
-            "created_at": "2025-03-01",
-            "updated_at": "2025-04-08",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Sat"
-            ],
-            "frequency": "隔週 (第1第3週)",
-            "organizers": "nconc",
-            "group_url": "https://vrc.group/NAC.8025",
-            "organizer_url": "https://vrchat.com/home/user/usr_27568ff0-4a0d-4029-8891-d6b736511214",
-            "sns_url": "https://twitter.com/nconc",
-            "discord": "https://discord.gg/vUJztKhsgV",
-            "twitter_hashtag": "#計算と自然",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/%E8%A8%88%E7%AE%97%E3%81%A8%E8%87%AA%E7%84%B6%E9%9B%86%E4%BC%9A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC2-1000.jpeg",
-            "description": "自然計算は、「自然の中で観察される計算過程と、自然に触発された人為的計算を扱う研究分野」とされています。自然計算について学び、関連する話題を気軽に話し合うことが目的の集会です。\r\n\r\n2025年4月開講の放送大学大学院のラジオ講座 BS531ch「計算と自然'25」という分野を概観する科目と連動しています(テキスト「計算と自然」 (放送大学教材) 各オンライン書店で予約受付中)。\r\n\r\nこの科目の全15回の各回のトピックを第1第3土曜日に日替わりで取り上げていきます(隔週開催のため放送日からは少しずつ遅延します)。議論が盛り上がったら、2回にわたって取り上げるかもしれません。事前に放送を聴いていれば話題に参加しやすいですが、予備知識なしでも問題ないです。\r\n\r\n内容の解説からSF的な雑談まで、自然の中で観察される「変な計算」に少しでも興味がある方はぜひ。",
-            "platform": "All",
-            "tags": [
-                "academic"
             ]
         },
         "date": "2025-06-21",
@@ -156,7 +156,7 @@
         "weekday": "SUN"
     },
     {
-        "id": 3122,
+        "id": 1525,
         "community": {
             "id": 3,
             "name": "ゲーム開発集会Ⅲ",
@@ -184,7 +184,38 @@
         "date": "2025-06-22",
         "start_time": "21:00:00",
         "duration": 60,
-        "weekday": "SUN"
+        "weekday": "Sun"
+    },
+    {
+        "id": 1512,
+        "community": {
+            "id": 39,
+            "name": "論文紹介集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-10-12",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Mon"
+            ],
+            "frequency": "隔週（グループB）",
+            "organizers": "Alnote_",
+            "group_url": "https://vrc.group/VRPRES.9486",
+            "organizer_url": "https://vrchat.com/home/user/usr_854b415c-dc01-4296-8aee-d91a24859041",
+            "sns_url": "https://x.com/Alnote_",
+            "discord": "https://discord.gg/8ErchaWwXN",
+            "twitter_hashtag": "#論文紹介集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/ryonbun-1000-1000_gw3BVHf.jpeg",
+            "description": "隔週月曜日21:00から、主催の趣味的論文紹介をおこなっています。\r\n範囲はVR系、画像処理系を中心に、幅広く紹介しています。",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-06-23",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Mon"
     },
     {
         "id": 3100,
@@ -215,37 +246,6 @@
         "date": "2025-06-23",
         "start_time": "21:00:00",
         "duration": 119,
-        "weekday": "MON"
-    },
-    {
-        "id": 3133,
-        "community": {
-            "id": 39,
-            "name": "論文紹介集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-10-12",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Mon"
-            ],
-            "frequency": "隔週（グループB）",
-            "organizers": "Alnote_",
-            "group_url": "https://vrc.group/VRPRES.9486",
-            "organizer_url": "https://vrchat.com/home/user/usr_854b415c-dc01-4296-8aee-d91a24859041",
-            "sns_url": "https://x.com/Alnote_",
-            "discord": "https://discord.gg/8ErchaWwXN",
-            "twitter_hashtag": "#論文紹介集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/ryonbun-1000-1000_gw3BVHf.jpeg",
-            "description": "隔週月曜日21:00から、主催の趣味的論文紹介をおこなっています。\r\n範囲はVR系、画像処理系を中心に、幅広く紹介しています。",
-            "platform": "All",
-            "tags": [
-                "academic"
-            ]
-        },
-        "date": "2025-06-23",
-        "start_time": "21:00:00",
-        "duration": 60,
         "weekday": "MON"
     },
     {
@@ -468,7 +468,7 @@
         "weekday": "WED"
     },
     {
-        "id": 3151,
+        "id": 1643,
         "community": {
             "id": 65,
             "name": "仮想学生集会",
@@ -497,10 +497,10 @@
         "date": "2025-06-26",
         "start_time": "20:00:00",
         "duration": 60,
-        "weekday": "THU"
+        "weekday": "Thu"
     },
     {
-        "id": 3128,
+        "id": 1534,
         "community": {
             "id": 18,
             "name": "データサイエンティスト集会",
@@ -528,7 +528,7 @@
         "date": "2025-06-26",
         "start_time": "21:00:00",
         "duration": 90,
-        "weekday": "THU"
+        "weekday": "Thu"
     },
     {
         "id": 3103,
@@ -625,7 +625,7 @@
         "weekday": "FRI"
     },
     {
-        "id": 3137,
+        "id": 1464,
         "community": {
             "id": 28,
             "name": "VRホビーロボット集会",
@@ -653,7 +653,38 @@
         "date": "2025-06-28",
         "start_time": "21:00:00",
         "duration": 60,
-        "weekday": "SAT"
+        "weekday": "Sat"
+    },
+    {
+        "id": 1528,
+        "community": {
+            "id": 60,
+            "name": "VRC Bio Journal RTA",
+            "created_at": "2024-11-17",
+            "updated_at": "2024-11-26",
+            "start_time": "22:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月8のつく日",
+            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
+            "group_url": "https://vrc.group/BIO.2023",
+            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
+            "sns_url": "",
+            "discord": "https://discord.gg/ZjHz6wGkwx",
+            "twitter_hashtag": "#VRCバイオ",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/391f0c21dfcd8b44-1000-1000-1000-1000.jpeg",
+            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
+            "platform": "All",
+            "tags": [
+                "academic"
+            ]
+        },
+        "date": "2025-06-28",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Sun"
     },
     {
         "id": 3095,
@@ -688,38 +719,7 @@
         "weekday": "SAT"
     },
     {
-        "id": 3148,
-        "community": {
-            "id": 60,
-            "name": "VRC Bio Journal RTA",
-            "created_at": "2024-11-17",
-            "updated_at": "2024-11-26",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Other"
-            ],
-            "frequency": "毎月8のつく日",
-            "organizers": "おうむどり / ojiman / 鈴懸リノア / ノシメ (あいうえお順、共同責任)",
-            "group_url": "https://vrc.group/BIO.2023",
-            "organizer_url": "https://vrchat.com/home/user/usr_c472baec-d8ee-4c01-84e7-1260bdb6129f",
-            "sns_url": "",
-            "discord": "https://discord.gg/ZjHz6wGkwx",
-            "twitter_hashtag": "#VRCバイオ",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/391f0c21dfcd8b44-1000-1000-1000-1000.jpeg",
-            "description": "普段読めない生物系論文をだいたい30分くらいで理解しちゃう #VRCバイオ  ! \r\n医学生物学系のオープンアクセス (いわゆるCCライセンス) の論文をみんなで読むという集会を\r\n毎月8のつく日にやってます！\r\n話を聞きたいだけ、見てみたいだけという人も大歓迎！\r\n毎回遅くても前日には次読む論文を共有しているため、興味がある内容の時だけでも良かったぜひ！\r\n読みたい/読んでほしい論文があったらDiscordまで相談に来てもらえると嬉しいです！",
-            "platform": "All",
-            "tags": [
-                "academic"
-            ]
-        },
-        "date": "2025-06-28",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "SAT"
-    },
-    {
-        "id": 3115,
+        "id": 1543,
         "community": {
             "id": 56,
             "name": "ITエンジニア キャリア相談・雑談集会",
@@ -747,7 +747,34 @@
         "date": "2025-06-29",
         "start_time": "21:00:00",
         "duration": 60,
-        "weekday": "SUN"
+        "weekday": "Sun"
+    },
+    {
+        "id": 2000,
+        "community": {
+            "id": 31,
+            "name": "シェーダー集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-06-13",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [],
+            "frequency": "隔週(グループA)",
+            "organizers": "Nunu_3060",
+            "group_url": "",
+            "organizer_url": "",
+            "sns_url": "",
+            "discord": "",
+            "twitter_hashtag": "",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster-1000_Y03czl4-1000-1000-1000-1000-1000.jpeg",
+            "description": "",
+            "platform": "PC",
+            "tags": []
+        },
+        "date": "2025-06-30",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": ""
     },
     {
         "id": 3098,
@@ -779,33 +806,6 @@
         "date": "2025-06-30",
         "start_time": "21:00:00",
         "duration": 120,
-        "weekday": "MON"
-    },
-    {
-        "id": 3107,
-        "community": {
-            "id": 31,
-            "name": "シェーダー集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-06-13",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [],
-            "frequency": "隔週(グループA)",
-            "organizers": "Nunu_3060",
-            "group_url": "",
-            "organizer_url": "",
-            "sns_url": "",
-            "discord": "",
-            "twitter_hashtag": "",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster-1000_Y03czl4-1000-1000-1000-1000-1000.jpeg",
-            "description": "",
-            "platform": "PC",
-            "tags": []
-        },
-        "date": "2025-06-30",
-        "start_time": "21:00:00",
-        "duration": 60,
         "weekday": "MON"
     },
     {
@@ -1153,7 +1153,7 @@
         "weekday": "THU"
     },
     {
-        "id": 3135,
+        "id": 1565,
         "community": {
             "id": 21,
             "name": "分解技術集会",
@@ -1181,7 +1181,7 @@
         "date": "2025-07-03",
         "start_time": "22:30:00",
         "duration": 30,
-        "weekday": "THU"
+        "weekday": "Thu"
     },
     {
         "id": 3104,
@@ -1933,6 +1933,37 @@
         "weekday": "THU"
     },
     {
+        "id": 1511,
+        "community": {
+            "id": 2,
+            "name": "技術オタク交流会 (Tech Geek Cafe)",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-06-17",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Sun"
+            ],
+            "frequency": "第2日曜日",
+            "organizers": "digiponta",
+            "group_url": "",
+            "organizer_url": "https://discord.gg/ECQ8k63CFk",
+            "sns_url": "",
+            "discord": "https://discord.gg/ECQ8k63CFk",
+            "twitter_hashtag": "#TechGeekCafe",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/tachgeekcafe-1000.jpeg",
+            "description": "若手技術者と高齢技術者の交流/BOF/井戸端会議の場の提供。基本は、任意参加、任意解散です。お時間はある方、ご参加ください。参加条件：        自称技術オタクの方か、オタク技術に興味のある方",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-11",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Sun"
+    },
+    {
         "id": 3105,
         "community": {
             "id": 79,
@@ -1964,35 +1995,67 @@
         "weekday": "FRI"
     },
     {
-        "id": 3132,
+        "id": 1519,
         "community": {
-            "id": 2,
-            "name": "技術オタク交流会 (Tech Geek Cafe)",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-06-17",
-            "start_time": "21:00:00",
+            "id": 62,
+            "name": "VRChatデザイン集会",
+            "created_at": "2024-12-18",
+            "updated_at": "2025-01-04",
+            "start_time": "22:00:00",
             "duration": 60,
             "weekdays": [
-                "Sun"
+                "Tue"
             ],
-            "frequency": "第2日曜日",
-            "organizers": "digiponta",
-            "group_url": "",
-            "organizer_url": "https://discord.gg/ECQ8k63CFk",
+            "frequency": "毎月第2火曜",
+            "organizers": "D.Na｜だな",
+            "group_url": "https://vrc.group/DESIGN.5534",
+            "organizer_url": "https://vrchat.com/home/user/usr_870a4584-a0f3-4715-9c08-78fd60eb252b",
+            "sns_url": "https://x.com/D_Na_mi3",
+            "discord": "https://discord.gg/s6JhuGjZpp",
+            "twitter_hashtag": "#VRCデザイン集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/2412design_pos2048-1000-1000.jpeg",
+            "description": "VRChatデザイン集会は、デザインのあれこれについて気軽に話せるイベントです。\r\nなんらかのデザインをつくっている人はもちろん、デザインの依頼を考えている方、デザインのことが気になるという方など、どなたでもご自由にご参加ください。",
+            "platform": "PC",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-11",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
+        "id": 1532,
+        "community": {
+            "id": 35,
+            "name": "UIUXデザイン集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-10",
+            "start_time": "22:00:00",
+            "duration": 80,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "毎月11日",
+            "organizers": "kurone-kito",
+            "group_url": "https://vrc.group/KITO.5699",
+            "organizer_url": "",
             "sns_url": "",
-            "discord": "https://discord.gg/ECQ8k63CFk",
-            "twitter_hashtag": "#TechGeekCafe",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/tachgeekcafe-1000.jpeg",
-            "description": "若手技術者と高齢技術者の交流/BOF/井戸端会議の場の提供。基本は、任意参加、任意解散です。お時間はある方、ご参加ください。参加条件：        自称技術オタクの方か、オタク技術に興味のある方",
+            "discord": "https://discord.gg/hM5dpGaWgB",
+            "twitter_hashtag": "#UIUXデザイン集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/uiux-1000.jpeg",
+            "description": "Webで！ゲームで！業務システムで！皆さんの経験したクソUI・神UIなお話を飲み会感覚でお気軽にお聞かせください！",
             "platform": "All",
             "tags": [
                 "tech"
             ]
         },
         "date": "2025-07-11",
-        "start_time": "21:00:00",
+        "start_time": "22:00:00",
         "duration": 60,
-        "weekday": "FRI"
+        "weekday": "Wed"
     },
     {
         "id": 3067,
@@ -2048,69 +2111,6 @@
             "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
             "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
             "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-07-11",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "FRI"
-    },
-    {
-        "id": 3118,
-        "community": {
-            "id": 62,
-            "name": "VRChatデザイン集会",
-            "created_at": "2024-12-18",
-            "updated_at": "2025-01-04",
-            "start_time": "22:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "毎月第2火曜",
-            "organizers": "D.Na｜だな",
-            "group_url": "https://vrc.group/DESIGN.5534",
-            "organizer_url": "https://vrchat.com/home/user/usr_870a4584-a0f3-4715-9c08-78fd60eb252b",
-            "sns_url": "https://x.com/D_Na_mi3",
-            "discord": "https://discord.gg/s6JhuGjZpp",
-            "twitter_hashtag": "#VRCデザイン集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/2412design_pos2048-1000-1000.jpeg",
-            "description": "VRChatデザイン集会は、デザインのあれこれについて気軽に話せるイベントです。\r\nなんらかのデザインをつくっている人はもちろん、デザインの依頼を考えている方、デザインのことが気になるという方など、どなたでもご自由にご参加ください。",
-            "platform": "PC",
-            "tags": [
-                "tech",
-                "academic"
-            ]
-        },
-        "date": "2025-07-11",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "FRI"
-    },
-    {
-        "id": 3138,
-        "community": {
-            "id": 35,
-            "name": "UIUXデザイン集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-04-10",
-            "start_time": "22:00:00",
-            "duration": 80,
-            "weekdays": [
-                "Other"
-            ],
-            "frequency": "毎月11日",
-            "organizers": "kurone-kito",
-            "group_url": "https://vrc.group/KITO.5699",
-            "organizer_url": "",
-            "sns_url": "",
-            "discord": "https://discord.gg/hM5dpGaWgB",
-            "twitter_hashtag": "#UIUXデザイン集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/uiux-1000.jpeg",
-            "description": "Webで！ゲームで！業務システムで！皆さんの経験したクソUI・神UIなお話を飲み会感覚でお気軽にお聞かせください！",
-            "platform": "All",
             "tags": [
                 "tech"
             ]
@@ -2493,6 +2493,37 @@
         "weekday": "WED"
     },
     {
+        "id": 3176,
+        "community": {
+            "id": 19,
+            "name": "個人開発集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2025-04-22",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Thu"
+            ],
+            "frequency": "隔週(グループA)",
+            "organizers": "のりちゃん",
+            "group_url": "https://vrc.group/KKS.7293",
+            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
+            "sns_url": "https://x.com/noricha_vr",
+            "discord": "https://discord.gg/k8FPwtZ4fs",
+            "twitter_hashtag": "#個人開発集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaiha_HkUL9Ie.jpeg",
+            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
+            "platform": "All",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-16",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "Wed"
+    },
+    {
         "id": 3059,
         "community": {
             "id": 15,
@@ -2585,37 +2616,6 @@
         "start_time": "22:00:00",
         "duration": 60,
         "weekday": "WED"
-    },
-    {
-        "id": 3061,
-        "community": {
-            "id": 19,
-            "name": "個人開発集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2025-04-22",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Thu"
-            ],
-            "frequency": "隔週(グループA)",
-            "organizers": "のりちゃん",
-            "group_url": "https://vrc.group/KKS.7293",
-            "organizer_url": "https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad",
-            "sns_url": "https://x.com/noricha_vr",
-            "discord": "https://discord.gg/k8FPwtZ4fs",
-            "twitter_hashtag": "#個人開発集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/poster/kojinkaiha_HkUL9Ie.jpeg",
-            "description": "個人開発にまつわる話でワイワイする集会です。\r\n個人開発をやっている方も初めてみたい方も大歓迎！ \r\n企画・技術・マーケティング・保守・運用など 技術的なことに限らない幅広い分野を想定しています。 \r\n個人開発に興味がある方はぜひ遊びに来てください！",
-            "platform": "All",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-07-17",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "THU"
     },
     {
         "id": 3063,
@@ -2711,6 +2711,37 @@
         "weekday": "FRI"
     },
     {
+        "id": 212,
+        "community": {
+            "id": 12,
+            "name": "WEB フロントエンド エンジニア集会",
+            "created_at": "2024-06-05",
+            "updated_at": "2024-08-25",
+            "start_time": "22:00:00",
+            "duration": 90,
+            "weekdays": [
+                "Tue"
+            ],
+            "frequency": "第3週のみ",
+            "organizers": "みゅーとん",
+            "group_url": "https://vrc.group/FEJP.7199",
+            "organizer_url": "https://bento.me/mewton",
+            "sns_url": "https://bsky.app/profile/mewton.jp",
+            "discord": "",
+            "twitter_hashtag": "#VRChatフロントエンドエンジニア集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/a3_vertical-1000.jpeg",
+            "description": "# 概要\r\n\r\nWEB フロントエンドの技術領域について, 興味関心のある人で集まりましょう。\r\n\r\n仕事の愚痴, 知見の共有など, 話題は何でもOKです！\r\n\r\n \r\n\r\nまた, 参加条件として, 開発経験の有無は問いません。\r\n\r\nこれからフロントエンド開発を経験してみたい人も, ぜひご参加ください！\r\n\r\n# 詳細\r\n## スケジュール\r\n\r\n毎月 第 3 火曜日 22:00 ~\r\n\r\n## タイムテーブル\r\n \r\n- 22:00 .. 会場オープン\r\n- 22:50 .. 記念撮影\r\n- 23:00 .. LT\r\n- LT 終了後 .. 自由解散\r\n\r\n## キーワード\r\n\r\n以下のキーワードを本イベントはサポートしています. (主催が完全に把握していない技術も多数あります)\r\nまた, これに限らず, 類似の技術についてはサポート対象としています.\r\n\r\n### 言語系\r\n\r\nHTML, CSS, JavaScript, TypeScript, Ruby, Java, Perl, Rust, Kotlin, Elm, Flutter, PHP\r\n\r\n### JS ライブラリ / フレームワーク系\r\n \r\njQuery, Angular, React, Vue.js, Solid.js, Svelte, Next.js, Nuxt, SvelteKit, SolidStart, qwik, fresh, Remix, Astro\r\n\r\n### 非 JS フレームワーク系\r\n \r\nSpring, Ruby on Rails, Rocket, Apache Struts, CakePHP, Hugo, jekyll\r\n\r\n### ネイティブアプリ系\r\n\r\nReact Native, Electron, Tauri\r\n\r\n### その他ライブラリ系\r\n\r\nBrowserify, Webpack, Vite, Rollup, ESBuild\r\njest, karma, power-assert, jasmine, vitest\r\nplaywright, selenuim, mabl, autify, testim\r\n\r\n### CSS フレームワーク系\r\n \r\nBootstrap, TailwindCSS, Bruma\r\n\r\n### ブラウザ系\r\n \r\nChromium, Firefox, Servo\r\n\r\n### 概念系\r\n\r\na11y, e18e, SSR, CSR, SSG, ISR\r\n\r\n# 参加方法\r\n\r\nイベント会場は VRC Group \"WEB フロントエンド エンジニア集会\" の Group+ インスタンスで開かれます.\r\nイベント参加前に, グループに参加するか, 主催の \"みゅーとん\" にフレンド申請を送ってください.\r\n\r\n# その他\r\n \r\n会場には sliden を設置しています.\r\nLT したいネタがあれば, 23:00 からの LT タイムで時間を設けます.\r\n\r\n事前にご相談ください.\r\n \r\nまた, 採用活動の一環として本イベントを利用することに制限を設けていません.\r\n採用活動としてイベントを利用したい場合も, 事前にご相談ください.",
+            "platform": "PC",
+            "tags": [
+                "tech"
+            ]
+        },
+        "date": "2025-07-18",
+        "start_time": "22:00:00",
+        "duration": 60,
+        "weekday": "Tue"
+    },
+    {
         "id": 3068,
         "community": {
             "id": 22,
@@ -2763,37 +2794,6 @@
             "twitter_hashtag": "#BlenderUnity交流会",
             "poster_image": "https://data.vrc-ta-hub.com/poster/%E6%8A%80%E8%A1%93%E9%9B%86%E4%BC%9A%E9%9B%91%E8%AA%8C-1000_GkdvFCh.jpeg",
             "description": "自作アバター、アクセサリー、衣装などの制作者同士で交流を深めたい方や雑談したい方！！ 自作アバターで趣味が合う人を探したい方！！",
-            "platform": "PC",
-            "tags": [
-                "tech"
-            ]
-        },
-        "date": "2025-07-18",
-        "start_time": "22:00:00",
-        "duration": 60,
-        "weekday": "FRI"
-    },
-    {
-        "id": 3120,
-        "community": {
-            "id": 12,
-            "name": "WEB フロントエンド エンジニア集会",
-            "created_at": "2024-06-05",
-            "updated_at": "2024-08-25",
-            "start_time": "22:00:00",
-            "duration": 90,
-            "weekdays": [
-                "Tue"
-            ],
-            "frequency": "第3週のみ",
-            "organizers": "みゅーとん",
-            "group_url": "https://vrc.group/FEJP.7199",
-            "organizer_url": "https://bento.me/mewton",
-            "sns_url": "https://bsky.app/profile/mewton.jp",
-            "discord": "",
-            "twitter_hashtag": "#VRChatフロントエンドエンジニア集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/a3_vertical-1000.jpeg",
-            "description": "# 概要\r\n\r\nWEB フロントエンドの技術領域について, 興味関心のある人で集まりましょう。\r\n\r\n仕事の愚痴, 知見の共有など, 話題は何でもOKです！\r\n\r\n \r\n\r\nまた, 参加条件として, 開発経験の有無は問いません。\r\n\r\nこれからフロントエンド開発を経験してみたい人も, ぜひご参加ください！\r\n\r\n# 詳細\r\n## スケジュール\r\n\r\n毎月 第 3 火曜日 22:00 ~\r\n\r\n## タイムテーブル\r\n \r\n- 22:00 .. 会場オープン\r\n- 22:50 .. 記念撮影\r\n- 23:00 .. LT\r\n- LT 終了後 .. 自由解散\r\n\r\n## キーワード\r\n\r\n以下のキーワードを本イベントはサポートしています. (主催が完全に把握していない技術も多数あります)\r\nまた, これに限らず, 類似の技術についてはサポート対象としています.\r\n\r\n### 言語系\r\n\r\nHTML, CSS, JavaScript, TypeScript, Ruby, Java, Perl, Rust, Kotlin, Elm, Flutter, PHP\r\n\r\n### JS ライブラリ / フレームワーク系\r\n \r\njQuery, Angular, React, Vue.js, Solid.js, Svelte, Next.js, Nuxt, SvelteKit, SolidStart, qwik, fresh, Remix, Astro\r\n\r\n### 非 JS フレームワーク系\r\n \r\nSpring, Ruby on Rails, Rocket, Apache Struts, CakePHP, Hugo, jekyll\r\n\r\n### ネイティブアプリ系\r\n\r\nReact Native, Electron, Tauri\r\n\r\n### その他ライブラリ系\r\n\r\nBrowserify, Webpack, Vite, Rollup, ESBuild\r\njest, karma, power-assert, jasmine, vitest\r\nplaywright, selenuim, mabl, autify, testim\r\n\r\n### CSS フレームワーク系\r\n \r\nBootstrap, TailwindCSS, Bruma\r\n\r\n### ブラウザ系\r\n \r\nChromium, Firefox, Servo\r\n\r\n### 概念系\r\n\r\na11y, e18e, SSR, CSR, SSG, ISR\r\n\r\n# 参加方法\r\n\r\nイベント会場は VRC Group \"WEB フロントエンド エンジニア集会\" の Group+ インスタンスで開かれます.\r\nイベント参加前に, グループに参加するか, 主催の \"みゅーとん\" にフレンド申請を送ってください.\r\n\r\n# その他\r\n \r\n会場には sliden を設置しています.\r\nLT したいネタがあれば, 23:00 からの LT タイムで時間を設けます.\r\n\r\n事前にご相談ください.\r\n \r\nまた, 採用活動の一環として本イベントを利用することに制限を設けていません.\r\n採用活動としてイベントを利用したい場合も, 事前にご相談ください.",
             "platform": "PC",
             "tags": [
                 "tech"
@@ -2991,6 +2991,38 @@
         "weekday": "SUN"
     },
     {
+        "id": 2430,
+        "community": {
+            "id": 50,
+            "name": "分散システム集会",
+            "created_at": "2024-07-19",
+            "updated_at": "2024-08-07",
+            "start_time": "21:00:00",
+            "duration": 60,
+            "weekdays": [
+                "Other"
+            ],
+            "frequency": "月1",
+            "organizers": "honahuku, bootjp",
+            "group_url": "https://vrchat.com/home/group/grp_9fea14e3-7903-476e-a5b9-4cab7e5adc43",
+            "organizer_url": "https://x.com/honahuku_vrc",
+            "sns_url": "https://x.com/distributesys",
+            "discord": "https://t.co/DiVOz58oZO",
+            "twitter_hashtag": "#分散システム集会",
+            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/561ce2c1aa1f0dd132ada9474d306e1d-1000_RRhZf5U-1000.jpeg",
+            "description": "主にVRChat上で分散システムに関する集会を行っています",
+            "platform": "PC",
+            "tags": [
+                "tech",
+                "academic"
+            ]
+        },
+        "date": "2025-07-20",
+        "start_time": "21:00:00",
+        "duration": 60,
+        "weekday": "FRI"
+    },
+    {
         "id": 3124,
         "community": {
             "id": 3,
@@ -3043,38 +3075,6 @@
             "poster_image": "https://data.vrc-ta-hub.com/poster/poster/poster/poster/VR%E7%A0%94%E7%A9%B6Cafe-1000-1000-1000-1000.jpeg",
             "description": "VR研究について雑談する集会です！広くVR研究に関連する技術やトピックについてもお話しています。",
             "platform": "All",
-            "tags": [
-                "tech",
-                "academic"
-            ]
-        },
-        "date": "2025-07-20",
-        "start_time": "21:00:00",
-        "duration": 60,
-        "weekday": "SUN"
-    },
-    {
-        "id": 3144,
-        "community": {
-            "id": 50,
-            "name": "分散システム集会",
-            "created_at": "2024-07-19",
-            "updated_at": "2024-08-07",
-            "start_time": "21:00:00",
-            "duration": 60,
-            "weekdays": [
-                "Other"
-            ],
-            "frequency": "月1",
-            "organizers": "honahuku, bootjp",
-            "group_url": "https://vrchat.com/home/group/grp_9fea14e3-7903-476e-a5b9-4cab7e5adc43",
-            "organizer_url": "https://x.com/honahuku_vrc",
-            "sns_url": "https://x.com/distributesys",
-            "discord": "https://t.co/DiVOz58oZO",
-            "twitter_hashtag": "#分散システム集会",
-            "poster_image": "https://data.vrc-ta-hub.com/poster/poster/561ce2c1aa1f0dd132ada9474d306e1d-1000_RRhZf5U-1000.jpeg",
-            "description": "主にVRChat上で分散システムに関する集会を行っています",
-            "platform": "PC",
             "tags": [
                 "tech",
                 "academic"
